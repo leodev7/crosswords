@@ -1,0 +1,465 @@
+{
+  "date": "2026-02-08",
+  "level": "daily",
+  "dimensions": {
+    "width": 11,
+    "height": 11
+  },
+  "puzzle": [
+    [
+      1,
+      2,
+      3,
+      4,
+      5,
+      "#",
+      "#",
+      6,
+      7,
+      8,
+      9
+    ],
+    [
+      10,
+      ":",
+      ":",
+      ":",
+      ":",
+      "#",
+      11,
+      ":",
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      12,
+      ":",
+      ":",
+      ":",
+      ":",
+      13,
+      ":",
+      ":",
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      14,
+      ":",
+      ":",
+      ":",
+      "#",
+      15,
+      ":",
+      ":",
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      16,
+      ":",
+      ":",
+      "#",
+      17,
+      ":",
+      ":",
+      ":",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      18,
+      ":",
+      ":",
+      19,
+      ":",
+      ":",
+      ":",
+      ":",
+      20,
+      21,
+      22
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      23,
+      ":",
+      ":",
+      ":",
+      "#",
+      24,
+      ":",
+      ":"
+    ],
+    [
+      25,
+      26,
+      27,
+      ":",
+      ":",
+      ":",
+      "#",
+      28,
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      29,
+      ":",
+      ":",
+      ":",
+      ":",
+      ":",
+      30,
+      ":",
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      31,
+      ":",
+      ":",
+      ":",
+      ":",
+      "#",
+      32,
+      ":",
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      33,
+      ":",
+      ":",
+      ":",
+      "#",
+      "#",
+      34,
+      ":",
+      ":",
+      ":",
+      ":"
+    ]
+  ],
+  "solution": [
+    [
+      "A",
+      "D",
+      "A",
+      "M",
+      "S",
+      "#",
+      "#",
+      "H",
+      "E",
+      "R",
+      "A"
+    ],
+    [
+      "S",
+      "O",
+      "M",
+      "O",
+      "U",
+      "#",
+      "J",
+      "A",
+      "S",
+      "O",
+      "N"
+    ],
+    [
+      "T",
+      "R",
+      "A",
+      "N",
+      "S",
+      "L",
+      "A",
+      "D",
+      "A",
+      "D",
+      "O"
+    ],
+    [
+      "R",
+      "E",
+      "Z",
+      "A",
+      "#",
+      "A",
+      "R",
+      "D",
+      "U",
+      "A",
+      "S"
+    ],
+    [
+      "O",
+      "M",
+      "O",
+      "#",
+      "M",
+      "U",
+      "D",
+      "A",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      "S",
+      "I",
+      "N",
+      "C",
+      "E",
+      "R",
+      "I",
+      "D",
+      "A",
+      "D",
+      "E"
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      "E",
+      "N",
+      "E",
+      "M",
+      "#",
+      "V",
+      "I",
+      "S"
+    ],
+    [
+      "A",
+      "C",
+      "E",
+      "I",
+      "T",
+      "A",
+      "#",
+      "M",
+      "A",
+      "S",
+      "P"
+    ],
+    [
+      "P",
+      "E",
+      "R",
+      "F",
+      "O",
+      "R",
+      "M",
+      "A",
+      "N",
+      "C",
+      "E"
+    ],
+    [
+      "P",
+      "O",
+      "M",
+      "A",
+      "R",
+      "#",
+      "A",
+      "L",
+      "Ç",
+      "A",
+      "R"
+    ],
+    [
+      "S",
+      "U",
+      "A",
+      "M",
+      "#",
+      "#",
+      "S",
+      "A",
+      "A",
+      "R",
+      "A"
+    ]
+  ],
+  "clues": {
+    "Down": [
+      [
+        1,
+        "Atores de grande fama"
+      ],
+      [
+        2,
+        "As primeiras notas musicais (3 palavras)"
+      ],
+      [
+        3,
+        "Gigante do comércio pela internet"
+      ],
+      [
+        4,
+        "'___ Lisa', obra de Da Vinci"
+      ],
+      [
+        5,
+        "Sistema de saúde criado em 1988"
+      ],
+      [
+        6,
+        "Prefeito de São Paulo em 2015"
+      ],
+      [
+        7,
+        "Vendeu seu direito a primogenitura por um prato de lentilhas (Bíbl.)"
+      ],
+      [
+        8,
+        "Grupo de pessoas em círculo"
+      ],
+      [
+        9,
+        "'50 ___ em 5', slogan de JK"
+      ],
+      [
+        11,
+        "Terreno onde se cultivam flores"
+      ],
+      [
+        13,
+        "Coroar de louros"
+      ],
+      [
+        17,
+        "Guia intelectual"
+      ],
+      [
+        19,
+        "Cortam as ervas com a foice"
+      ],
+      [
+        20,
+        "Progride"
+      ],
+      [
+        21,
+        "Verbo ligado a telefones antigos"
+      ],
+      [
+        22,
+        "Dá tempo ao tempo"
+      ],
+      [
+        25,
+        "Programas para celulares e tablets (ing.)"
+      ],
+      [
+        26,
+        "Comeu a última refeição do dia"
+      ],
+      [
+        27,
+        "Deserta, desabitada"
+      ],
+      [
+        28,
+        "Objeto do viajante"
+      ],
+      [
+        30,
+        "As condições da casa em ruínas"
+      ]
+    ],
+    "Across": [
+      [
+        1,
+        "Douglas ___, autor do 'Guia do Mochileiro das Galáxias'"
+      ],
+      [
+        6,
+        "Rainha dos deuses, na mitologia grega"
+      ],
+      [
+        10,
+        "Fez uma adição"
+      ],
+      [
+        11,
+        "Personagem que usa uma máscara de hóquei"
+      ],
+      [
+        12,
+        "Transferido para outro lugar"
+      ],
+      [
+        14,
+        "Prece"
+      ],
+      [
+        15,
+        "Como as tarefas difíceis"
+      ],
+      [
+        16,
+        "Concorrente do Comfort e do Surf"
+      ],
+      [
+        17,
+        "A letra que não é pronunciada"
+      ],
+      [
+        18,
+        "Não deve ser esperada de um mentiroso"
+      ],
+      [
+        23,
+        "Exame nacional que exige uma redação"
+      ],
+      [
+        24,
+        "Sórdidos, indignos"
+      ],
+      [
+        25,
+        "Topa"
+      ],
+      [
+        28,
+        "Museu fundado por Assis Chateaubriand"
+      ],
+      [
+        29,
+        "É ensaiada pelo artista circense"
+      ],
+      [
+        31,
+        "Plantação frutífera"
+      ],
+      [
+        32,
+        "Erguer"
+      ],
+      [
+        33,
+        "Transpiram"
+      ],
+      [
+        34,
+        "Deserto no qual está localizada a cidade de Gardaia"
+      ]
+    ]
+  },
+  "empty": ":"
+}

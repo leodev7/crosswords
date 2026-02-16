@@ -1,0 +1,457 @@
+{
+  "date": "2026-01-21",
+  "level": "daily",
+  "dimensions": {
+    "width": 11,
+    "height": 11
+  },
+  "puzzle": [
+    [
+      1,
+      2,
+      3,
+      4,
+      5,
+      "#",
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    [
+      11,
+      ":",
+      ":",
+      ":",
+      ":",
+      "#",
+      12,
+      ":",
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      13,
+      ":",
+      ":",
+      ":",
+      ":",
+      "#",
+      14,
+      ":",
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      15,
+      ":",
+      ":",
+      ":",
+      ":",
+      16,
+      ":",
+      ":",
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      17,
+      ":",
+      ":",
+      ":",
+      "#",
+      18,
+      ":",
+      ":",
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      19,
+      20,
+      ":",
+      ":",
+      ":",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      21,
+      22,
+      23,
+      ":",
+      ":",
+      ":",
+      "#",
+      24,
+      25,
+      26,
+      27
+    ],
+    [
+      28,
+      ":",
+      ":",
+      ":",
+      ":",
+      ":",
+      29,
+      ":",
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      30,
+      ":",
+      ":",
+      ":",
+      ":",
+      "#",
+      31,
+      ":",
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      32,
+      ":",
+      ":",
+      ":",
+      ":",
+      "#",
+      33,
+      ":",
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      34,
+      ":",
+      ":",
+      ":",
+      ":",
+      "#",
+      35,
+      ":",
+      ":",
+      ":",
+      ":"
+    ]
+  ],
+  "solution": [
+    [
+      "A",
+      "T",
+      "I",
+      "V",
+      "A",
+      "#",
+      "S",
+      "A",
+      "B",
+      "O",
+      "R"
+    ],
+    [
+      "B",
+      "A",
+      "T",
+      "E",
+      "M",
+      "#",
+      "P",
+      "R",
+      "A",
+      "D",
+      "O"
+    ],
+    [
+      "A",
+      "T",
+      "E",
+      "I",
+      "A",
+      "#",
+      "E",
+      "R",
+      "R",
+      "E",
+      "S"
+    ],
+    [
+      "D",
+      "I",
+      "N",
+      "O",
+      "S",
+      "S",
+      "A",
+      "U",
+      "R",
+      "O",
+      "S"
+    ],
+    [
+      "E",
+      "L",
+      "S",
+      "A",
+      "#",
+      "A",
+      "R",
+      "M",
+      "A",
+      "N",
+      "I"
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      "C",
+      "O",
+      "I",
+      "S",
+      "A",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      "M",
+      "A",
+      "R",
+      "A",
+      "C",
+      "A",
+      "#",
+      "D",
+      "U",
+      "A",
+      "L"
+    ],
+    [
+      "A",
+      "D",
+      "O",
+      "L",
+      "E",
+      "S",
+      "C",
+      "E",
+      "N",
+      "T",
+      "E"
+    ],
+    [
+      "S",
+      "I",
+      "N",
+      "H",
+      "A",
+      "#",
+      "R",
+      "I",
+      "T",
+      "O",
+      "S"
+    ],
+    [
+      "S",
+      "E",
+      "D",
+      "A",
+      "N",
+      "#",
+      "U",
+      "R",
+      "A",
+      "N",
+      "O"
+    ],
+    [
+      "A",
+      "M",
+      "A",
+      "R",
+      "O",
+      "#",
+      "S",
+      "A",
+      "R",
+      "O",
+      "U"
+    ]
+  ],
+  "clues": {
+    "Down": [
+      [
+        1,
+        "Superior de uma associação de clérigos"
+      ],
+      [
+        2,
+        "Tipo de piso especial para os cegos"
+      ],
+      [
+        3,
+        "Os artigos de um regulamento"
+      ],
+      [
+        4,
+        "Foi oportuno (3 palavras)"
+      ],
+      [
+        5,
+        "Antigas senhoras da elite"
+      ],
+      [
+        6,
+        "Britney ___, cantora de 'Oops!... I Did It Again'"
+      ],
+      [
+        7,
+        "Uma funcionária do hotel"
+      ],
+      [
+        8,
+        "Pode ser de sabão ou de chocolate"
+      ],
+      [
+        9,
+        "Antigo anfiteatro da Grécia"
+      ],
+      [
+        10,
+        "Reginaldo ___, cantor de 'Garçom'"
+      ],
+      [
+        16,
+        "São sacudidas no cancã"
+      ],
+      [
+        20,
+        "Pacífico ou Índico"
+      ],
+      [
+        21,
+        "Mistura de farinha e água que forma uma pasta"
+      ],
+      [
+        22,
+        "Posponham"
+      ],
+      [
+        23,
+        "Inspeção feita pelo vigia"
+      ],
+      [
+        25,
+        "Preparar a fôrma para que nada grude nela"
+      ],
+      [
+        26,
+        "Sem acento tônico"
+      ],
+      [
+        27,
+        "Causou ferimento"
+      ],
+      [
+        29,
+        "Como grande parte dos frutos são comidos"
+      ]
+    ],
+    "Across": [
+      [
+        1,
+        "Atuante (fem.)"
+      ],
+      [
+        6,
+        "É percebido com a boca"
+      ],
+      [
+        11,
+        "Dão socos"
+      ],
+      [
+        12,
+        "Campo próprio para pastagem"
+      ],
+      [
+        13,
+        "Simone de Beauvoir, por sua religião"
+      ],
+      [
+        14,
+        "Letras no centro de 'correr'"
+      ],
+      [
+        15,
+        "Seus fósseis são vistos em museus de história natural"
+      ],
+      [
+        17,
+        "Rainha da Neve, em 'Frozen'"
+      ],
+      [
+        18,
+        "Giorgio ___, estilista"
+      ],
+      [
+        19,
+        "Qualquer objeto"
+      ],
+      [
+        21,
+        "Chocalho de origem indígena"
+      ],
+      [
+        24,
+        "Relativo a dois"
+      ],
+      [
+        28,
+        "Nem adulto nem criança"
+      ],
+      [
+        30,
+        "'___ Moça', novela de 2006"
+      ],
+      [
+        31,
+        "As cerimônias de uma seita"
+      ],
+      [
+        32,
+        "Tipo de carroceria de carro"
+      ],
+      [
+        33,
+        "Planeta em que um ano dura 84 anos terrestres"
+      ],
+      [
+        34,
+        "Santo ___, distrito paulista"
+      ],
+      [
+        35,
+        "Ficou curado"
+      ]
+    ]
+  },
+  "empty": ":"
+}

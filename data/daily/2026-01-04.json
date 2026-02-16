@@ -1,0 +1,465 @@
+{
+  "date": "2026-01-04",
+  "level": "daily",
+  "dimensions": {
+    "width": 11,
+    "height": 11
+  },
+  "puzzle": [
+    [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      "#",
+      7,
+      8,
+      9,
+      10
+    ],
+    [
+      11,
+      ":",
+      ":",
+      ":",
+      ":",
+      ":",
+      "#",
+      12,
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      13,
+      ":",
+      ":",
+      ":",
+      ":",
+      ":",
+      14,
+      ":",
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      15,
+      ":",
+      ":",
+      ":",
+      "#",
+      16,
+      ":",
+      ":",
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      17,
+      ":",
+      ":",
+      "#",
+      18,
+      ":",
+      ":",
+      ":",
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      19,
+      ":",
+      ":",
+      ":",
+      ":",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      20,
+      21,
+      22,
+      ":",
+      ":",
+      ":",
+      ":",
+      "#",
+      23,
+      24,
+      25
+    ],
+    [
+      26,
+      ":",
+      ":",
+      ":",
+      ":",
+      ":",
+      "#",
+      27,
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      28,
+      ":",
+      ":",
+      ":",
+      ":",
+      ":",
+      29,
+      ":",
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      30,
+      ":",
+      ":",
+      ":",
+      "#",
+      31,
+      ":",
+      ":",
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      32,
+      ":",
+      ":",
+      ":",
+      "#",
+      33,
+      ":",
+      ":",
+      ":",
+      ":",
+      ":"
+    ]
+  ],
+  "solution": [
+    [
+      "R",
+      "E",
+      "D",
+      "E",
+      "T",
+      "V",
+      "#",
+      "I",
+      "R",
+      "A",
+      "R"
+    ],
+    [
+      "E",
+      "X",
+      "A",
+      "U",
+      "R",
+      "I",
+      "#",
+      "N",
+      "A",
+      "T",
+      "A"
+    ],
+    [
+      "C",
+      "O",
+      "N",
+      "V",
+      "E",
+      "R",
+      "S",
+      "A",
+      "M",
+      "O",
+      "S"
+    ],
+    [
+      "E",
+      "D",
+      "A",
+      "I",
+      "#",
+      "O",
+      "U",
+      "T",
+      "O",
+      "N",
+      "O"
+    ],
+    [
+      "M",
+      "O",
+      "R",
+      "#",
+      "G",
+      "U",
+      "L",
+      "O",
+      "S",
+      "A",
+      "S"
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      "C",
+      "R",
+      "O",
+      "C",
+      "S",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      "A",
+      "P",
+      "A",
+      "R",
+      "A",
+      "D",
+      "O",
+      "#",
+      "V",
+      "C",
+      "S"
+    ],
+    [
+      "R",
+      "E",
+      "P",
+      "E",
+      "T",
+      "I",
+      "#",
+      "R",
+      "E",
+      "L",
+      "I"
+    ],
+    [
+      "C",
+      "R",
+      "O",
+      "M",
+      "O",
+      "S",
+      "S",
+      "O",
+      "M",
+      "O",
+      "S"
+    ],
+    [
+      "A",
+      "D",
+      "I",
+      "E",
+      "#",
+      "C",
+      "O",
+      "L",
+      "O",
+      "N",
+      "O"
+    ],
+    [
+      "R",
+      "I",
+      "O",
+      "S",
+      "#",
+      "O",
+      "B",
+      "E",
+      "S",
+      "A",
+      "S"
+    ]
+  ],
+  "clues": {
+    "Down": [
+      [
+        1,
+        "Palavra que pode anteceder 'casado' e 'chegado'"
+      ],
+      [
+        2,
+        "Segundo livro da Bíblia"
+      ],
+      [
+        3,
+        "Causar estragos"
+      ],
+      [
+        4,
+        "'Não precisa me contar!' (2 palavras)"
+      ],
+      [
+        5,
+        "Três, em Trieste"
+      ],
+      [
+        6,
+        "Parou de repetir a mesma coisa (3 palavras)"
+      ],
+      [
+        7,
+        "Congênitos"
+      ],
+      [
+        8,
+        "Tony ___, atuou em 'A Viagem'"
+      ],
+      [
+        9,
+        "A sílaba 'fraca' de uma palavra"
+      ],
+      [
+        10,
+        "Pouco fundos"
+      ],
+      [
+        14,
+        "Depressão aberta pelo arado"
+      ],
+      [
+        18,
+        "Agradecido"
+      ],
+      [
+        19,
+        "Produtos usados em massagens"
+      ],
+      [
+        20,
+        "Assumir os custos ou consequências"
+      ],
+      [
+        21,
+        "'Você ganhou'"
+      ],
+      [
+        22,
+        "Peça que serve de sustento"
+      ],
+      [
+        23,
+        "Enxergamos"
+      ],
+      [
+        24,
+        "Faz uma cópia idêntica"
+      ],
+      [
+        25,
+        "Dentes que surgem na idade adulta"
+      ],
+      [
+        27,
+        "Passeio (gíria)"
+      ],
+      [
+        29,
+        "___ controle: em ordem"
+      ]
+    ],
+    "Across": [
+      [
+        1,
+        "Emissora com um '!' em seu nome"
+      ],
+      [
+        7,
+        "Fazer uma pessoa ficar irritada"
+      ],
+      [
+        11,
+        "Esgotei inteiramente"
+      ],
+      [
+        12,
+        "Parte do leite"
+      ],
+      [
+        13,
+        "Batemos um papo"
+      ],
+      [
+        15,
+        "'O que aconteceu depois?' (2 palavras)"
+      ],
+      [
+        16,
+        "Estação após o verão"
+      ],
+      [
+        17,
+        "Guarda-___, antigo chefe de alfândega"
+      ],
+      [
+        18,
+        "Comilonas"
+      ],
+      [
+        19,
+        "Calçados que já vêm furados de fábrica"
+      ],
+      [
+        20,
+        "Com as partes excessivas cortadas"
+      ],
+      [
+        23,
+        "Vocês, no WhatsApp"
+      ],
+      [
+        26,
+        "Falei outra vez"
+      ],
+      [
+        27,
+        "Recapitulei o texto"
+      ],
+      [
+        28,
+        "Estruturas que contêm material genético"
+      ],
+      [
+        30,
+        "Deixe para outra data"
+      ],
+      [
+        31,
+        "Emigrante que busca explorar a terra"
+      ],
+      [
+        32,
+        "Amarelo, Nilo e Tejo"
+      ],
+      [
+        33,
+        "Podem ser beneficiadas pela bariátrica"
+      ]
+    ]
+  },
+  "empty": ":"
+}

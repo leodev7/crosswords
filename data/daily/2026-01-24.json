@@ -1,0 +1,457 @@
+{
+  "date": "2026-01-24",
+  "level": "daily",
+  "dimensions": {
+    "width": 11,
+    "height": 11
+  },
+  "puzzle": [
+    [
+      1,
+      2,
+      3,
+      4,
+      5,
+      "#",
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    [
+      11,
+      ":",
+      ":",
+      ":",
+      ":",
+      "#",
+      12,
+      ":",
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      13,
+      ":",
+      ":",
+      ":",
+      ":",
+      "#",
+      14,
+      ":",
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      15,
+      ":",
+      ":",
+      ":",
+      ":",
+      16,
+      ":",
+      ":",
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      17,
+      ":",
+      ":",
+      "#",
+      18,
+      ":",
+      ":",
+      ":",
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      19,
+      ":",
+      ":",
+      ":",
+      ":",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      20,
+      21,
+      22,
+      ":",
+      ":",
+      ":",
+      ":",
+      "#",
+      23,
+      24,
+      25
+    ],
+    [
+      26,
+      ":",
+      ":",
+      ":",
+      ":",
+      ":",
+      ":",
+      27,
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      28,
+      ":",
+      ":",
+      ":",
+      ":",
+      "#",
+      29,
+      ":",
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      30,
+      ":",
+      ":",
+      ":",
+      ":",
+      "#",
+      31,
+      ":",
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      32,
+      ":",
+      ":",
+      ":",
+      ":",
+      "#",
+      33,
+      ":",
+      ":",
+      ":",
+      ":"
+    ]
+  ],
+  "solution": [
+    [
+      "B",
+      "I",
+      "L",
+      "A",
+      "C",
+      "#",
+      "M",
+      "A",
+      "M",
+      "M",
+      "A"
+    ],
+    [
+      "O",
+      "B",
+      "A",
+      "M",
+      "A",
+      "#",
+      "A",
+      "F",
+      "I",
+      "A",
+      "M"
+    ],
+    [
+      "B",
+      "A",
+      "C",
+      "O",
+      "N",
+      "#",
+      "L",
+      "U",
+      "A",
+      "N",
+      "A"
+    ],
+    [
+      "A",
+      "M",
+      "E",
+      "R",
+      "I",
+      "C",
+      "A",
+      "N",
+      "D",
+      "A",
+      "D"
+    ],
+    [
+      "S",
+      "A",
+      "I",
+      "#",
+      "B",
+      "O",
+      "N",
+      "D",
+      "O",
+      "S",
+      "O"
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      "P",
+      "A",
+      "N",
+      "D",
+      "A",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      "C",
+      "A",
+      "V",
+      "A",
+      "L",
+      "A",
+      "R",
+      "#",
+      "A",
+      "G",
+      "O"
+    ],
+    [
+      "O",
+      "R",
+      "I",
+      "G",
+      "I",
+      "N",
+      "A",
+      "R",
+      "I",
+      "A",
+      "S"
+    ],
+    [
+      "V",
+      "A",
+      "R",
+      "I",
+      "Z",
+      "#",
+      "G",
+      "U",
+      "R",
+      "U",
+      "S"
+    ],
+    [
+      "A",
+      "B",
+      "A",
+      "N",
+      "A",
+      "#",
+      "E",
+      "N",
+      "A",
+      "D",
+      "E"
+    ],
+    [
+      "S",
+      "E",
+      "L",
+      "A",
+      "R",
+      "#",
+      "M",
+      "A",
+      "R",
+      "I",
+      "O"
+    ]
+  ],
+  "clues": {
+    "Down": [
+      [
+        1,
+        "Tolas, estúpidas"
+      ],
+      [
+        2,
+        "Fiscaliza o meio ambiente"
+      ],
+      [
+        3,
+        "Prendi o boi em movimento"
+      ],
+      [
+        4,
+        "Apego emocional"
+      ],
+      [
+        5,
+        "Retirar peças de uma máquina para consertar outra"
+      ],
+      [
+        6,
+        "Sucesso de Cássia Eller"
+      ],
+      [
+        7,
+        "Submerge"
+      ],
+      [
+        8,
+        "Som emitido pelo gato"
+      ],
+      [
+        9,
+        "Irmãs, carinhosamente"
+      ],
+      [
+        10,
+        "___ Batista, cantor de 'Princesa'"
+      ],
+      [
+        16,
+        "Bárbaro das HQs e filmes"
+      ],
+      [
+        19,
+        "Cada lado da folha de uma revista"
+      ],
+      [
+        20,
+        "Buracos"
+      ],
+      [
+        21,
+        "Língua falada no Egito"
+      ],
+      [
+        22,
+        "Vídeo que se populariza rapidamente (pop.)"
+      ],
+      [
+        23,
+        "Tomar ar"
+      ],
+      [
+        24,
+        "Antoni ___, arquiteto espanhol"
+      ],
+      [
+        25,
+        "O fêmur, por sua constituição"
+      ],
+      [
+        27,
+        "Caractere antigo"
+      ]
+    ],
+    "Across": [
+      [
+        1,
+        "Olavo ___, escreveu 'Através do Brasil'"
+      ],
+      [
+        6,
+        "'___ Mia', música do ABBA"
+      ],
+      [
+        11,
+        "Presidente dos EUA em 2010"
+      ],
+      [
+        12,
+        "Amolam"
+      ],
+      [
+        13,
+        "Ingrediente do x-tudo"
+      ],
+      [
+        14,
+        "___ Piovani, atuou em 'Suave Veneno'"
+      ],
+      [
+        15,
+        "Animação com Stan e Francine Smith (2 palavras)"
+      ],
+      [
+        17,
+        "Deixa o local"
+      ],
+      [
+        18,
+        "Benevolente"
+      ],
+      [
+        19,
+        "Urso endêmico da China"
+      ],
+      [
+        20,
+        "Como a dose excessiva"
+      ],
+      [
+        23,
+        "Oitavo mês (abrev.)"
+      ],
+      [
+        26,
+        "Oriundas"
+      ],
+      [
+        28,
+        "Dilatação de uma veia ou artéria"
+      ],
+      [
+        29,
+        "Conselheiros"
+      ],
+      [
+        30,
+        "Agita o leque para fazer vento"
+      ],
+      [
+        31,
+        "Exame realizado pelo INEP"
+      ],
+      [
+        32,
+        "Preparar o cavalo para a montaria"
+      ],
+      [
+        33,
+        "Personagem que reside no Reino dos Cogumelos"
+      ]
+    ]
+  },
+  "empty": ":"
+}

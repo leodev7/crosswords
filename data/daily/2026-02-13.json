@@ -1,0 +1,481 @@
+{
+  "date": "2026-02-13",
+  "level": "daily",
+  "dimensions": {
+    "width": 11,
+    "height": 11
+  },
+  "puzzle": [
+    [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      "#",
+      7,
+      8,
+      9,
+      10
+    ],
+    [
+      11,
+      ":",
+      ":",
+      ":",
+      ":",
+      ":",
+      "#",
+      12,
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      13,
+      ":",
+      ":",
+      ":",
+      ":",
+      ":",
+      "#",
+      14,
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      15,
+      ":",
+      ":",
+      "#",
+      16,
+      ":",
+      17,
+      ":",
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      18,
+      ":",
+      ":",
+      19,
+      "#",
+      20,
+      ":",
+      ":",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      21,
+      ":",
+      ":",
+      ":",
+      22,
+      "#",
+      23,
+      ":",
+      24,
+      25,
+      26
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      27,
+      ":",
+      28,
+      "#",
+      29,
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      30,
+      31,
+      32,
+      ":",
+      ":",
+      ":",
+      33,
+      "#",
+      34,
+      ":",
+      ":"
+    ],
+    [
+      35,
+      ":",
+      ":",
+      ":",
+      "#",
+      36,
+      ":",
+      37,
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      38,
+      ":",
+      ":",
+      ":",
+      "#",
+      39,
+      ":",
+      ":",
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      40,
+      ":",
+      ":",
+      ":",
+      "#",
+      41,
+      ":",
+      ":",
+      ":",
+      ":",
+      ":"
+    ]
+  ],
+  "solution": [
+    [
+      "M",
+      "A",
+      "S",
+      "T",
+      "I",
+      "M",
+      "#",
+      "E",
+      "D",
+      "E",
+      "N"
+    ],
+    [
+      "A",
+      "M",
+      "U",
+      "A",
+      "D",
+      "O",
+      "#",
+      "S",
+      "I",
+      "S",
+      "U"
+    ],
+    [
+      "M",
+      "A",
+      "G",
+      "O",
+      "A",
+      "R",
+      "#",
+      "T",
+      "E",
+      "M",
+      "A"
+    ],
+    [
+      "A",
+      "V",
+      "E",
+      "#",
+      "S",
+      "A",
+      "P",
+      "A",
+      "T",
+      "O",
+      "S"
+    ],
+    [
+      "T",
+      "E",
+      "R",
+      "A",
+      "#",
+      "R",
+      "I",
+      "R",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      "A",
+      "L",
+      "I",
+      "C",
+      "E",
+      "#",
+      "B",
+      "E",
+      "C",
+      "E",
+      "L"
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      "O",
+      "C",
+      "O",
+      "#",
+      "I",
+      "A",
+      "R",
+      "A"
+    ],
+    [
+      "G",
+      "L",
+      "A",
+      "M",
+      "O",
+      "U",
+      "R",
+      "#",
+      "R",
+      "O",
+      "B"
+    ],
+    [
+      "I",
+      "A",
+      "T",
+      "E",
+      "#",
+      "V",
+      "I",
+      "V",
+      "I",
+      "D",
+      "A"
+    ],
+    [
+      "B",
+      "O",
+      "O",
+      "T",
+      "#",
+      "I",
+      "N",
+      "I",
+      "B",
+      "I",
+      "R"
+    ],
+    [
+      "A",
+      "S",
+      "S",
+      "E",
+      "#",
+      "A",
+      "S",
+      "P",
+      "E",
+      "R",
+      "O"
+    ]
+  ],
+  "clues": {
+    "Down": [
+      [
+        1,
+        "Trabalho fácil e lucrativo"
+      ],
+      [
+        2,
+        "Cortês, lisonjeiro"
+      ],
+      [
+        3,
+        "Dei a ideia"
+      ],
+      [
+        4,
+        "'___ Te Ching', obra de Lao-Tsé"
+      ],
+      [
+        5,
+        "Precedem as voltas"
+      ],
+      [
+        6,
+        "Viver em uma casa"
+      ],
+      [
+        7,
+        "Vou comparecer"
+      ],
+      [
+        8,
+        "Opção de produtos menos calóricos"
+      ],
+      [
+        9,
+        "A ___: à toa"
+      ],
+      [
+        10,
+        "Como as pessoas naturistas andam"
+      ],
+      [
+        17,
+        "Indicador econômico alto nos EUA"
+      ],
+      [
+        19,
+        "Inicia um ataque"
+      ],
+      [
+        22,
+        "Ruído repetido"
+      ],
+      [
+        24,
+        "Local de Cuba e Aruba"
+      ],
+      [
+        25,
+        "Desgastar a superfície da Terra"
+      ],
+      [
+        26,
+        "Bandeira"
+      ],
+      [
+        28,
+        "Escutava"
+      ],
+      [
+        30,
+        "Apelido para Gilberto"
+      ],
+      [
+        31,
+        "País ao sul da China"
+      ],
+      [
+        32,
+        "Divisões das peças teatrais"
+      ],
+      [
+        33,
+        "São atingidos pelas doenças renais"
+      ],
+      [
+        37,
+        "A área para pessoas importantes ou influentes"
+      ]
+    ],
+    "Across": [
+      [
+        1,
+        "Grande cão para guarda de gado"
+      ],
+      [
+        7,
+        "Local da árvore da vida, segundo a Bíblia"
+      ],
+      [
+        11,
+        "Irritado, chateado"
+      ],
+      [
+        12,
+        "Sistema do MEC que se baseia na nota do ENEM"
+      ],
+      [
+        13,
+        "Causar desgosto"
+      ],
+      [
+        14,
+        "Assunto a ser abordado"
+      ],
+      [
+        15,
+        "Animal como a batuíra"
+      ],
+      [
+        16,
+        "Recebem a graxa do engraxate"
+      ],
+      [
+        18,
+        "Será o dono"
+      ],
+      [
+        20,
+        "Evita-se fazer isso em uma situação séria"
+      ],
+      [
+        21,
+        "Visitante do País das Maravilhas"
+      ],
+      [
+        23,
+        "Opção à Qualy"
+      ],
+      [
+        27,
+        "Sem recheio nenhum"
+      ],
+      [
+        29,
+        "Sereia do nosso folclore"
+      ],
+      [
+        30,
+        "Charme e encanto"
+      ],
+      [
+        34,
+        "___ Schneider, comediante estadunidense"
+      ],
+      [
+        35,
+        "Barco luxuoso dos milionários"
+      ],
+      [
+        36,
+        "Sentida na pele"
+      ],
+      [
+        38,
+        "Bota, em Boston"
+      ],
+      [
+        39,
+        "Desencorajar"
+      ],
+      [
+        40,
+        "Aqueça no forno"
+      ],
+      [
+        41,
+        "Desagradável ao tato, como a lixa"
+      ]
+    ]
+  },
+  "empty": ":"
+}

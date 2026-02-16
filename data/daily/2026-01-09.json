@@ -1,0 +1,465 @@
+{
+  "date": "2026-01-09",
+  "level": "daily",
+  "dimensions": {
+    "width": 11,
+    "height": 11
+  },
+  "puzzle": [
+    [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      "#",
+      7,
+      8,
+      9,
+      10
+    ],
+    [
+      11,
+      ":",
+      ":",
+      ":",
+      ":",
+      ":",
+      "#",
+      12,
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      13,
+      ":",
+      ":",
+      ":",
+      ":",
+      ":",
+      "#",
+      14,
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      15,
+      ":",
+      ":",
+      ":",
+      ":",
+      ":",
+      16,
+      ":",
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      17,
+      ":",
+      ":",
+      "#",
+      "#",
+      18,
+      ":",
+      ":",
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      19,
+      20,
+      ":",
+      ":",
+      ":",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      21,
+      22,
+      23,
+      ":",
+      ":",
+      ":",
+      "#",
+      "#",
+      24,
+      25,
+      26
+    ],
+    [
+      27,
+      ":",
+      ":",
+      ":",
+      ":",
+      ":",
+      28,
+      29,
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      30,
+      ":",
+      ":",
+      ":",
+      "#",
+      31,
+      ":",
+      ":",
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      32,
+      ":",
+      ":",
+      ":",
+      "#",
+      33,
+      ":",
+      ":",
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      34,
+      ":",
+      ":",
+      ":",
+      "#",
+      35,
+      ":",
+      ":",
+      ":",
+      ":",
+      ":"
+    ]
+  ],
+  "solution": [
+    [
+      "S",
+      "I",
+      "M",
+      "B",
+      "A",
+      "D",
+      "#",
+      "A",
+      "R",
+      "C",
+      "O"
+    ],
+    [
+      "A",
+      "C",
+      "A",
+      "L",
+      "M",
+      "E",
+      "#",
+      "M",
+      "A",
+      "L",
+      "U"
+    ],
+    [
+      "M",
+      "A",
+      "G",
+      "O",
+      "A",
+      "S",
+      "#",
+      "A",
+      "L",
+      "A",
+      "S"
+    ],
+    [
+      "P",
+      "R",
+      "O",
+      "G",
+      "R",
+      "E",
+      "S",
+      "S",
+      "I",
+      "V",
+      "O"
+    ],
+    [
+      "A",
+      "O",
+      "S",
+      "#",
+      "#",
+      "N",
+      "A",
+      "S",
+      "S",
+      "A",
+      "U"
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      "M",
+      "A",
+      "F",
+      "I",
+      "A",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      "P",
+      "O",
+      "L",
+      "U",
+      "I",
+      "R",
+      "#",
+      "#",
+      "T",
+      "B",
+      "M"
+    ],
+    [
+      "A",
+      "B",
+      "E",
+      "L",
+      "A",
+      "E",
+      "A",
+      "F",
+      "E",
+      "R",
+      "A"
+    ],
+    [
+      "T",
+      "E",
+      "S",
+      "T",
+      "#",
+      "A",
+      "N",
+      "I",
+      "M",
+      "A",
+      "L"
+    ],
+    [
+      "A",
+      "S",
+      "M",
+      "A",
+      "#",
+      "D",
+      "A",
+      "N",
+      "A",
+      "D",
+      "A"
+    ],
+    [
+      "S",
+      "O",
+      "A",
+      "R",
+      "#",
+      "A",
+      "C",
+      "A",
+      "S",
+      "O",
+      "S"
+    ]
+  ],
+  "clues": {
+    "Down": [
+      [
+        1,
+        "Capital paulista (pop.)"
+      ],
+      [
+        2,
+        "Personagem mitológico que tentou fugir voando do labirinto"
+      ],
+      [
+        3,
+        "Feiticeiros"
+      ],
+      [
+        4,
+        "Página pessoal na internet"
+      ],
+      [
+        5,
+        "Querer muito bem"
+      ],
+      [
+        6,
+        "Que corre de maneira descontrolada (fem.)"
+      ],
+      [
+        7,
+        "Achata, comprime"
+      ],
+      [
+        8,
+        "Corridas em desertos, florestas e outros lugares despovoados"
+      ],
+      [
+        9,
+        "Arma em forma de bastão"
+      ],
+      [
+        10,
+        "Foi audaz"
+      ],
+      [
+        16,
+        "Deixa o local"
+      ],
+      [
+        19,
+        "Cobrar por uma infração"
+      ],
+      [
+        20,
+        "Dama de companhia"
+      ],
+      [
+        21,
+        "&quot;Pés&quot; de cabra"
+      ],
+      [
+        22,
+        "O paciente do cirurgião bariátrico"
+      ],
+      [
+        23,
+        "Molusco que se move devagar"
+      ],
+      [
+        24,
+        "Assuntos, tópicos"
+      ],
+      [
+        25,
+        "'... povo heroico o ___ retumbante...'"
+      ],
+      [
+        26,
+        "Valises"
+      ],
+      [
+        28,
+        "Regula a aviação civil no Brasil (sigla)"
+      ],
+      [
+        29,
+        "Educada, requintada (fig.)"
+      ]
+    ],
+    "Across": [
+      [
+        1,
+        "Marujo da literatura"
+      ],
+      [
+        7,
+        "É usado junto com a flecha"
+      ],
+      [
+        11,
+        "Tranquilize"
+      ],
+      [
+        12,
+        "___ Mader, atriz brasileira"
+      ],
+      [
+        13,
+        "Motivos de tristeza"
+      ],
+      [
+        14,
+        "Divisões de um edifício"
+      ],
+      [
+        15,
+        "Que evolui continuamente"
+      ],
+      [
+        17,
+        "Àqueles"
+      ],
+      [
+        18,
+        "Maurício de ___: governou o Brasil holandês de 1637 a 1644"
+      ],
+      [
+        19,
+        "Grupo criminoso"
+      ],
+      [
+        21,
+        "Tornar sujo"
+      ],
+      [
+        24,
+        "Também, na internet"
+      ],
+      [
+        27,
+        "Filme da Disney com um príncipe transformado em monstro (5 palavras)"
+      ],
+      [
+        30,
+        "___ drive: avaliação do carro feita pelo cliente"
+      ],
+      [
+        31,
+        "O reino das aves, peixes e mamíferos"
+      ],
+      [
+        32,
+        "Doença que ataca as vias aéreas"
+      ],
+      [
+        33,
+        "Sapeca, travessa"
+      ],
+      [
+        34,
+        "Produzir ruído"
+      ],
+      [
+        35,
+        "Acontecimentos incertos"
+      ]
+    ]
+  },
+  "empty": ":"
+}

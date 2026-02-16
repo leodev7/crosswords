@@ -1,0 +1,465 @@
+{
+  "date": "2026-01-13",
+  "level": "daily",
+  "dimensions": {
+    "width": 11,
+    "height": 11
+  },
+  "puzzle": [
+    [
+      1,
+      2,
+      3,
+      4,
+      5,
+      "#",
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    [
+      11,
+      ":",
+      ":",
+      ":",
+      ":",
+      "#",
+      12,
+      ":",
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      13,
+      ":",
+      ":",
+      ":",
+      ":",
+      "#",
+      14,
+      ":",
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      15,
+      ":",
+      ":",
+      ":",
+      ":",
+      16,
+      ":",
+      "#",
+      17,
+      ":",
+      ":"
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      18,
+      ":",
+      ":",
+      ":",
+      "#",
+      19,
+      ":",
+      ":"
+    ],
+    [
+      20,
+      21,
+      22,
+      ":",
+      ":",
+      ":",
+      ":",
+      23,
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      24,
+      ":",
+      ":",
+      "#",
+      25,
+      ":",
+      ":",
+      ":",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      26,
+      ":",
+      ":",
+      "#",
+      27,
+      ":",
+      ":",
+      ":",
+      28,
+      29,
+      30
+    ],
+    [
+      31,
+      ":",
+      ":",
+      32,
+      ":",
+      "#",
+      33,
+      ":",
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      34,
+      ":",
+      ":",
+      ":",
+      ":",
+      "#",
+      35,
+      ":",
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      36,
+      ":",
+      ":",
+      ":",
+      ":",
+      "#",
+      37,
+      ":",
+      ":",
+      ":",
+      ":"
+    ]
+  ],
+  "solution": [
+    [
+      "P",
+      "A",
+      "V",
+      "O",
+      "R",
+      "#",
+      "E",
+      "S",
+      "T",
+      "A",
+      "R"
+    ],
+    [
+      "A",
+      "P",
+      "E",
+      "L",
+      "O",
+      "#",
+      "S",
+      "H",
+      "I",
+      "V",
+      "A"
+    ],
+    [
+      "P",
+      "O",
+      "L",
+      "I",
+      "R",
+      "#",
+      "P",
+      "E",
+      "N",
+      "A",
+      "S"
+    ],
+    [
+      "A",
+      "C",
+      "A",
+      "M",
+      "A",
+      "D",
+      "A",
+      "#",
+      "T",
+      "N",
+      "T"
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      "P",
+      "I",
+      "O",
+      "R",
+      "#",
+      "A",
+      "Ç",
+      "O"
+    ],
+    [
+      "A",
+      "S",
+      "S",
+      "O",
+      "M",
+      "B",
+      "R",
+      "O",
+      "S",
+      "A",
+      "S"
+    ],
+    [
+      "R",
+      "E",
+      "U",
+      "#",
+      "E",
+      "R",
+      "A",
+      "M",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      "O",
+      "V",
+      "A",
+      "#",
+      "N",
+      "O",
+      "M",
+      "I",
+      "N",
+      "A",
+      "L"
+    ],
+    [
+      "M",
+      "E",
+      "R",
+      "A",
+      "S",
+      "#",
+      "A",
+      "T",
+      "E",
+      "N",
+      "A"
+    ],
+    [
+      "A",
+      "R",
+      "A",
+      "M",
+      "E",
+      "#",
+      "D",
+      "I",
+      "N",
+      "D",
+      "O"
+    ],
+    [
+      "S",
+      "O",
+      "M",
+      "A",
+      "S",
+      "#",
+      "A",
+      "R",
+      "E",
+      "A",
+      "S"
+    ]
+  ],
+  "clues": {
+    "Down": [
+      [
+        1,
+        "João Paulo II foi um"
+      ],
+      [
+        2,
+        "Abrev. do último livro da Bíblia"
+      ],
+      [
+        3,
+        "Peça acesa na procissão noturna"
+      ],
+      [
+        4,
+        "Monte grego muito citado na mitologia"
+      ],
+      [
+        5,
+        "Nascidos em Uiramutã ou Boa Vista"
+      ],
+      [
+        6,
+        "Espalhada em várias direções"
+      ],
+      [
+        7,
+        "___-Ra, heroína da TV"
+      ],
+      [
+        8,
+        "Substâncias usadas por pintores"
+      ],
+      [
+        9,
+        "Passa (o tempo)"
+      ],
+      [
+        10,
+        "Sinais deixados ao andar"
+      ],
+      [
+        16,
+        "Quantia duas vezes maior"
+      ],
+      [
+        20,
+        "Emanações das flores"
+      ],
+      [
+        21,
+        "Marieta ___, atriz de 'Um Lugar ao Sol'"
+      ],
+      [
+        22,
+        "Transpiraram"
+      ],
+      [
+        23,
+        "Deixar de incluir alguma coisa"
+      ],
+      [
+        28,
+        "Bebê de poucos meses (pop.)"
+      ],
+      [
+        29,
+        "Faz uma caminhada"
+      ],
+      [
+        30,
+        "Vizinho do Camboja"
+      ],
+      [
+        32,
+        "Sente um enorme carinho"
+      ]
+    ],
+    "Across": [
+      [
+        1,
+        "Medo muito grande"
+      ],
+      [
+        6,
+        "Sala de ___: parte da casa"
+      ],
+      [
+        11,
+        "Pedido de auxílio"
+      ],
+      [
+        12,
+        "Deus da trindade hindu"
+      ],
+      [
+        13,
+        "Deixar os metais lustrosos"
+      ],
+      [
+        14,
+        "Partes do cocar"
+      ],
+      [
+        15,
+        "Estendida no leito"
+      ],
+      [
+        17,
+        "Substância altamente explosiva"
+      ],
+      [
+        18,
+        "O mais ruim"
+      ],
+      [
+        19,
+        "Material de estruturas e chapas"
+      ],
+      [
+        20,
+        "Assustadoras"
+      ],
+      [
+        24,
+        "Pessoa sendo julgada"
+      ],
+      [
+        25,
+        "Costumavam ser"
+      ],
+      [
+        26,
+        "Base do caviar"
+      ],
+      [
+        27,
+        "Tipo de cheque"
+      ],
+      [
+        31,
+        "Vulgares, comuns (fem.)"
+      ],
+      [
+        33,
+        "Deusa guardiã da capital grega"
+      ],
+      [
+        34,
+        "Fio metálico de cercas"
+      ],
+      [
+        35,
+        "Padrinho de batismo (pop.)"
+      ],
+      [
+        36,
+        "Quantias de dinheiro"
+      ],
+      [
+        37,
+        "Lugares delimitados"
+      ]
+    ]
+  },
+  "empty": ":"
+}

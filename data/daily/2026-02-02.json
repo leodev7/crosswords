@@ -1,0 +1,465 @@
+{
+  "date": "2026-02-02",
+  "level": "daily",
+  "dimensions": {
+    "width": 11,
+    "height": 11
+  },
+  "puzzle": [
+    [
+      1,
+      2,
+      3,
+      4,
+      5,
+      "#",
+      "#",
+      6,
+      7,
+      8,
+      9
+    ],
+    [
+      10,
+      ":",
+      ":",
+      ":",
+      ":",
+      11,
+      "#",
+      12,
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      13,
+      ":",
+      ":",
+      ":",
+      ":",
+      ":",
+      "#",
+      14,
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      15,
+      ":",
+      ":",
+      ":",
+      ":",
+      ":",
+      16,
+      ":",
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      17,
+      ":",
+      ":",
+      "#",
+      18,
+      ":",
+      ":",
+      ":",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      19,
+      ":",
+      ":",
+      20,
+      ":",
+      "#",
+      21,
+      ":",
+      22,
+      23,
+      24
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      25,
+      ":",
+      26,
+      ":",
+      "#",
+      27,
+      ":",
+      ":"
+    ],
+    [
+      28,
+      29,
+      30,
+      ":",
+      ":",
+      ":",
+      ":",
+      31,
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      32,
+      ":",
+      ":",
+      ":",
+      "#",
+      33,
+      ":",
+      ":",
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      34,
+      ":",
+      ":",
+      ":",
+      "#",
+      35,
+      ":",
+      ":",
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      36,
+      ":",
+      ":",
+      ":",
+      "#",
+      "#",
+      37,
+      ":",
+      ":",
+      ":",
+      ":"
+    ]
+  ],
+  "solution": [
+    [
+      "G",
+      "R",
+      "A",
+      "M",
+      "A",
+      "#",
+      "#",
+      "M",
+      "O",
+      "E",
+      "R"
+    ],
+    [
+      "R",
+      "E",
+      "C",
+      "O",
+      "R",
+      "D",
+      "#",
+      "A",
+      "R",
+      "M",
+      "A"
+    ],
+    [
+      "I",
+      "M",
+      "U",
+      "N",
+      "D",
+      "O",
+      "#",
+      "G",
+      "A",
+      "B",
+      "I"
+    ],
+    [
+      "P",
+      "O",
+      "S",
+      "T",
+      "E",
+      "S",
+      "D",
+      "E",
+      "L",
+      "U",
+      "Z"
+    ],
+    [
+      "A",
+      "V",
+      "E",
+      "#",
+      "S",
+      "O",
+      "U",
+      "L",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      "L",
+      "E",
+      "M",
+      "A",
+      "S",
+      "#",
+      "R",
+      "A",
+      "I",
+      "V",
+      "A"
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      "B",
+      "E",
+      "B",
+      "A",
+      "#",
+      "R",
+      "A",
+      "M"
+    ],
+    [
+      "D",
+      "A",
+      "R",
+      "U",
+      "M",
+      "A",
+      "S",
+      "U",
+      "R",
+      "R",
+      "A"
+    ],
+    [
+      "I",
+      "M",
+      "O",
+      "S",
+      "#",
+      "A",
+      "S",
+      "N",
+      "E",
+      "A",
+      "R"
+    ],
+    [
+      "C",
+      "E",
+      "N",
+      "A",
+      "#",
+      "L",
+      "E",
+      "G",
+      "A",
+      "D",
+      "A"
+    ],
+    [
+      "A",
+      "M",
+      "Y",
+      "R",
+      "#",
+      "#",
+      "M",
+      "E",
+      "L",
+      "A",
+      "R"
+    ]
+  ],
+  "clues": {
+    "Down": [
+      [
+        1,
+        "Próprio da influenza"
+      ],
+      [
+        2,
+        "Saca"
+      ],
+      [
+        3,
+        "Incriminem"
+      ],
+      [
+        4,
+        "___ Saint-Michel: ilha da França"
+      ],
+      [
+        5,
+        "Consumissem em chamas"
+      ],
+      [
+        6,
+        "Humorista autor de 'Um cego de olho no futuro'"
+      ],
+      [
+        7,
+        "Via de aplicação da vacina VOP"
+      ],
+      [
+        8,
+        "___ das Artes, município de São Paulo"
+      ],
+      [
+        9,
+        "Bens de ___: imóveis"
+      ],
+      [
+        11,
+        "Misturo na proporção adequada"
+      ],
+      [
+        16,
+        "Persistissem"
+      ],
+      [
+        20,
+        "Exigir demais"
+      ],
+      [
+        22,
+        "Falso"
+      ],
+      [
+        23,
+        "Perfurada"
+      ],
+      [
+        24,
+        "Pousar no oceano"
+      ],
+      [
+        26,
+        "Antiga deidade adorada pelos fenícios"
+      ],
+      [
+        28,
+        "Pista"
+      ],
+      [
+        29,
+        "Expressão que denota concordância"
+      ],
+      [
+        30,
+        "___ Cócegas, comediante baiano"
+      ],
+      [
+        31,
+        "Aplica óleo santo"
+      ]
+    ],
+    "Across": [
+      [
+        1,
+        "Unidade de massa"
+      ],
+      [
+        6,
+        "Uma forma de fragmentar"
+      ],
+      [
+        10,
+        "Emissora que exibiu 'Escolinha do Barulho'"
+      ],
+      [
+        12,
+        "A 'dama' na dança do xaxado"
+      ],
+      [
+        13,
+        "'Porco'"
+      ],
+      [
+        14,
+        "'De Frente com ___', antigo programa de TV"
+      ],
+      [
+        15,
+        "Estruturas mais úteis à noite"
+      ],
+      [
+        17,
+        "Exemplo de animal ovíparo"
+      ],
+      [
+        18,
+        "Estilo com influência do jazz"
+      ],
+      [
+        19,
+        "Frases que resumem ideais"
+      ],
+      [
+        21,
+        "Doença que acomete o sistema nervoso central"
+      ],
+      [
+        25,
+        "Prove o soju"
+      ],
+      [
+        27,
+        "Modelo de picape da Dodge"
+      ],
+      [
+        28,
+        "Moer os ossos (pop.)"
+      ],
+      [
+        32,
+        "Âmagos"
+      ],
+      [
+        33,
+        "Falar coisas idiotas"
+      ],
+      [
+        34,
+        "John ___, lutador norte-americano"
+      ],
+      [
+        35,
+        "Deixada para a posteridade"
+      ],
+      [
+        36,
+        "___ Klink, navegador"
+      ],
+      [
+        37,
+        "Frustrar (pop.)"
+      ]
+    ]
+  },
+  "empty": ":"
+}

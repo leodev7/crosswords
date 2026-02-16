@@ -1,0 +1,465 @@
+{
+  "date": "2026-01-29",
+  "level": "daily",
+  "dimensions": {
+    "width": 11,
+    "height": 11
+  },
+  "puzzle": [
+    [
+      1,
+      2,
+      3,
+      4,
+      5,
+      "#",
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    [
+      11,
+      ":",
+      ":",
+      ":",
+      ":",
+      "#",
+      12,
+      ":",
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      13,
+      ":",
+      ":",
+      ":",
+      ":",
+      "#",
+      14,
+      ":",
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      15,
+      ":",
+      ":",
+      ":",
+      ":",
+      16,
+      ":",
+      ":",
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      17,
+      ":",
+      ":",
+      ":",
+      "#",
+      18,
+      ":",
+      ":"
+    ],
+    [
+      19,
+      20,
+      21,
+      "#",
+      22,
+      ":",
+      ":",
+      "#",
+      23,
+      ":",
+      ":"
+    ],
+    [
+      24,
+      ":",
+      ":",
+      "#",
+      25,
+      ":",
+      ":",
+      26,
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      27,
+      ":",
+      ":",
+      28,
+      ":",
+      ":",
+      ":",
+      ":",
+      29,
+      30,
+      31
+    ],
+    [
+      32,
+      ":",
+      ":",
+      ":",
+      ":",
+      "#",
+      33,
+      ":",
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      34,
+      ":",
+      ":",
+      ":",
+      ":",
+      "#",
+      35,
+      ":",
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      36,
+      ":",
+      ":",
+      ":",
+      ":",
+      "#",
+      37,
+      ":",
+      ":",
+      ":",
+      ":"
+    ]
+  ],
+  "solution": [
+    [
+      "A",
+      "P",
+      "A",
+      "R",
+      "A",
+      "#",
+      "M",
+      "U",
+      "C",
+      "H",
+      "O"
+    ],
+    [
+      "T",
+      "U",
+      "N",
+      "I",
+      "S",
+      "#",
+      "E",
+      "N",
+      "E",
+      "A",
+      "S"
+    ],
+    [
+      "A",
+      "F",
+      "I",
+      "N",
+      "S",
+      "#",
+      "S",
+      "E",
+      "L",
+      "A",
+      "M"
+    ],
+    [
+      "M",
+      "E",
+      "L",
+      "H",
+      "O",
+      "R",
+      "A",
+      "M",
+      "I",
+      "G",
+      "O"
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      "A",
+      "L",
+      "A",
+      "R",
+      "#",
+      "N",
+      "E",
+      "S"
+    ],
+    [
+      "P",
+      "O",
+      "R",
+      "#",
+      "A",
+      "L",
+      "E",
+      "#",
+      "E",
+      "N",
+      "E"
+    ],
+    [
+      "A",
+      "V",
+      "O",
+      "#",
+      "D",
+      "A",
+      "D",
+      "O",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      "S",
+      "A",
+      "L",
+      "T",
+      "O",
+      "M",
+      "O",
+      "R",
+      "T",
+      "A",
+      "L"
+    ],
+    [
+      "T",
+      "R",
+      "A",
+      "I",
+      "R",
+      "#",
+      "N",
+      "A",
+      "U",
+      "R",
+      "U"
+    ],
+    [
+      "A",
+      "I",
+      "N",
+      "D",
+      "A",
+      "#",
+      "D",
+      "I",
+      "A",
+      "N",
+      "A"
+    ],
+    [
+      "R",
+      "O",
+      "D",
+      "O",
+      "S",
+      "#",
+      "A",
+      "S",
+      "S",
+      "O",
+      "U"
+    ]
+  ],
+  "clues": {
+    "Down": [
+      [
+        1,
+        "Fazem nós para unir"
+      ],
+      [
+        2,
+        "Assento baixo e estofado"
+      ],
+      [
+        3,
+        "Variação do azul"
+      ],
+      [
+        4,
+        "Briga de galos"
+      ],
+      [
+        5,
+        "Que destroem completamente (fem.)"
+      ],
+      [
+        6,
+        "Móvel associado a discussões igualitárias (2 palavras)"
+      ],
+      [
+        7,
+        "Fazem uma junção"
+      ],
+      [
+        8,
+        "___ Dion, cantora de 'A New Day Has Come'"
+      ],
+      [
+        9,
+        "___-Dazs, marca de sorvetes"
+      ],
+      [
+        10,
+        "Movimento líquido para equilibrar concentrações"
+      ],
+      [
+        16,
+        "Trituram o queijo"
+      ],
+      [
+        19,
+        "Comer capim"
+      ],
+      [
+        20,
+        "Parte do sistema reprodutor feminino"
+      ],
+      [
+        21,
+        "___ Garros, torneio de tênis"
+      ],
+      [
+        26,
+        "Exames sem parte escrita"
+      ],
+      [
+        28,
+        "Considerado"
+      ],
+      [
+        29,
+        "As que pertencem a ti"
+      ],
+      [
+        30,
+        "Marca de cafeteiras"
+      ],
+      [
+        31,
+        "Festa de origem havaiana"
+      ]
+    ],
+    "Across": [
+      [
+        1,
+        "Corta as rebarbas"
+      ],
+      [
+        6,
+        "Muito, em espanhol"
+      ],
+      [
+        11,
+        "Capital de um país do norte da África"
+      ],
+      [
+        12,
+        "___ Carneiro: fundador do extinto partido PRONA"
+      ],
+      [
+        13,
+        "Relacionados entre si"
+      ],
+      [
+        14,
+        "Colocam os adesivos nas cartas"
+      ],
+      [
+        15,
+        "Bocão, para o Menino Maluquinho (2 palavras)"
+      ],
+      [
+        17,
+        "Dar asas"
+      ],
+      [
+        18,
+        "Terminação com 'campo'"
+      ],
+      [
+        19,
+        "Inserir"
+      ],
+      [
+        22,
+        "Tipo de cerveja de alta fermentação"
+      ],
+      [
+        23,
+        "Letra no centro de 'Canaã'"
+      ],
+      [
+        24,
+        "Parente mais velho que o pai"
+      ],
+      [
+        25,
+        "Necessidade para o jogo de gamão"
+      ],
+      [
+        27,
+        "Acrobacia em que se dá uma volta completa no ar (2 palavras)"
+      ],
+      [
+        32,
+        "Enganar o namorado ou namorada"
+      ],
+      [
+        33,
+        "Pequeno país da Oceania"
+      ],
+      [
+        34,
+        "Até agora"
+      ],
+      [
+        35,
+        "Princesa que foi apelidada de Lady Di"
+      ],
+      [
+        36,
+        "Instrumentos para limpeza do chão"
+      ],
+      [
+        37,
+        "Esquentou a pizza no forno"
+      ]
+    ]
+  },
+  "empty": ":"
+}

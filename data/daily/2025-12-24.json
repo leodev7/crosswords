@@ -1,0 +1,433 @@
+{
+  "date": "2025-12-24",
+  "level": "daily",
+  "dimensions": {
+    "width": 11,
+    "height": 11
+  },
+  "puzzle": [
+    [
+      "#",
+      "#",
+      "#",
+      1,
+      2,
+      3,
+      4,
+      5,
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      6,
+      ":",
+      ":",
+      ":",
+      ":",
+      ":",
+      7,
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      8,
+      ":",
+      ":",
+      ":",
+      ":",
+      ":",
+      ":",
+      ":",
+      9,
+      "#"
+    ],
+    [
+      10,
+      ":",
+      ":",
+      ":",
+      ":",
+      "#",
+      11,
+      ":",
+      ":",
+      ":",
+      12
+    ],
+    [
+      13,
+      ":",
+      ":",
+      ":",
+      ":",
+      "#",
+      14,
+      ":",
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      15,
+      ":",
+      ":",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      16,
+      ":",
+      ":"
+    ],
+    [
+      17,
+      ":",
+      ":",
+      18,
+      19,
+      "#",
+      20,
+      21,
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      22,
+      ":",
+      ":",
+      ":",
+      ":",
+      "#",
+      23,
+      ":",
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      "#",
+      24,
+      ":",
+      ":",
+      ":",
+      25,
+      ":",
+      ":",
+      ":",
+      ":",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      26,
+      ":",
+      ":",
+      ":",
+      ":",
+      ":",
+      ":",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      27,
+      ":",
+      ":",
+      ":",
+      ":",
+      "#",
+      "#",
+      "#"
+    ]
+  ],
+  "solution": [
+    [
+      "#",
+      "#",
+      "#",
+      "A",
+      "T",
+      "E",
+      "A",
+      "R",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      "A",
+      "M",
+      "E",
+      "N",
+      "D",
+      "O",
+      "A",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      "A",
+      "C",
+      "A",
+      "B",
+      "O",
+      "U",
+      "B",
+      "E",
+      "M",
+      "#"
+    ],
+    [
+      "O",
+      "P",
+      "E",
+      "R",
+      "A",
+      "#",
+      "B",
+      "O",
+      "R",
+      "A",
+      "T"
+    ],
+    [
+      "U",
+      "R",
+      "S",
+      "A",
+      "S",
+      "#",
+      "A",
+      "T",
+      "O",
+      "L",
+      "E"
+    ],
+    [
+      "S",
+      "O",
+      "S",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "F",
+      "A",
+      "X"
+    ],
+    [
+      "A",
+      "V",
+      "I",
+      "S",
+      "A",
+      "#",
+      "S",
+      "H",
+      "O",
+      "R",
+      "T"
+    ],
+    [
+      "R",
+      "A",
+      "V",
+      "E",
+      "L",
+      "#",
+      "H",
+      "E",
+      "L",
+      "I",
+      "O"
+    ],
+    [
+      "#",
+      "R",
+      "E",
+      "C",
+      "E",
+      "B",
+      "E",
+      "R",
+      "I",
+      "A",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      "L",
+      "A",
+      "G",
+      "A",
+      "R",
+      "T",
+      "O",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      "S",
+      "A",
+      "G",
+      "A",
+      "Z",
+      "#",
+      "#",
+      "#"
+    ]
+  ],
+  "clues": {
+    "Down": [
+      [
+        1,
+        "Gostará muito"
+      ],
+      [
+        2,
+        "A cidade de cem portas"
+      ],
+      [
+        3,
+        "Fabricante de sais de fruta"
+      ],
+      [
+        4,
+        "Aumenta a fertilidade do solo"
+      ],
+      [
+        5,
+        "'Mr. ___', série de TV"
+      ],
+      [
+        6,
+        "Sociável"
+      ],
+      [
+        7,
+        "Peça em carros de corrida"
+      ],
+      [
+        8,
+        "Dar o aval"
+      ],
+      [
+        9,
+        "Doença que Carlos Chagas ajudou a combater"
+      ],
+      [
+        10,
+        "Medo do timorato"
+      ],
+      [
+        12,
+        "Conteúdo de arquivos .rtf"
+      ],
+      [
+        18,
+        "Calamidades que prejudicam o setor agrícola"
+      ],
+      [
+        19,
+        "Cita como prova ou justificativa"
+      ],
+      [
+        20,
+        "Alter ego da princesa Adora"
+      ],
+      [
+        21,
+        "Unidade que equivale a um ciclo por segundo"
+      ],
+      [
+        25,
+        "Sacola, em inglês"
+      ]
+    ],
+    "Across": [
+      [
+        1,
+        "Colocar (fogo)"
+      ],
+      [
+        6,
+        "Semente rica em fibras"
+      ],
+      [
+        8,
+        "Deu certo"
+      ],
+      [
+        10,
+        "O vermelho, no Google Play"
+      ],
+      [
+        11,
+        "Personagem de Sacha Baron Cohen"
+      ],
+      [
+        13,
+        "Fêmeas com ótimo olfato"
+      ],
+      [
+        14,
+        "Afunde na lama"
+      ],
+      [
+        15,
+        "Sucesso do ABBA"
+      ],
+      [
+        16,
+        "Antiga máquina de escritório"
+      ],
+      [
+        17,
+        "Faz saber"
+      ],
+      [
+        20,
+        "Roupa que deixa os joelhos à mostra"
+      ],
+      [
+        22,
+        "Famoso compositor francês"
+      ],
+      [
+        23,
+        "Gás nobre no Sol"
+      ],
+      [
+        24,
+        "Agiria de modo acolhedor"
+      ],
+      [
+        26,
+        "Corte de carne também chamado de 'lombo paulista'"
+      ],
+      [
+        27,
+        "Astucioso"
+      ]
+    ]
+  },
+  "empty": ":"
+}

@@ -1,0 +1,473 @@
+{
+  "date": "2026-01-10",
+  "level": "daily",
+  "dimensions": {
+    "width": 11,
+    "height": 11
+  },
+  "puzzle": [
+    [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      "#",
+      7,
+      8,
+      9,
+      10
+    ],
+    [
+      11,
+      ":",
+      ":",
+      ":",
+      ":",
+      ":",
+      "#",
+      12,
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      13,
+      ":",
+      ":",
+      ":",
+      ":",
+      ":",
+      "#",
+      14,
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      15,
+      ":",
+      ":",
+      ":",
+      ":",
+      "#",
+      16,
+      ":",
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      17,
+      ":",
+      18,
+      ":",
+      ":",
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      19,
+      20,
+      21,
+      "#",
+      22,
+      ":",
+      ":",
+      "#",
+      23,
+      ":",
+      ":"
+    ],
+    [
+      24,
+      ":",
+      ":",
+      25,
+      ":",
+      ":",
+      ":",
+      26,
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      27,
+      ":",
+      ":",
+      ":",
+      ":",
+      "#",
+      28,
+      ":",
+      29,
+      30,
+      31
+    ],
+    [
+      32,
+      ":",
+      ":",
+      ":",
+      "#",
+      33,
+      ":",
+      ":",
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      34,
+      ":",
+      ":",
+      ":",
+      "#",
+      35,
+      ":",
+      ":",
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      36,
+      ":",
+      ":",
+      ":",
+      "#",
+      37,
+      ":",
+      ":",
+      ":",
+      ":",
+      ":"
+    ]
+  ],
+  "solution": [
+    [
+      "S",
+      "A",
+      "D",
+      "I",
+      "A",
+      "S",
+      "#",
+      "U",
+      "N",
+      "I",
+      "R"
+    ],
+    [
+      "A",
+      "R",
+      "R",
+      "O",
+      "B",
+      "A",
+      "#",
+      "R",
+      "U",
+      "D",
+      "E"
+    ],
+    [
+      "R",
+      "E",
+      "A",
+      "G",
+      "A",
+      "N",
+      "#",
+      "S",
+      "T",
+      "O",
+      "P"
+    ],
+    [
+      "S",
+      "A",
+      "G",
+      "U",
+      "I",
+      "#",
+      "C",
+      "O",
+      "R",
+      "S",
+      "A"
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      "E",
+      "X",
+      "T",
+      "A",
+      "S",
+      "I",
+      "A",
+      "R"
+    ],
+    [
+      "C",
+      "I",
+      "A",
+      "#",
+      "A",
+      "I",
+      "O",
+      "#",
+      "U",
+      "S",
+      "A"
+    ],
+    [
+      "A",
+      "N",
+      "T",
+      "I",
+      "D",
+      "O",
+      "T",
+      "O",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      "U",
+      "S",
+      "I",
+      "N",
+      "A",
+      "#",
+      "I",
+      "M",
+      "U",
+      "N",
+      "E"
+    ],
+    [
+      "S",
+      "A",
+      "R",
+      "A",
+      "#",
+      "A",
+      "C",
+      "A",
+      "T",
+      "A",
+      "M"
+    ],
+    [
+      "A",
+      "N",
+      "E",
+      "L",
+      "#",
+      "N",
+      "A",
+      "N",
+      "I",
+      "N",
+      "I"
+    ],
+    [
+      "R",
+      "A",
+      "I",
+      "A",
+      "#",
+      "A",
+      "S",
+      "I",
+      "L",
+      "A",
+      "R"
+    ]
+  ],
+  "clues": {
+    "Down": [
+      [
+        1,
+        "Virose de nível grave"
+      ],
+      [
+        2,
+        "___ de Proteção Ambiental (APA)"
+      ],
+      [
+        3,
+        "___ queen: artista como RuPaul"
+      ],
+      [
+        4,
+        "Adepto a uma prática indiana"
+      ],
+      [
+        5,
+        "Arriada, colocada no chão"
+      ],
+      [
+        6,
+        "___ Marino, pequeno país na Itália"
+      ],
+      [
+        7,
+        "Animais de pelagem espessa"
+      ],
+      [
+        8,
+        "Alimentou"
+      ],
+      [
+        9,
+        "As pacientes do geriatra"
+      ],
+      [
+        10,
+        "Olha com atenção"
+      ],
+      [
+        16,
+        "Confusas"
+      ],
+      [
+        18,
+        "Poseidon, em relação a Atena"
+      ],
+      [
+        19,
+        "Motivar"
+      ],
+      [
+        20,
+        "Louca"
+      ],
+      [
+        21,
+        "Fiz um arremesso"
+      ],
+      [
+        25,
+        "Aspira (a fumaça)"
+      ],
+      [
+        26,
+        "Do sultanato onde fica Mascate"
+      ],
+      [
+        29,
+        "Que tem serventia"
+      ],
+      [
+        30,
+        "Cantiga para fazer dormir"
+      ],
+      [
+        31,
+        "Governante de Dubai"
+      ],
+      [
+        33,
+        "___ Maria Braga, apresentadora"
+      ]
+    ],
+    "Across": [
+      [
+        1,
+        "Boas para o organismo"
+      ],
+      [
+        7,
+        "Juntar"
+      ],
+      [
+        11,
+        "O sinal '@'"
+      ],
+      [
+        12,
+        "Sem delicadeza"
+      ],
+      [
+        13,
+        "Ronald ___, ex-presidente dos EUA"
+      ],
+      [
+        14,
+        "Pit ___: espaço onde carros param durante uma corrida"
+      ],
+      [
+        15,
+        "Pequeno primata da América"
+      ],
+      [
+        16,
+        "Carro popular da Chevrolet descontinuado"
+      ],
+      [
+        17,
+        "Encantar, arrebatar"
+      ],
+      [
+        19,
+        "Agência de inteligência"
+      ],
+      [
+        22,
+        "Serviçal particular"
+      ],
+      [
+        23,
+        "Tira proveito"
+      ],
+      [
+        24,
+        "Neutraliza o efeito dos venenos"
+      ],
+      [
+        27,
+        "Instalação para geração de energia"
+      ],
+      [
+        28,
+        "Resistente à doença"
+      ],
+      [
+        32,
+        "___ Gilbert, atuou em 'The Big Bang Theory'"
+      ],
+      [
+        33,
+        "Obedecem (às ordens dadas)"
+      ],
+      [
+        34,
+        "Adorno usado no dedo"
+      ],
+      [
+        35,
+        "Marco ___, ator pernambucano"
+      ],
+      [
+        36,
+        "Linha para demarcar"
+      ],
+      [
+        37,
+        "Receber em um local seguro"
+      ]
+    ]
+  },
+  "empty": ":"
+}

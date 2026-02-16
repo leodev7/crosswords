@@ -1,0 +1,465 @@
+{
+  "date": "2026-01-07",
+  "level": "daily",
+  "dimensions": {
+    "width": 11,
+    "height": 11
+  },
+  "puzzle": [
+    [
+      1,
+      2,
+      3,
+      4,
+      5,
+      "#",
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    [
+      11,
+      ":",
+      ":",
+      ":",
+      ":",
+      "#",
+      12,
+      ":",
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      13,
+      ":",
+      ":",
+      ":",
+      ":",
+      14,
+      ":",
+      ":",
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      15,
+      ":",
+      ":",
+      ":",
+      ":",
+      ":",
+      "#",
+      16,
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      17,
+      ":",
+      ":",
+      18,
+      ":",
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      19,
+      20,
+      21,
+      "#",
+      22,
+      ":",
+      ":",
+      "#",
+      23,
+      ":",
+      ":"
+    ],
+    [
+      24,
+      ":",
+      ":",
+      25,
+      ":",
+      ":",
+      ":",
+      26,
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      27,
+      ":",
+      ":",
+      ":",
+      "#",
+      28,
+      ":",
+      ":",
+      29,
+      30,
+      31
+    ],
+    [
+      32,
+      ":",
+      ":",
+      ":",
+      33,
+      ":",
+      ":",
+      ":",
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      34,
+      ":",
+      ":",
+      ":",
+      ":",
+      "#",
+      35,
+      ":",
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      36,
+      ":",
+      ":",
+      ":",
+      ":",
+      "#",
+      37,
+      ":",
+      ":",
+      ":",
+      ":"
+    ]
+  ],
+  "solution": [
+    [
+      "O",
+      "L",
+      "A",
+      "V",
+      "O",
+      "#",
+      "T",
+      "O",
+      "R",
+      "A",
+      "S"
+    ],
+    [
+      "V",
+      "A",
+      "L",
+      "E",
+      "R",
+      "#",
+      "A",
+      "P",
+      "O",
+      "D",
+      "E"
+    ],
+    [
+      "A",
+      "C",
+      "A",
+      "R",
+      "I",
+      "C",
+      "I",
+      "A",
+      "D",
+      "O",
+      "S"
+    ],
+    [
+      "L",
+      "E",
+      "N",
+      "D",
+      "E",
+      "A",
+      "#",
+      "C",
+      "E",
+      "R",
+      "A"
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      "I",
+      "N",
+      "S",
+      "T",
+      "A",
+      "L",
+      "A",
+      "M"
+    ],
+    [
+      "A",
+      "B",
+      "R",
+      "#",
+      "T",
+      "E",
+      "A",
+      "#",
+      "A",
+      "M",
+      "O"
+    ],
+    [
+      "T",
+      "O",
+      "U",
+      "P",
+      "E",
+      "I",
+      "R",
+      "A",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      "I",
+      "T",
+      "A",
+      "U",
+      "#",
+      "R",
+      "E",
+      "C",
+      "A",
+      "T",
+      "O"
+    ],
+    [
+      "V",
+      "E",
+      "N",
+      "T",
+      "O",
+      "A",
+      "F",
+      "A",
+      "V",
+      "O",
+      "R"
+    ],
+    [
+      "A",
+      "R",
+      "D",
+      "I",
+      "L",
+      "#",
+      "A",
+      "B",
+      "A",
+      "C",
+      "O"
+    ],
+    [
+      "M",
+      "O",
+      "A",
+      "N",
+      "A",
+      "#",
+      "S",
+      "E",
+      "L",
+      "O",
+      "S"
+    ]
+  ],
+  "clues": {
+    "Down": [
+      [
+        1,
+        "De forma elíptica"
+      ],
+      [
+        2,
+        "Ate, aperte"
+      ],
+      [
+        3,
+        "___ Alda, ator e diretor"
+      ],
+      [
+        4,
+        "Autor da ópera 'Aida'"
+      ],
+      [
+        5,
+        "Região da Índia e do Japão"
+      ],
+      [
+        6,
+        "___ chi chuan, arte marcial"
+      ],
+      [
+        7,
+        "Fosca, sem claridade"
+      ],
+      [
+        8,
+        "Fatia de tomate ou laranja"
+      ],
+      [
+        9,
+        "Gostam muito"
+      ],
+      [
+        10,
+        "Vila com Elmo e Gugu"
+      ],
+      [
+        14,
+        "Como a pessoa que não gosta muito de sair"
+      ],
+      [
+        18,
+        "Barra de ___: local do Menu Iniciar, no Windows"
+      ],
+      [
+        19,
+        "Põem para funcionar"
+      ],
+      [
+        20,
+        "Fernando ___, escultor colombiano"
+      ],
+      [
+        21,
+        "País africano cuja capital é Quigali"
+      ],
+      [
+        25,
+        "2º e 4º presidente russo"
+      ],
+      [
+        26,
+        "Termine"
+      ],
+      [
+        29,
+        "Garantia de pagamento"
+      ],
+      [
+        30,
+        "Uso o violão"
+      ],
+      [
+        31,
+        "Grande açude cearense"
+      ],
+      [
+        33,
+        "Brincadeira dos estádios de futebol"
+      ]
+    ],
+    "Across": [
+      [
+        1,
+        "___ Bilac, autor da letra do 'Hino à Bandeira do Brasil'"
+      ],
+      [
+        6,
+        "Troncos de madeira"
+      ],
+      [
+        11,
+        "Custar"
+      ],
+      [
+        12,
+        "Desprovido de pés"
+      ],
+      [
+        13,
+        "Tratados com carinho"
+      ],
+      [
+        15,
+        "Ovo do piolho"
+      ],
+      [
+        16,
+        "Produto usado em depilação"
+      ],
+      [
+        17,
+        "Montam os aparelhos para usá-los"
+      ],
+      [
+        19,
+        "Mês do dia de Tiradentes (abrev.)"
+      ],
+      [
+        22,
+        "Chá, em inglês"
+      ],
+      [
+        23,
+        "Adoro"
+      ],
+      [
+        24,
+        "Mamífero peludo que cava túneis"
+      ],
+      [
+        27,
+        "Opção ao Bradesco"
+      ],
+      [
+        28,
+        "Resguardo, pudor"
+      ],
+      [
+        32,
+        "Condição que beneficia (fig.) (3 palavras)"
+      ],
+      [
+        34,
+        "Artifício astucioso"
+      ],
+      [
+        35,
+        "Aparelho para ensinar as crianças a contar"
+      ],
+      [
+        36,
+        "'___: Um Mar de Aventuras', animação da Disney"
+      ],
+      [
+        37,
+        "Adesivos postais"
+      ]
+    ]
+  },
+  "empty": ":"
+}

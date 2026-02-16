@@ -1,0 +1,457 @@
+{
+  "date": "2026-01-06",
+  "level": "daily",
+  "dimensions": {
+    "width": 11,
+    "height": 11
+  },
+  "puzzle": [
+    [
+      1,
+      2,
+      3,
+      4,
+      5,
+      "#",
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    [
+      11,
+      ":",
+      ":",
+      ":",
+      ":",
+      12,
+      ":",
+      ":",
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      13,
+      ":",
+      ":",
+      ":",
+      ":",
+      ":",
+      ":",
+      ":",
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      14,
+      ":",
+      ":",
+      ":",
+      ":",
+      ":",
+      ":",
+      "#",
+      15,
+      ":",
+      ":"
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      16,
+      ":",
+      ":",
+      "#",
+      17,
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      18,
+      19,
+      20,
+      ":",
+      ":",
+      ":",
+      21,
+      ":",
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      22,
+      ":",
+      ":",
+      ":",
+      "#",
+      23,
+      ":",
+      ":",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      24,
+      ":",
+      ":",
+      "#",
+      25,
+      ":",
+      ":",
+      ":",
+      26,
+      27,
+      28
+    ],
+    [
+      29,
+      ":",
+      ":",
+      30,
+      ":",
+      ":",
+      ":",
+      ":",
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      31,
+      ":",
+      ":",
+      ":",
+      ":",
+      ":",
+      ":",
+      ":",
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      32,
+      ":",
+      ":",
+      ":",
+      ":",
+      "#",
+      33,
+      ":",
+      ":",
+      ":",
+      ":"
+    ]
+  ],
+  "solution": [
+    [
+      "I",
+      "M",
+      "I",
+      "T",
+      "A",
+      "#",
+      "D",
+      "O",
+      "R",
+      "E",
+      "S"
+    ],
+    [
+      "P",
+      "E",
+      "G",
+      "A",
+      "N",
+      "D",
+      "O",
+      "L",
+      "E",
+      "V",
+      "E"
+    ],
+    [
+      "A",
+      "M",
+      "O",
+      "R",
+      "T",
+      "E",
+      "C",
+      "E",
+      "D",
+      "O",
+      "R"
+    ],
+    [
+      "D",
+      "E",
+      "R",
+      "R",
+      "E",
+      "T",
+      "E",
+      "#",
+      "O",
+      "C",
+      "O"
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      "A",
+      "N",
+      "U",
+      "#",
+      "U",
+      "M",
+      "A",
+      "S"
+    ],
+    [
+      "D",
+      "E",
+      "I",
+      "X",
+      "A",
+      "R",
+      "C",
+      "L",
+      "A",
+      "R",
+      "O"
+    ],
+    [
+      "E",
+      "S",
+      "S",
+      "A",
+      "#",
+      "P",
+      "A",
+      "C",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      "U",
+      "N",
+      "O",
+      "#",
+      "P",
+      "A",
+      "R",
+      "E",
+      "C",
+      "E",
+      "M"
+    ],
+    [
+      "S",
+      "O",
+      "L",
+      "D",
+      "A",
+      "D",
+      "O",
+      "R",
+      "A",
+      "S",
+      "O"
+    ],
+    [
+      "A",
+      "B",
+      "A",
+      "N",
+      "D",
+      "O",
+      "N",
+      "A",
+      "R",
+      "A",
+      "M"
+    ],
+    [
+      "S",
+      "E",
+      "R",
+      "V",
+      "O",
+      "#",
+      "A",
+      "R",
+      "D",
+      "U",
+      "O"
+    ]
+  ],
+  "clues": {
+    "Down": [
+      [
+        1,
+        "Tablet produzido pela Apple"
+      ],
+      [
+        2,
+        "Post engraçado nas redes sociais"
+      ],
+      [
+        3,
+        "___ Guimarães, humorista"
+      ],
+      [
+        4,
+        "Peça que prende o brinco"
+      ],
+      [
+        5,
+        "Parte do rádio ou da formiga"
+      ],
+      [
+        6,
+        "Como o sabor do pudim"
+      ],
+      [
+        7,
+        "Grito do flamenco"
+      ],
+      [
+        8,
+        "'Sob a ___', obra de Stephen King"
+      ],
+      [
+        9,
+        "Fazer vir à lembrança"
+      ],
+      [
+        10,
+        "Que contém soro"
+      ],
+      [
+        12,
+        "Modificado de maneira tendenciosa"
+      ],
+      [
+        17,
+        "Causar lesões na pele ou em mucosas"
+      ],
+      [
+        18,
+        "Divindades femininas"
+      ],
+      [
+        19,
+        "Pessoa que se acha superior"
+      ],
+      [
+        20,
+        "Separar dos demais"
+      ],
+      [
+        21,
+        "Pessoa que viaja sem pagar passagem"
+      ],
+      [
+        25,
+        "Marca de cadeados"
+      ],
+      [
+        26,
+        "Carta de baralho, em inglês"
+      ],
+      [
+        27,
+        "Filho de Isaque, irmão de Jacó (Bíbl.)"
+      ],
+      [
+        28,
+        "Rei em desfiles de Carnaval"
+      ],
+      [
+        30,
+        "De novo, em chats"
+      ]
+    ],
+    "Across": [
+      [
+        1,
+        "Tenta reproduzir exatamente"
+      ],
+      [
+        6,
+        "Alvos dos analgésicos"
+      ],
+      [
+        11,
+        "Indo com calma (2 palavras)"
+      ],
+      [
+        13,
+        "Diminui as vibrações do carro em estradas esburacadas"
+      ],
+      [
+        14,
+        "Liquefaz"
+      ],
+      [
+        15,
+        "Sem recheio nenhum"
+      ],
+      [
+        16,
+        "Ave negra predadora de insetos"
+      ],
+      [
+        17,
+        "Poucas"
+      ],
+      [
+        18,
+        "Tirar todas as dúvidas (2 palavras)"
+      ],
+      [
+        22,
+        "'___ Moça Tá Diferente', canção de Chico Buarque"
+      ],
+      [
+        23,
+        "___-Man, jogo eletrônico"
+      ],
+      [
+        24,
+        "Um, no Uruguai"
+      ],
+      [
+        25,
+        "São semelhantes"
+      ],
+      [
+        29,
+        "Militar sem graduação (2 palavras)"
+      ],
+      [
+        31,
+        "Deixaram (o local)"
+      ],
+      [
+        32,
+        "Criado, empregado"
+      ],
+      [
+        33,
+        "Penoso"
+      ]
+    ]
+  },
+  "empty": ":"
+}

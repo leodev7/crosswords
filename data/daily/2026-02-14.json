@@ -1,0 +1,465 @@
+{
+  "date": "2026-02-14",
+  "level": "daily",
+  "dimensions": {
+    "width": 11,
+    "height": 11
+  },
+  "puzzle": [
+    [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      "#",
+      7,
+      8,
+      9,
+      10
+    ],
+    [
+      11,
+      ":",
+      ":",
+      ":",
+      ":",
+      ":",
+      "#",
+      12,
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      13,
+      ":",
+      ":",
+      ":",
+      ":",
+      ":",
+      "#",
+      14,
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      15,
+      ":",
+      ":",
+      "#",
+      "#",
+      16,
+      17,
+      ":",
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      18,
+      ":",
+      ":",
+      19,
+      20,
+      ":",
+      ":",
+      ":",
+      ":",
+      ":",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      21,
+      ":",
+      ":",
+      ":",
+      ":",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      22,
+      23,
+      ":",
+      ":",
+      ":",
+      ":",
+      ":",
+      24,
+      25,
+      26
+    ],
+    [
+      27,
+      ":",
+      ":",
+      ":",
+      ":",
+      ":",
+      "#",
+      "#",
+      28,
+      ":",
+      ":"
+    ],
+    [
+      29,
+      ":",
+      ":",
+      ":",
+      "#",
+      30,
+      31,
+      32,
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      33,
+      ":",
+      ":",
+      ":",
+      "#",
+      34,
+      ":",
+      ":",
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      35,
+      ":",
+      ":",
+      ":",
+      "#",
+      36,
+      ":",
+      ":",
+      ":",
+      ":",
+      ":"
+    ]
+  ],
+  "solution": [
+    [
+      "C",
+      "A",
+      "I",
+      "D",
+      "O",
+      "S",
+      "#",
+      "A",
+      "T",
+      "U",
+      "M"
+    ],
+    [
+      "A",
+      "L",
+      "F",
+      "A",
+      "C",
+      "E",
+      "#",
+      "B",
+      "A",
+      "N",
+      "E"
+    ],
+    [
+      "P",
+      "I",
+      "O",
+      "R",
+      "A",
+      "R",
+      "#",
+      "A",
+      "N",
+      "I",
+      "L"
+    ],
+    [
+      "U",
+      "N",
+      "O",
+      "#",
+      "#",
+      "T",
+      "R",
+      "I",
+      "T",
+      "Ã",
+      "O"
+    ],
+    [
+      "Z",
+      "E",
+      "D",
+      "O",
+      "C",
+      "A",
+      "I",
+      "X",
+      "Ã",
+      "O",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      "R",
+      "O",
+      "N",
+      "C",
+      "A",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      "G",
+      "E",
+      "L",
+      "E",
+      "I",
+      "A",
+      "R",
+      "E",
+      "A",
+      "L"
+    ],
+    [
+      "N",
+      "A",
+      "V",
+      "A",
+      "I",
+      "S",
+      "#",
+      "#",
+      "S",
+      "L",
+      "A"
+    ],
+    [
+      "A",
+      "L",
+      "A",
+      "N",
+      "#",
+      "T",
+      "I",
+      "C",
+      "T",
+      "A",
+      "C"
+    ],
+    [
+      "B",
+      "O",
+      "N",
+      "D",
+      "#",
+      "A",
+      "D",
+      "I",
+      "A",
+      "D",
+      "A"
+    ],
+    [
+      "O",
+      "S",
+      "S",
+      "O",
+      "#",
+      "S",
+      "H",
+      "A",
+      "R",
+      "O",
+      "N"
+    ]
+  ],
+  "clues": {
+    "Down": [
+      [
+        1,
+        "Parte de um casaco que cobre a cabeça"
+      ],
+      [
+        2,
+        "___ Barros, cantora gospel brasileira"
+      ],
+      [
+        3,
+        "Empresa do ramo de entrega de comida"
+      ],
+      [
+        4,
+        "Presentear"
+      ],
+      [
+        5,
+        "Desprovida de qualquer conteúdo"
+      ],
+      [
+        6,
+        "Ocupações dos Irmãos Villas-Bôas"
+      ],
+      [
+        7,
+        "Diminuir a altura de"
+      ],
+      [
+        8,
+        "Tonto, maluco"
+      ],
+      [
+        9,
+        "Faz a força, segundo o ditado"
+      ],
+      [
+        10,
+        "João Cabral de ___ Neto, escritor recifense"
+      ],
+      [
+        17,
+        "Cheia de posses"
+      ],
+      [
+        19,
+        "Destino turístico da Flórida"
+      ],
+      [
+        20,
+        "Filtrei"
+      ],
+      [
+        22,
+        "Animais com esporões"
+      ],
+      [
+        23,
+        "Chris ___, interpretou o Capitão América no cinema"
+      ],
+      [
+        24,
+        "Permanecer em uma posição"
+      ],
+      [
+        25,
+        "Que tem asas"
+      ],
+      [
+        26,
+        "Jacques ___, psicanalista francês"
+      ],
+      [
+        27,
+        "Raiz comestível, rica em cálcio"
+      ],
+      [
+        31,
+        "Índice alto na Suíça"
+      ],
+      [
+        32,
+        "Agência de inteligência estadunidense"
+      ]
+    ],
+    "Across": [
+      [
+        1,
+        "Voltados para baixo"
+      ],
+      [
+        7,
+        "Sabor de ração úmida para gatos"
+      ],
+      [
+        11,
+        "Hortaliça com 95% de água"
+      ],
+      [
+        12,
+        "Expulsa da pátria"
+      ],
+      [
+        13,
+        "Agravar a situação"
+      ],
+      [
+        14,
+        "Variação do azul"
+      ],
+      [
+        15,
+        "Que não pode ser alvo de divisão, separação; indiviso, indivisível."
+      ],
+      [
+        16,
+        "Deus marinho, versão masculina de uma sereia"
+      ],
+      [
+        18,
+        "Personagem de José Mojica Marins (3 palavras)"
+      ],
+      [
+        21,
+        "Faz barulho (o motor)"
+      ],
+      [
+        22,
+        "Alimento da abelha-rainha (2 palavras)"
+      ],
+      [
+        27,
+        "Relativos à Marinha de Guerra"
+      ],
+      [
+        28,
+        "Sei lá, na internet"
+      ],
+      [
+        29,
+        "___ e Aladim, dupla sertaneja brasileira"
+      ],
+      [
+        30,
+        "Marca de balinhas que vêm em caixinhas transparentes (2 palavras)"
+      ],
+      [
+        33,
+        "James ___: o agente secreto 007"
+      ],
+      [
+        34,
+        "Alterada (a data do evento)"
+      ],
+      [
+        35,
+        "O cóccix é um"
+      ],
+      [
+        36,
+        "___ Stone, atriz dos EUA"
+      ]
+    ]
+  },
+  "empty": ":"
+}

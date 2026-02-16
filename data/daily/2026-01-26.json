@@ -1,0 +1,457 @@
+{
+  "date": "2026-01-26",
+  "level": "daily",
+  "dimensions": {
+    "width": 11,
+    "height": 11
+  },
+  "puzzle": [
+    [
+      1,
+      2,
+      3,
+      4,
+      5,
+      "#",
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    [
+      11,
+      ":",
+      ":",
+      ":",
+      ":",
+      "#",
+      12,
+      ":",
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      13,
+      ":",
+      ":",
+      ":",
+      ":",
+      "#",
+      14,
+      ":",
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      15,
+      ":",
+      ":",
+      ":",
+      ":",
+      16,
+      ":",
+      ":",
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      17,
+      ":",
+      ":",
+      "#",
+      18,
+      ":",
+      ":",
+      ":",
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      19,
+      ":",
+      ":",
+      ":",
+      ":",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      20,
+      21,
+      22,
+      ":",
+      ":",
+      ":",
+      ":",
+      "#",
+      23,
+      24,
+      25
+    ],
+    [
+      26,
+      ":",
+      ":",
+      ":",
+      ":",
+      ":",
+      ":",
+      27,
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      28,
+      ":",
+      ":",
+      ":",
+      ":",
+      "#",
+      29,
+      ":",
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      30,
+      ":",
+      ":",
+      ":",
+      ":",
+      "#",
+      31,
+      ":",
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      32,
+      ":",
+      ":",
+      ":",
+      ":",
+      "#",
+      33,
+      ":",
+      ":",
+      ":",
+      ":"
+    ]
+  ],
+  "solution": [
+    [
+      "A",
+      "B",
+      "A",
+      "L",
+      "A",
+      "#",
+      "C",
+      "U",
+      "R",
+      "A",
+      "R"
+    ],
+    [
+      "P",
+      "O",
+      "T",
+      "E",
+      "S",
+      "#",
+      "A",
+      "M",
+      "E",
+      "B",
+      "A"
+    ],
+    [
+      "P",
+      "R",
+      "E",
+      "A",
+      "S",
+      "#",
+      "T",
+      "I",
+      "M",
+      "E",
+      "R"
+    ],
+    [
+      "L",
+      "A",
+      "U",
+      "D",
+      "O",
+      "M",
+      "E",
+      "D",
+      "I",
+      "C",
+      "O"
+    ],
+    [
+      "E",
+      "T",
+      "S",
+      "#",
+      "L",
+      "U",
+      "G",
+      "A",
+      "R",
+      "E",
+      "S"
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      "C",
+      "A",
+      "R",
+      "O",
+      "S",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      "A",
+      "G",
+      "R",
+      "A",
+      "D",
+      "A",
+      "R",
+      "#",
+      "P",
+      "E",
+      "P"
+    ],
+    [
+      "G",
+      "E",
+      "O",
+      "P",
+      "O",
+      "L",
+      "I",
+      "T",
+      "I",
+      "C",
+      "A"
+    ],
+    [
+      "E",
+      "S",
+      "T",
+      "E",
+      "R",
+      "#",
+      "Z",
+      "E",
+      "R",
+      "O",
+      "U"
+    ],
+    [
+      "I",
+      "S",
+      "O",
+      "L",
+      "E",
+      "#",
+      "A",
+      "V",
+      "E",
+      "A",
+      "L"
+    ],
+    [
+      "S",
+      "O",
+      "R",
+      "O",
+      "S",
+      "#",
+      "R",
+      "E",
+      "S",
+      "M",
+      "A"
+    ]
+  ],
+  "clues": {
+    "Down": [
+      [
+        1,
+        "Concorrente da Samsung"
+      ],
+      [
+        2,
+        "Personagem que é um repórter do Cazaquistão"
+      ],
+      [
+        3,
+        "Sartre e Camus, por suas religiões"
+      ],
+      [
+        4,
+        "Chumbo, em inglês"
+      ],
+      [
+        5,
+        "Destruidores"
+      ],
+      [
+        6,
+        "Separar em classes"
+      ],
+      [
+        7,
+        "Impregnadas de água"
+      ],
+      [
+        8,
+        "Perdoar, libertar de culpa"
+      ],
+      [
+        9,
+        "Primeiras noções de leitura"
+      ],
+      [
+        10,
+        "Que ocorrem muito pouco"
+      ],
+      [
+        16,
+        "Quadro de avisos"
+      ],
+      [
+        19,
+        "Chapéu de cardeal"
+      ],
+      [
+        20,
+        "Rápidos, velozes"
+      ],
+      [
+        21,
+        "Massa usada na construção"
+      ],
+      [
+        22,
+        "Peça de motor elétrico que gira"
+      ],
+      [
+        23,
+        "Alexandre ___, cantor de 'Cigano'"
+      ],
+      [
+        24,
+        "Soam, retumbam"
+      ],
+      [
+        25,
+        "Francisco de ___, santo que foi um eremita"
+      ],
+      [
+        27,
+        "Possuiu"
+      ]
+    ],
+    "Across": [
+      [
+        1,
+        "Causa comoção (fig.)"
+      ],
+      [
+        6,
+        "Restituir a saúde"
+      ],
+      [
+        11,
+        "Recipientes para guardar objetos"
+      ],
+      [
+        12,
+        "Parasita que pode causar disenteria"
+      ],
+      [
+        13,
+        "Roedores com aparência similar a do porquinho-da-índia"
+      ],
+      [
+        14,
+        "Cronômetro (ing.)"
+      ],
+      [
+        15,
+        "Relatório após uma avaliação clínica (2 palavras)"
+      ],
+      [
+        17,
+        "Seres verdes em algumas HQs"
+      ],
+      [
+        18,
+        "Localidades"
+      ],
+      [
+        19,
+        "De preços altos"
+      ],
+      [
+        20,
+        "Satisfazer o gosto"
+      ],
+      [
+        23,
+        "___ Guardiola, treinador de futebol"
+      ],
+      [
+        26,
+        "Temática abordada em '1984'"
+      ],
+      [
+        28,
+        "Rainha com um livro bíblico no A.T."
+      ],
+      [
+        29,
+        "Reduziu a nada"
+      ],
+      [
+        30,
+        "Afaste dos demais"
+      ],
+      [
+        31,
+        "Campo de um cereal rico em vitaminas e fibras"
+      ],
+      [
+        32,
+        "Líquidos usados na hidratação de doentes"
+      ],
+      [
+        33,
+        "Pacote com 500 folhas de papel"
+      ]
+    ]
+  },
+  "empty": ":"
+}

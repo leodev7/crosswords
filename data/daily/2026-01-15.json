@@ -1,0 +1,457 @@
+{
+  "date": "2026-01-15",
+  "level": "daily",
+  "dimensions": {
+    "width": 11,
+    "height": 11
+  },
+  "puzzle": [
+    [
+      "#",
+      "#",
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    [
+      "#",
+      10,
+      ":",
+      ":",
+      ":",
+      ":",
+      ":",
+      ":",
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      11,
+      ":",
+      ":",
+      ":",
+      ":",
+      ":",
+      ":",
+      ":",
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      12,
+      ":",
+      ":",
+      "#",
+      13,
+      ":",
+      ":",
+      ":",
+      ":",
+      ":",
+      "#"
+    ],
+    [
+      14,
+      ":",
+      ":",
+      15,
+      "#",
+      16,
+      ":",
+      ":",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      17,
+      ":",
+      ":",
+      ":",
+      18,
+      "#",
+      19,
+      ":",
+      20,
+      21,
+      22
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      23,
+      ":",
+      24,
+      "#",
+      25,
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      "#",
+      26,
+      27,
+      ":",
+      ":",
+      ":",
+      28,
+      "#",
+      29,
+      ":",
+      ":"
+    ],
+    [
+      30,
+      ":",
+      ":",
+      ":",
+      ":",
+      ":",
+      ":",
+      31,
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      32,
+      ":",
+      ":",
+      ":",
+      ":",
+      ":",
+      ":",
+      ":",
+      ":",
+      ":",
+      "#"
+    ],
+    [
+      33,
+      ":",
+      ":",
+      ":",
+      ":",
+      ":",
+      ":",
+      ":",
+      ":",
+      "#",
+      "#"
+    ]
+  ],
+  "solution": [
+    [
+      "#",
+      "#",
+      "C",
+      "A",
+      "N",
+      "A",
+      "V",
+      "E",
+      "R",
+      "A",
+      "L"
+    ],
+    [
+      "#",
+      "C",
+      "A",
+      "L",
+      "A",
+      "M",
+      "I",
+      "T",
+      "O",
+      "S",
+      "O"
+    ],
+    [
+      "D",
+      "E",
+      "S",
+      "A",
+      "B",
+      "O",
+      "N",
+      "A",
+      "D",
+      "O",
+      "S"
+    ],
+    [
+      "O",
+      "R",
+      "A",
+      "#",
+      "O",
+      "U",
+      "T",
+      "R",
+      "O",
+      "S",
+      "#"
+    ],
+    [
+      "I",
+      "R",
+      "I",
+      "S",
+      "#",
+      "R",
+      "E",
+      "I",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      "S",
+      "O",
+      "S",
+      "I",
+      "A",
+      "#",
+      "M",
+      "O",
+      "R",
+      "A",
+      "R"
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      "M",
+      "D",
+      "F",
+      "#",
+      "S",
+      "O",
+      "N",
+      "O"
+    ],
+    [
+      "#",
+      "C",
+      "A",
+      "B",
+      "E",
+      "A",
+      "R",
+      "#",
+      "N",
+      "E",
+      "T"
+    ],
+    [
+      "D",
+      "E",
+      "C",
+      "O",
+      "R",
+      "R",
+      "E",
+      "N",
+      "C",
+      "I",
+      "A"
+    ],
+    [
+      "A",
+      "P",
+      "E",
+      "L",
+      "I",
+      "D",
+      "A",
+      "D",
+      "A",
+      "S",
+      "#"
+    ],
+    [
+      "N",
+      "A",
+      "M",
+      "O",
+      "R",
+      "A",
+      "D",
+      "O",
+      "R",
+      "#",
+      "#"
+    ]
+  ],
+  "clues": {
+    "Down": [
+      [
+        1,
+        "Pares românticos"
+      ],
+      [
+        2,
+        "Posição no basquete"
+      ],
+      [
+        3,
+        "Raiz comestível, rica em cálcio"
+      ],
+      [
+        4,
+        "Amor, na França"
+      ],
+      [
+        5,
+        "Moeda que valia 20 réis"
+      ],
+      [
+        6,
+        "Próprios da idade"
+      ],
+      [
+        7,
+        "É usado para puxar água do chão"
+      ],
+      [
+        8,
+        "Sem outra companhia (2 palavras)"
+      ],
+      [
+        9,
+        "Paso de ___ Toros: cidade uruguaia"
+      ],
+      [
+        10,
+        "Pequeno morro"
+      ],
+      [
+        11,
+        "x, em 25x = 50"
+      ],
+      [
+        15,
+        "Sinal que representa um conceito"
+      ],
+      [
+        18,
+        "Colar, grudar"
+      ],
+      [
+        20,
+        "Fazer barulho ao dormir"
+      ],
+      [
+        21,
+        "'O Senhor dos ___', saga de Tolkien"
+      ],
+      [
+        22,
+        "Trajeto seguido pelo piloto de avião"
+      ],
+      [
+        24,
+        "Uniforme militar"
+      ],
+      [
+        26,
+        "Caule da videira"
+      ],
+      [
+        27,
+        "Corte de carne do lombo bovino"
+      ],
+      [
+        28,
+        "Ler, em Londres"
+      ],
+      [
+        30,
+        "___ Stulbach, ator brasileiro"
+      ],
+      [
+        31,
+        "Terminação de verbos no gerúndio"
+      ]
+    ],
+    "Across": [
+      [
+        1,
+        "Cabo ___: local de lançamentos de naves na Flórida"
+      ],
+      [
+        10,
+        "Que envolve uma grande desgraça"
+      ],
+      [
+        11,
+        "Desacreditados"
+      ],
+      [
+        12,
+        "Dirige súplicas a Deus"
+      ],
+      [
+        13,
+        "Nem estes nem aqueles"
+      ],
+      [
+        14,
+        "Membrana do olho"
+      ],
+      [
+        16,
+        "Carta do baralho com a letra 'K'"
+      ],
+      [
+        17,
+        "Pessoa muito parecida fisicamente"
+      ],
+      [
+        19,
+        "Viver em uma casa"
+      ],
+      [
+        23,
+        "Material feito com fibras de madeira coladas"
+      ],
+      [
+        25,
+        "Reação ao assistir a um filme chato"
+      ],
+      [
+        26,
+        "Conectar através de feixes de fios"
+      ],
+      [
+        29,
+        "Rede, em inglês"
+      ],
+      [
+        30,
+        "Consequência"
+      ],
+      [
+        32,
+        "Chamadas pelas alcunhas"
+      ],
+      [
+        33,
+        "O homem que está sempre em busca de um romance"
+      ]
+    ]
+  },
+  "empty": ":"
+}

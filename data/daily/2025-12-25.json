@@ -1,0 +1,465 @@
+{
+  "date": "2025-12-25",
+  "level": "daily",
+  "dimensions": {
+    "width": 11,
+    "height": 11
+  },
+  "puzzle": [
+    [
+      1,
+      2,
+      3,
+      4,
+      "#",
+      "#",
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    [
+      10,
+      ":",
+      ":",
+      ":",
+      11,
+      "#",
+      12,
+      ":",
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      13,
+      ":",
+      ":",
+      ":",
+      ":",
+      14,
+      ":",
+      ":",
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      15,
+      ":",
+      ":",
+      ":",
+      ":",
+      ":",
+      "#",
+      16,
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      17,
+      ":",
+      ":",
+      "#",
+      18,
+      ":",
+      19,
+      ":",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      20,
+      ":",
+      ":",
+      21,
+      ":",
+      ":",
+      ":",
+      ":",
+      22,
+      23,
+      24
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      25,
+      ":",
+      ":",
+      ":",
+      "#",
+      26,
+      ":",
+      ":"
+    ],
+    [
+      27,
+      28,
+      29,
+      ":",
+      "#",
+      30,
+      ":",
+      31,
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      32,
+      ":",
+      ":",
+      ":",
+      33,
+      ":",
+      ":",
+      ":",
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      34,
+      ":",
+      ":",
+      ":",
+      ":",
+      "#",
+      35,
+      ":",
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      36,
+      ":",
+      ":",
+      ":",
+      ":",
+      "#",
+      "#",
+      37,
+      ":",
+      ":",
+      ":"
+    ]
+  ],
+  "solution": [
+    [
+      "T",
+      "A",
+      "T",
+      "I",
+      "#",
+      "#",
+      "O",
+      "P",
+      "A",
+      "L",
+      "A"
+    ],
+    [
+      "E",
+      "C",
+      "O",
+      "A",
+      "M",
+      "#",
+      "L",
+      "E",
+      "N",
+      "I",
+      "N"
+    ],
+    [
+      "C",
+      "E",
+      "S",
+      "T",
+      "O",
+      "D",
+      "E",
+      "L",
+      "I",
+      "X",
+      "O"
+    ],
+    [
+      "I",
+      "N",
+      "S",
+      "E",
+      "R",
+      "I",
+      "#",
+      "E",
+      "L",
+      "E",
+      "S"
+    ],
+    [
+      "D",
+      "A",
+      "I",
+      "#",
+      "E",
+      "S",
+      "T",
+      "A",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      "A",
+      "R",
+      "R",
+      "A",
+      "N",
+      "C",
+      "A",
+      "R",
+      "A",
+      "B",
+      "O"
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      "B",
+      "O",
+      "O",
+      "T",
+      "#",
+      "G",
+      "I",
+      "L"
+    ],
+    [
+      "A",
+      "R",
+      "I",
+      "A",
+      "#",
+      "R",
+      "E",
+      "G",
+      "U",
+      "L",
+      "E"
+    ],
+    [
+      "L",
+      "A",
+      "P",
+      "I",
+      "S",
+      "D",
+      "E",
+      "O",
+      "L",
+      "H",
+      "O"
+    ],
+    [
+      "A",
+      "F",
+      "O",
+      "X",
+      "E",
+      "#",
+      "I",
+      "L",
+      "H",
+      "A",
+      "S"
+    ],
+    [
+      "N",
+      "A",
+      "D",
+      "O",
+      "U",
+      "#",
+      "#",
+      "F",
+      "A",
+      "R",
+      "A"
+    ]
+  ],
+  "clues": {
+    "Down": [
+      [
+        1,
+        "Urdida"
+      ],
+      [
+        2,
+        "Uma forma de dar 'oi' ou 'tchau'"
+      ],
+      [
+        3,
+        "Ato involuntário para limpar a garganta"
+      ],
+      [
+        4,
+        "Produto da Ferretti"
+      ],
+      [
+        5,
+        "Grito do flamenco"
+      ],
+      [
+        6,
+        "Brigar, no Sul do Brasil"
+      ],
+      [
+        7,
+        "Substância corante azul"
+      ],
+      [
+        8,
+        "Alise a madeira"
+      ],
+      [
+        9,
+        "Podem ser representados por velas"
+      ],
+      [
+        11,
+        "Que tem a cor dos cabelos um pouco escura"
+      ],
+      [
+        14,
+        "Plataforma para jogos e bate-papo"
+      ],
+      [
+        19,
+        "Toquei"
+      ],
+      [
+        21,
+        "Em situação inferior"
+      ],
+      [
+        22,
+        "Objeto usado para cerzir"
+      ],
+      [
+        23,
+        "Jogo disputado com bolas de marfim, antigamente"
+      ],
+      [
+        24,
+        "Como a pele com brilho excessivo"
+      ],
+      [
+        27,
+        "___ Turing, matemático britânico"
+      ],
+      [
+        28,
+        "Apelido do tenista Nadal"
+      ],
+      [
+        29,
+        "Aparelho da Apple lançado em 2001"
+      ],
+      [
+        31,
+        "O 'G' no alfabeto fonético da OTAN"
+      ],
+      [
+        33,
+        "___ Jorge, cantor do Rio de Janeiro"
+      ]
+    ],
+    "Across": [
+      [
+        1,
+        "Apelido que omite 'ana' ou 'ane'"
+      ],
+      [
+        5,
+        "Antigo carro da GM"
+      ],
+      [
+        10,
+        "Repetem um som"
+      ],
+      [
+        12,
+        "Líder que emitiu as 'Teses de Abril'"
+      ],
+      [
+        13,
+        "Recipiente que pode ter um pedal"
+      ],
+      [
+        15,
+        "Incluí"
+      ],
+      [
+        16,
+        "Estes sujeitos"
+      ],
+      [
+        17,
+        "Dessa região"
+      ],
+      [
+        18,
+        "'O Vencedor ___ Só', obra de Paulo Coelho"
+      ],
+      [
+        20,
+        "Briga, desavença (Bras.)"
+      ],
+      [
+        25,
+        "Bota, em Boston"
+      ],
+      [
+        26,
+        "___ Vicente, poeta português"
+      ],
+      [
+        27,
+        "Peça para solista"
+      ],
+      [
+        30,
+        "Ajuste"
+      ],
+      [
+        32,
+        "Item em muitos kits de maquiagem"
+      ],
+      [
+        34,
+        "Dança reminiscente da Congada"
+      ],
+      [
+        35,
+        "Locais como Avalon"
+      ],
+      [
+        36,
+        "Realizou o crawl"
+      ],
+      [
+        37,
+        "Criará"
+      ]
+    ]
+  },
+  "empty": ":"
+}

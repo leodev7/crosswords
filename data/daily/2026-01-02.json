@@ -1,0 +1,465 @@
+{
+  "date": "2026-01-02",
+  "level": "daily",
+  "dimensions": {
+    "width": 11,
+    "height": 11
+  },
+  "puzzle": [
+    [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      "#",
+      7,
+      8,
+      9,
+      10
+    ],
+    [
+      11,
+      ":",
+      ":",
+      ":",
+      ":",
+      ":",
+      "#",
+      12,
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      13,
+      ":",
+      ":",
+      ":",
+      ":",
+      ":",
+      14,
+      ":",
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      15,
+      ":",
+      ":",
+      ":",
+      ":",
+      ":",
+      ":",
+      "#",
+      16,
+      ":",
+      ":"
+    ],
+    [
+      "#",
+      "#",
+      17,
+      ":",
+      ":",
+      "#",
+      18,
+      19,
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      20,
+      21,
+      ":",
+      ":",
+      "#",
+      "#",
+      "#",
+      22,
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      23,
+      ":",
+      ":",
+      ":",
+      24,
+      "#",
+      25,
+      ":",
+      ":",
+      "#",
+      "#"
+    ],
+    [
+      26,
+      ":",
+      ":",
+      "#",
+      27,
+      28,
+      ":",
+      ":",
+      ":",
+      29,
+      30
+    ],
+    [
+      31,
+      ":",
+      ":",
+      32,
+      ":",
+      ":",
+      ":",
+      ":",
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      33,
+      ":",
+      ":",
+      ":",
+      "#",
+      34,
+      ":",
+      ":",
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      35,
+      ":",
+      ":",
+      ":",
+      "#",
+      36,
+      ":",
+      ":",
+      ":",
+      ":",
+      ":"
+    ]
+  ],
+  "solution": [
+    [
+      "V",
+      "A",
+      "T",
+      "A",
+      "P",
+      "A",
+      "#",
+      "A",
+      "M",
+      "E",
+      "M"
+    ],
+    [
+      "I",
+      "N",
+      "A",
+      "N",
+      "I",
+      "R",
+      "#",
+      "B",
+      "O",
+      "X",
+      "E"
+    ],
+    [
+      "E",
+      "N",
+      "G",
+      "A",
+      "N",
+      "C",
+      "H",
+      "A",
+      "D",
+      "A",
+      "S"
+    ],
+    [
+      "R",
+      "E",
+      "A",
+      "L",
+      "Ç",
+      "A",
+      "M",
+      "#",
+      "A",
+      "L",
+      "T"
+    ],
+    [
+      "#",
+      "#",
+      "R",
+      "I",
+      "A",
+      "#",
+      "M",
+      "E",
+      "L",
+      "A",
+      "R"
+    ],
+    [
+      "O",
+      "D",
+      "E",
+      "S",
+      "#",
+      "#",
+      "#",
+      "M",
+      "I",
+      "R",
+      "E"
+    ],
+    [
+      "P",
+      "A",
+      "L",
+      "A",
+      "U",
+      "#",
+      "A",
+      "I",
+      "D",
+      "#",
+      "#"
+    ],
+    [
+      "A",
+      "R",
+      "A",
+      "#",
+      "S",
+      "A",
+      "L",
+      "T",
+      "A",
+      "V",
+      "A"
+    ],
+    [
+      "C",
+      "O",
+      "N",
+      "V",
+      "E",
+      "R",
+      "T",
+      "I",
+      "D",
+      "O",
+      "S"
+    ],
+    [
+      "O",
+      "N",
+      "D",
+      "E",
+      "#",
+      "R",
+      "E",
+      "D",
+      "E",
+      "A",
+      "S"
+    ],
+    [
+      "S",
+      "O",
+      "O",
+      "U",
+      "#",
+      "E",
+      "R",
+      "A",
+      "S",
+      "M",
+      "O"
+    ]
+  ],
+  "clues": {
+    "Down": [
+      [
+        1,
+        "'Pronto para o que der e ___'"
+      ],
+      [
+        2,
+        "'O Diário de ___ Frank'"
+      ],
+      [
+        3,
+        "Falando pelos cotovelos"
+      ],
+      [
+        4,
+        "Faz uma avaliação"
+      ],
+      [
+        5,
+        "Utensílio usado para puxar pelos"
+      ],
+      [
+        6,
+        "O barco construído por Noé"
+      ],
+      [
+        7,
+        "Cada janelinha do Google Chrome"
+      ],
+      [
+        8,
+        "Categorias de algo"
+      ],
+      [
+        9,
+        "Deixar escapar o aroma"
+      ],
+      [
+        10,
+        "___-sala: o par da porta-bandeira"
+      ],
+      [
+        14,
+        "Interjeição da pessoa pensativa"
+      ],
+      [
+        19,
+        "Lançada, expedida"
+      ],
+      [
+        20,
+        "Sem qualquer claridade (pl.)"
+      ],
+      [
+        21,
+        "Casar-se (gíria) (3 palavras)"
+      ],
+      [
+        24,
+        "Ponha em prática"
+      ],
+      [
+        25,
+        "___ ego: um segundo eu"
+      ],
+      [
+        28,
+        "Expressão que denota enfado"
+      ],
+      [
+        29,
+        "Viajam de helicóptero"
+      ],
+      [
+        30,
+        "Aqueço no forno"
+      ],
+      [
+        32,
+        "Tecido fino que cobre o rosto"
+      ]
+    ],
+    "Across": [
+      [
+        1,
+        "Acompanhamento do acarajé"
+      ],
+      [
+        7,
+        "Palavra que encerra orações"
+      ],
+      [
+        11,
+        "Debilitar"
+      ],
+      [
+        12,
+        "Esporte de Popó"
+      ],
+      [
+        13,
+        "Dependuradas em hastes curvas"
+      ],
+      [
+        15,
+        "Frisam"
+      ],
+      [
+        16,
+        "Tecla usada em atalhos"
+      ],
+      [
+        17,
+        "Achava graça no que diziam"
+      ],
+      [
+        18,
+        "Deixar pegajoso"
+      ],
+      [
+        20,
+        "Elogios poéticos"
+      ],
+      [
+        22,
+        "Faça pontaria"
+      ],
+      [
+        23,
+        "Pequeno país insular no Oceano Pacífico"
+      ],
+      [
+        25,
+        "Band-___, marca de curativos"
+      ],
+      [
+        26,
+        "Altar pagão"
+      ],
+      [
+        27,
+        "Pulava"
+      ],
+      [
+        31,
+        "Mudados de formato (os arquivos)"
+      ],
+      [
+        33,
+        "'Em que local?'"
+      ],
+      [
+        34,
+        "Partes do arreio"
+      ],
+      [
+        35,
+        "Produziu um ruído"
+      ],
+      [
+        36,
+        "___ Carlos, cantor de 'Filho Único'"
+      ]
+    ]
+  },
+  "empty": ":"
+}

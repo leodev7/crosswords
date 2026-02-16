@@ -1,0 +1,473 @@
+{
+  "date": "2025-12-18",
+  "level": "daily",
+  "dimensions": {
+    "width": 11,
+    "height": 11
+  },
+  "puzzle": [
+    [
+      1,
+      2,
+      3,
+      4,
+      5,
+      "#",
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    [
+      11,
+      ":",
+      ":",
+      ":",
+      ":",
+      "#",
+      12,
+      ":",
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      13,
+      ":",
+      ":",
+      ":",
+      ":",
+      "#",
+      14,
+      ":",
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      15,
+      ":",
+      ":",
+      "#",
+      16,
+      17,
+      ":",
+      ":",
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      18,
+      ":",
+      ":",
+      19,
+      "#",
+      20,
+      ":",
+      ":",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      21,
+      ":",
+      ":",
+      ":",
+      22,
+      ":",
+      ":",
+      ":",
+      23,
+      24,
+      25
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      26,
+      ":",
+      ":",
+      "#",
+      27,
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      28,
+      29,
+      30,
+      ":",
+      ":",
+      ":",
+      31,
+      "#",
+      32,
+      ":",
+      ":"
+    ],
+    [
+      33,
+      ":",
+      ":",
+      ":",
+      ":",
+      "#",
+      34,
+      35,
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      36,
+      ":",
+      ":",
+      ":",
+      ":",
+      "#",
+      37,
+      ":",
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      38,
+      ":",
+      ":",
+      ":",
+      ":",
+      "#",
+      39,
+      ":",
+      ":",
+      ":",
+      ":"
+    ]
+  ],
+  "solution": [
+    [
+      "C",
+      "A",
+      "L",
+      "A",
+      "R",
+      "#",
+      "A",
+      "M",
+      "B",
+      "A",
+      "S"
+    ],
+    [
+      "A",
+      "D",
+      "A",
+      "G",
+      "A",
+      "#",
+      "F",
+      "I",
+      "A",
+      "D",
+      "A"
+    ],
+    [
+      "T",
+      "O",
+      "C",
+      "O",
+      "U",
+      "#",
+      "A",
+      "L",
+      "T",
+      "A",
+      "R"
+    ],
+    [
+      "N",
+      "E",
+      "T",
+      "#",
+      "L",
+      "A",
+      "G",
+      "R",
+      "I",
+      "M",
+      "A"
+    ],
+    [
+      "I",
+      "C",
+      "E",
+      "I",
+      "#",
+      "T",
+      "A",
+      "E",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      "P",
+      "I",
+      "O",
+      "N",
+      "E",
+      "I",
+      "R",
+      "I",
+      "S",
+      "M",
+      "O"
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      "D",
+      "N",
+      "V",
+      "#",
+      "S",
+      "O",
+      "E",
+      "M"
+    ],
+    [
+      "A",
+      "B",
+      "A",
+      "I",
+      "X",
+      "E",
+      "M",
+      "#",
+      "D",
+      "D",
+      "I"
+    ],
+    [
+      "P",
+      "A",
+      "R",
+      "C",
+      "A",
+      "#",
+      "A",
+      "T",
+      "O",
+      "I",
+      "S"
+    ],
+    [
+      "O",
+      "N",
+      "T",
+      "E",
+      "M",
+      "#",
+      "T",
+      "E",
+      "M",
+      "A",
+      "S"
+    ],
+    [
+      "R",
+      "E",
+      "E",
+      "S",
+      "E",
+      "#",
+      "T",
+      "R",
+      "A",
+      "M",
+      "A"
+    ]
+  ],
+  "clues": {
+    "Down": [
+      [
+        1,
+        "Solução para um 'gato elétrico'"
+      ],
+      [
+        2,
+        "'Fiquei com raiva&quot;"
+      ],
+      [
+        3,
+        "Que tem cor de leite"
+      ],
+      [
+        4,
+        "Mês com o Dia do Folclore (abrev.)"
+      ],
+      [
+        5,
+        "___ Bopp, poeta modernista"
+      ],
+      [
+        6,
+        "Fazer carinho, mimar"
+      ],
+      [
+        7,
+        "Antiga unidade monetária brasileira"
+      ],
+      [
+        8,
+        "Cobrei (a falta)"
+      ],
+      [
+        9,
+        "Nome de He-Man"
+      ],
+      [
+        10,
+        "___ Kali: padroeira dos povos ciganos"
+      ],
+      [
+        17,
+        "Faça funcionar"
+      ],
+      [
+        19,
+        "Listas em TCCs"
+      ],
+      [
+        22,
+        "Reunião de operárias"
+      ],
+      [
+        23,
+        "Cidade com homens maus e pecadores, segundo a Bíblia"
+      ],
+      [
+        24,
+        "Usavam o paquímetro"
+      ],
+      [
+        25,
+        "Descuidada"
+      ],
+      [
+        28,
+        "Colocar junto ou sobre algo"
+      ],
+      [
+        29,
+        "Exila"
+      ],
+      [
+        30,
+        "___ pela ___: busca do Parnasianismo"
+      ],
+      [
+        31,
+        "___ LeBlanc, interpretou Joey Tribbiani em 'Friends'"
+      ],
+      [
+        35,
+        "Desejo do consumista"
+      ]
+    ],
+    "Across": [
+      [
+        1,
+        "Impedir de reclamar"
+      ],
+      [
+        6,
+        "As duas"
+      ],
+      [
+        11,
+        "Arma dos bárbaros, na Idade Média"
+      ],
+      [
+        12,
+        "Conjunto de linhas, lãs etc."
+      ],
+      [
+        13,
+        "Usou o shamisen"
+      ],
+      [
+        14,
+        "Parte de uma catedral"
+      ],
+      [
+        15,
+        "Empresa que se juntou à Claro"
+      ],
+      [
+        16,
+        "Um pingo de tristeza ou alegria"
+      ],
+      [
+        18,
+        "Fiz subir"
+      ],
+      [
+        20,
+        "___ Kwon Do"
+      ],
+      [
+        21,
+        "Qualidade de quem começou 'quando tudo era mato'"
+      ],
+      [
+        26,
+        "Outra vez, em chats"
+      ],
+      [
+        27,
+        "Retumbem"
+      ],
+      [
+        28,
+        "Reduzam"
+      ],
+      [
+        32,
+        "Um código de discagem"
+      ],
+      [
+        33,
+        "Longo casaco de pele com capuz"
+      ],
+      [
+        34,
+        "Ilhas formadas em oceanos"
+      ],
+      [
+        36,
+        "Hoje, amanhã"
+      ],
+      [
+        37,
+        "Tópicos"
+      ],
+      [
+        38,
+        "___ Witherspoon, atuou no filme 'Sem Evidências'"
+      ],
+      [
+        39,
+        "Arquiteta"
+      ]
+    ]
+  },
+  "empty": ":"
+}

@@ -1,0 +1,473 @@
+{
+  "date": "2025-12-19",
+  "level": "daily",
+  "dimensions": {
+    "width": 11,
+    "height": 11
+  },
+  "puzzle": [
+    [
+      1,
+      2,
+      3,
+      4,
+      5,
+      "#",
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    [
+      11,
+      ":",
+      ":",
+      ":",
+      ":",
+      "#",
+      12,
+      ":",
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      13,
+      ":",
+      ":",
+      ":",
+      ":",
+      "#",
+      14,
+      ":",
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      15,
+      ":",
+      ":",
+      "#",
+      16,
+      17,
+      ":",
+      ":",
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      18,
+      ":",
+      ":",
+      19,
+      "#",
+      20,
+      ":",
+      ":",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      21,
+      ":",
+      ":",
+      ":",
+      22,
+      ":",
+      ":",
+      ":",
+      23,
+      24,
+      25
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      26,
+      ":",
+      ":",
+      "#",
+      27,
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      28,
+      29,
+      30,
+      ":",
+      ":",
+      ":",
+      31,
+      "#",
+      32,
+      ":",
+      ":"
+    ],
+    [
+      33,
+      ":",
+      ":",
+      ":",
+      ":",
+      "#",
+      34,
+      35,
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      36,
+      ":",
+      ":",
+      ":",
+      ":",
+      "#",
+      37,
+      ":",
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      38,
+      ":",
+      ":",
+      ":",
+      ":",
+      "#",
+      39,
+      ":",
+      ":",
+      ":",
+      ":"
+    ]
+  ],
+  "solution": [
+    [
+      "O",
+      "R",
+      "A",
+      "L",
+      "B",
+      "#",
+      "A",
+      "B",
+      "A",
+      "N",
+      "O"
+    ],
+    [
+      "M",
+      "E",
+      "D",
+      "A",
+      "L",
+      "#",
+      "F",
+      "A",
+      "L",
+      "A",
+      "R"
+    ],
+    [
+      "I",
+      "L",
+      "U",
+      "S",
+      "O",
+      "#",
+      "E",
+      "R",
+      "G",
+      "U",
+      "E"
+    ],
+    [
+      "T",
+      "E",
+      "Z",
+      "#",
+      "G",
+      "A",
+      "R",
+      "B",
+      "O",
+      "S",
+      "O"
+    ],
+    [
+      "A",
+      "G",
+      "I",
+      "A",
+      "#",
+      "F",
+      "I",
+      "E",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      "M",
+      "A",
+      "R",
+      "T",
+      "H",
+      "A",
+      "R",
+      "O",
+      "C",
+      "H",
+      "A"
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      "R",
+      "U",
+      "M",
+      "#",
+      "U",
+      "R",
+      "A",
+      "L"
+    ],
+    [
+      "A",
+      "C",
+      "L",
+      "A",
+      "M",
+      "A",
+      "R",
+      "#",
+      "E",
+      "V",
+      "A"
+    ],
+    [
+      "L",
+      "A",
+      "I",
+      "C",
+      "A",
+      "#",
+      "A",
+      "B",
+      "R",
+      "I",
+      "R"
+    ],
+    [
+      "E",
+      "D",
+      "S",
+      "O",
+      "N",
+      "#",
+      "B",
+      "O",
+      "I",
+      "A",
+      "M"
+    ],
+    [
+      "M",
+      "U",
+      "T",
+      "U",
+      "O",
+      "#",
+      "O",
+      "B",
+      "A",
+      "M",
+      "A"
+    ]
+  ],
+  "clues": {
+    "Down": [
+      [
+        1,
+        "'Pulem'"
+      ],
+      [
+        2,
+        "Afasta de um lugar para outro"
+      ],
+      [
+        3,
+        "Trazer para outro lugar"
+      ],
+      [
+        4,
+        "'Viva ___ Vegas', álbum do Elvis Presley"
+      ],
+      [
+        5,
+        "Tipo de site"
+      ],
+      [
+        6,
+        "Examinar a exatidão dos medidores"
+      ],
+      [
+        7,
+        "Deixou imberbe"
+      ],
+      [
+        8,
+        "Um tanto"
+      ],
+      [
+        9,
+        "Eram nove na expedição de Cabral"
+      ],
+      [
+        10,
+        "Marca que lançou um produto para os 'Selenators', em 2025"
+      ],
+      [
+        17,
+        "Traz notoriedade"
+      ],
+      [
+        19,
+        "Aproximou a embarcação do cais"
+      ],
+      [
+        22,
+        "Bondoso, piedoso"
+      ],
+      [
+        23,
+        "Teria fé"
+      ],
+      [
+        24,
+        "Aconteciam"
+      ],
+      [
+        25,
+        "Alerta"
+      ],
+      [
+        28,
+        "Da parte de lá"
+      ],
+      [
+        29,
+        "___ Libonati, ator"
+      ],
+      [
+        30,
+        "Lista, em inglês"
+      ],
+      [
+        31,
+        "Uma carne da feijoada"
+      ],
+      [
+        35,
+        "___ Burnquist, skatista brasileiro"
+      ]
+    ],
+    "Across": [
+      [
+        1,
+        "Marca vista na seção de higiene"
+      ],
+      [
+        6,
+        "É usado para espantar o calor"
+      ],
+      [
+        11,
+        "Medalha, em Miami"
+      ],
+      [
+        12,
+        "Grande parte do trabalho do orador"
+      ],
+      [
+        13,
+        "Logrado, enganado"
+      ],
+      [
+        14,
+        "Levanta"
+      ],
+      [
+        15,
+        "Pele que cobre o rosto"
+      ],
+      [
+        16,
+        "Elegante"
+      ],
+      [
+        18,
+        "Não ficava inerte"
+      ],
+      [
+        20,
+        "Venda a crédito"
+      ],
+      [
+        21,
+        "Miss que foi homenageada com um bolo"
+      ],
+      [
+        26,
+        "Bebida produzida pela Bacardi"
+      ],
+      [
+        27,
+        "Rio ou região da Rússia"
+      ],
+      [
+        28,
+        "Aplaudir com entusiasmo"
+      ],
+      [
+        32,
+        "Paixão de WALL-E"
+      ],
+      [
+        33,
+        "Que não pertence ao clero (fem.)"
+      ],
+      [
+        34,
+        "Clicar para ver a foto"
+      ],
+      [
+        36,
+        "___ Gomes, cantor de 'Malandrinha'"
+      ],
+      [
+        37,
+        "Ficam sem entender (Bras.)"
+      ],
+      [
+        38,
+        "Recíproco"
+      ],
+      [
+        39,
+        "Nobel da Paz em 2009"
+      ]
+    ]
+  },
+  "empty": ":"
+}

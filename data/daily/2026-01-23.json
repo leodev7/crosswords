@@ -1,0 +1,457 @@
+{
+  "date": "2026-01-23",
+  "level": "daily",
+  "dimensions": {
+    "width": 11,
+    "height": 11
+  },
+  "puzzle": [
+    [
+      1,
+      2,
+      3,
+      4,
+      5,
+      "#",
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    [
+      11,
+      ":",
+      ":",
+      ":",
+      ":",
+      "#",
+      12,
+      ":",
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      13,
+      ":",
+      ":",
+      ":",
+      ":",
+      "#",
+      14,
+      ":",
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      15,
+      ":",
+      ":",
+      ":",
+      ":",
+      16,
+      ":",
+      ":",
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      17,
+      ":",
+      ":",
+      ":",
+      ":",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      18,
+      19,
+      ":",
+      ":",
+      ":",
+      ":",
+      ":",
+      20,
+      21,
+      "#"
+    ],
+    [
+      22,
+      ":",
+      ":",
+      "#",
+      23,
+      ":",
+      ":",
+      "#",
+      24,
+      ":",
+      25
+    ],
+    [
+      26,
+      ":",
+      ":",
+      27,
+      ":",
+      ":",
+      ":",
+      28,
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      29,
+      ":",
+      ":",
+      ":",
+      ":",
+      "#",
+      30,
+      ":",
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      31,
+      ":",
+      ":",
+      ":",
+      ":",
+      "#",
+      32,
+      ":",
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      33,
+      ":",
+      ":",
+      ":",
+      ":",
+      "#",
+      34,
+      ":",
+      ":",
+      ":",
+      ":"
+    ]
+  ],
+  "solution": [
+    [
+      "L",
+      "E",
+      "R",
+      "D",
+      "A",
+      "#",
+      "A",
+      "M",
+      "O",
+      "R",
+      "E"
+    ],
+    [
+      "A",
+      "R",
+      "I",
+      "E",
+      "L",
+      "#",
+      "P",
+      "A",
+      "P",
+      "A",
+      "R"
+    ],
+    [
+      "V",
+      "E",
+      "N",
+      "C",
+      "I",
+      "#",
+      "A",
+      "G",
+      "U",
+      "I",
+      "A"
+    ],
+    [
+      "A",
+      "S",
+      "S",
+      "O",
+      "M",
+      "B",
+      "R",
+      "O",
+      "S",
+      "O",
+      "S"
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      "R",
+      "E",
+      "A",
+      "T",
+      "A",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      "A",
+      "P",
+      "O",
+      "N",
+      "T",
+      "A",
+      "R",
+      "A",
+      "M",
+      "#"
+    ],
+    [
+      "P",
+      "S",
+      "I",
+      "#",
+      "T",
+      "E",
+      "M",
+      "#",
+      "T",
+      "E",
+      "D"
+    ],
+    [
+      "E",
+      "S",
+      "C",
+      "L",
+      "A",
+      "R",
+      "E",
+      "C",
+      "I",
+      "D",
+      "O"
+    ],
+    [
+      "T",
+      "A",
+      "L",
+      "A",
+      "R",
+      "#",
+      "N",
+      "E",
+      "V",
+      "I",
+      "S"
+    ],
+    [
+      "I",
+      "D",
+      "E",
+      "I",
+      "A",
+      "#",
+      "T",
+      "O",
+      "A",
+      "D",
+      "A"
+    ],
+    [
+      "T",
+      "O",
+      "S",
+      "A",
+      "M",
+      "#",
+      "O",
+      "U",
+      "S",
+      "A",
+      "R"
+    ]
+  ],
+  "clues": {
+    "Down": [
+      [
+        1,
+        "Emissão de um vulcão"
+      ],
+      [
+        2,
+        "És, em espanhol"
+      ],
+      [
+        3,
+        "Glândulas que filtram o sangue"
+      ],
+      [
+        4,
+        "Comportamento decente"
+      ],
+      [
+        5,
+        "Nutriram"
+      ],
+      [
+        6,
+        "Pode ser comprado na planta"
+      ],
+      [
+        7,
+        "Causar desgosto"
+      ],
+      [
+        8,
+        "Obra musical catalogada"
+      ],
+      [
+        9,
+        "Descarga elétrica produzida pela nuvem"
+      ],
+      [
+        10,
+        "Períodos de muitos anos"
+      ],
+      [
+        16,
+        "Agir de forma agressiva"
+      ],
+      [
+        18,
+        "Pronto (o bolo)"
+      ],
+      [
+        19,
+        "Ingrediente do Big Mac"
+      ],
+      [
+        20,
+        "Que estão em ação (fem.)"
+      ],
+      [
+        21,
+        "Mensurada"
+      ],
+      [
+        22,
+        "___ gâteau: bolinho de chocolate"
+      ],
+      [
+        25,
+        "Regular a porção"
+      ],
+      [
+        27,
+        "Categoria de seres ou coisas"
+      ],
+      [
+        28,
+        "Comeu a última refeição do dia"
+      ]
+    ],
+    "Across": [
+      [
+        1,
+        "Lenta"
+      ],
+      [
+        6,
+        "Amor, em Roma"
+      ],
+      [
+        11,
+        "Nome da Pequena Sereia da Disney"
+      ],
+      [
+        12,
+        "Comer (pop.)"
+      ],
+      [
+        13,
+        "Fui o campeão"
+      ],
+      [
+        14,
+        "Ave na bandeira mexicana"
+      ],
+      [
+        15,
+        "Assustadores"
+      ],
+      [
+        17,
+        "Amarra outra vez"
+      ],
+      [
+        18,
+        "Citaram"
+      ],
+      [
+        22,
+        "Letra grega que parece um garfo"
+      ],
+      [
+        23,
+        "É dono"
+      ],
+      [
+        24,
+        "___ Talks, série de conferências"
+      ],
+      [
+        26,
+        "Explicado"
+      ],
+      [
+        29,
+        "Que desce até a altura dos calcanhares"
+      ],
+      [
+        30,
+        "São Cristóvão e ___, país do Caribe"
+      ],
+      [
+        31,
+        "Um produto da mente"
+      ],
+      [
+        32,
+        "Numa só ___: sem parar"
+      ],
+      [
+        33,
+        "Aparam a pelagem"
+      ],
+      [
+        34,
+        "Ter a coragem para arriscar"
+      ]
+    ]
+  },
+  "empty": ":"
+}

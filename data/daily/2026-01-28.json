@@ -1,0 +1,465 @@
+{
+  "date": "2026-01-28",
+  "level": "daily",
+  "dimensions": {
+    "width": 11,
+    "height": 11
+  },
+  "puzzle": [
+    [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      "#",
+      7,
+      8,
+      9,
+      10
+    ],
+    [
+      11,
+      ":",
+      ":",
+      ":",
+      ":",
+      ":",
+      "#",
+      12,
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      13,
+      ":",
+      ":",
+      ":",
+      ":",
+      ":",
+      14,
+      ":",
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      15,
+      ":",
+      ":",
+      ":",
+      "#",
+      16,
+      ":",
+      ":",
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      17,
+      18,
+      ":",
+      ":",
+      ":",
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      19,
+      20,
+      21,
+      "#",
+      22,
+      ":",
+      ":",
+      "#",
+      23,
+      ":",
+      ":"
+    ],
+    [
+      24,
+      ":",
+      ":",
+      25,
+      ":",
+      ":",
+      ":",
+      26,
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      27,
+      ":",
+      ":",
+      ":",
+      ":",
+      ":",
+      "#",
+      28,
+      29,
+      30,
+      31
+    ],
+    [
+      32,
+      ":",
+      ":",
+      ":",
+      ":",
+      ":",
+      33,
+      ":",
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      34,
+      ":",
+      ":",
+      ":",
+      "#",
+      35,
+      ":",
+      ":",
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      36,
+      ":",
+      ":",
+      ":",
+      "#",
+      37,
+      ":",
+      ":",
+      ":",
+      ":",
+      ":"
+    ]
+  ],
+  "solution": [
+    [
+      "R",
+      "A",
+      "J",
+      "A",
+      "D",
+      "O",
+      "#",
+      "M",
+      "A",
+      "S",
+      "C"
+    ],
+    [
+      "I",
+      "S",
+      "O",
+      "P",
+      "O",
+      "R",
+      "#",
+      "U",
+      "T",
+      "A",
+      "H"
+    ],
+    [
+      "E",
+      "N",
+      "V",
+      "E",
+      "R",
+      "G",
+      "A",
+      "D",
+      "U",
+      "R",
+      "A"
+    ],
+    [
+      "M",
+      "O",
+      "I",
+      "A",
+      "#",
+      "A",
+      "P",
+      "A",
+      "R",
+      "A",
+      "M"
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      "R",
+      "E",
+      "N",
+      "O",
+      "M",
+      "A",
+      "D",
+      "O"
+    ],
+    [
+      "P",
+      "S",
+      "G",
+      "#",
+      "M",
+      "I",
+      "I",
+      "#",
+      "M",
+      "A",
+      "U"
+    ],
+    [
+      "R",
+      "E",
+      "A",
+      "L",
+      "I",
+      "Z",
+      "A",
+      "M",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      "E",
+      "R",
+      "R",
+      "A",
+      "T",
+      "A",
+      "#",
+      "A",
+      "V",
+      "O",
+      "N"
+    ],
+    [
+      "G",
+      "E",
+      "O",
+      "C",
+      "E",
+      "N",
+      "T",
+      "R",
+      "I",
+      "C",
+      "A"
+    ],
+    [
+      "A",
+      "N",
+      "T",
+      "E",
+      "#",
+      "D",
+      "E",
+      "C",
+      "A",
+      "I",
+      "U"
+    ],
+    [
+      "S",
+      "O",
+      "A",
+      "M",
+      "#",
+      "O",
+      "R",
+      "A",
+      "M",
+      "O",
+      "S"
+    ]
+  ],
+  "clues": {
+    "Down": [
+      [
+        1,
+        "Racham o bico"
+      ],
+      [
+        2,
+        "Animal também chamado de jegue"
+      ],
+      [
+        3,
+        "Bon ___: banda das músicas 'Always' e 'Bed Of Roses'"
+      ],
+      [
+        4,
+        "Descer do trator"
+      ],
+      [
+        5,
+        "É evitada pela anestesia"
+      ],
+      [
+        6,
+        "Colocando em ordem"
+      ],
+      [
+        7,
+        "Alteram"
+      ],
+      [
+        8,
+        "Suportam com paciência"
+      ],
+      [
+        9,
+        "Curada"
+      ],
+      [
+        10,
+        "Mandou vir"
+      ],
+      [
+        14,
+        "Usa como base"
+      ],
+      [
+        18,
+        "Expressa (a opinião)"
+      ],
+      [
+        19,
+        "___ vocais: o mesmo que cordas vocais"
+      ],
+      [
+        20,
+        "Tranquilo"
+      ],
+      [
+        21,
+        "Mulher jovem"
+      ],
+      [
+        25,
+        "Atem, apertem"
+      ],
+      [
+        26,
+        "Item em destaque em embalagens de produtos"
+      ],
+      [
+        29,
+        "Percebiam pela visão"
+      ],
+      [
+        30,
+        "Inatividade"
+      ],
+      [
+        31,
+        "Navios antigos"
+      ],
+      [
+        33,
+        "Desejo do consumista"
+      ]
+    ],
+    "Across": [
+      [
+        1,
+        "Listrado"
+      ],
+      [
+        7,
+        "O artigo que não é fem. (abrev.)"
+      ],
+      [
+        11,
+        "Material de recipientes térmicos"
+      ],
+      [
+        12,
+        "Lar de Salt Lake City, nos EUA"
+      ],
+      [
+        13,
+        "Distância entre as extremidades das asas abertas"
+      ],
+      [
+        15,
+        "Triturava, macerava"
+      ],
+      [
+        16,
+        "Cortam o excesso"
+      ],
+      [
+        17,
+        "Famoso"
+      ],
+      [
+        19,
+        "Clube francês de futebol (sigla)"
+      ],
+      [
+        22,
+        "1.002, em algarismos romanos"
+      ],
+      [
+        23,
+        "Prejudicial"
+      ],
+      [
+        24,
+        "Efetuam"
+      ],
+      [
+        27,
+        "Publicação feita para corrigir um equívoco"
+      ],
+      [
+        28,
+        "Concorrente da Nivea"
+      ],
+      [
+        32,
+        "A teoria refutada por Copérnico"
+      ],
+      [
+        34,
+        "Prefixo com 'mão' ou 'braço'"
+      ],
+      [
+        35,
+        "Perdeu a qualidade"
+      ],
+      [
+        36,
+        "Produzem ruídos"
+      ],
+      [
+        37,
+        "Pedimos a Ele"
+      ]
+    ]
+  },
+  "empty": ":"
+}

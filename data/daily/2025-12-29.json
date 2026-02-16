@@ -1,0 +1,473 @@
+{
+  "date": "2025-12-29",
+  "level": "daily",
+  "dimensions": {
+    "width": 11,
+    "height": 11
+  },
+  "puzzle": [
+    [
+      1,
+      2,
+      3,
+      4,
+      5,
+      "#",
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    [
+      11,
+      ":",
+      ":",
+      ":",
+      ":",
+      "#",
+      12,
+      ":",
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      13,
+      ":",
+      ":",
+      ":",
+      ":",
+      "#",
+      14,
+      ":",
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      15,
+      ":",
+      ":",
+      ":",
+      ":",
+      16,
+      "#",
+      17,
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      18,
+      ":",
+      ":",
+      "#",
+      19,
+      ":",
+      20,
+      ":",
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      21,
+      ":",
+      ":",
+      ":",
+      ":",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      22,
+      23,
+      24,
+      ":",
+      ":",
+      ":",
+      ":",
+      "#",
+      25,
+      26,
+      27
+    ],
+    [
+      28,
+      ":",
+      ":",
+      ":",
+      "#",
+      29,
+      ":",
+      30,
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      31,
+      ":",
+      ":",
+      ":",
+      32,
+      "#",
+      33,
+      ":",
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      34,
+      ":",
+      ":",
+      ":",
+      ":",
+      "#",
+      35,
+      ":",
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      36,
+      ":",
+      ":",
+      ":",
+      ":",
+      "#",
+      37,
+      ":",
+      ":",
+      ":",
+      ":"
+    ]
+  ],
+  "solution": [
+    [
+      "P",
+      "U",
+      "T",
+      "I",
+      "N",
+      "#",
+      "A",
+      "C",
+      "A",
+      "B",
+      "A"
+    ],
+    [
+      "O",
+      "N",
+      "E",
+      "R",
+      "E",
+      "#",
+      "R",
+      "I",
+      "F",
+      "L",
+      "E"
+    ],
+    [
+      "M",
+      "I",
+      "R",
+      "I",
+      "M",
+      "#",
+      "A",
+      "L",
+      "I",
+      "A",
+      "R"
+    ],
+    [
+      "P",
+      "A",
+      "R",
+      "A",
+      "D",
+      "A",
+      "#",
+      "A",
+      "N",
+      "N",
+      "E"
+    ],
+    [
+      "A",
+      "M",
+      "A",
+      "#",
+      "O",
+      "B",
+      "E",
+      "D",
+      "E",
+      "C",
+      "I"
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      "G",
+      "E",
+      "A",
+      "V",
+      "A",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      "B",
+      "O",
+      "T",
+      "O",
+      "U",
+      "F",
+      "E",
+      "#",
+      "V",
+      "A",
+      "Z"
+    ],
+    [
+      "A",
+      "B",
+      "E",
+      "L",
+      "#",
+      "O",
+      "N",
+      "L",
+      "I",
+      "N",
+      "E"
+    ],
+    [
+      "G",
+      "O",
+      "L",
+      "A",
+      "V",
+      "#",
+      "T",
+      "E",
+      "N",
+      "O",
+      "R"
+    ],
+    [
+      "D",
+      "E",
+      "A",
+      "Ç",
+      "O",
+      "#",
+      "O",
+      "M",
+      "I",
+      "T",
+      "A"
+    ],
+    [
+      "A",
+      "S",
+      "S",
+      "O",
+      "O",
+      "#",
+      "S",
+      "E",
+      "L",
+      "A",
+      "M"
+    ]
+  ],
+  "clues": {
+    "Down": [
+      [
+        1,
+        "Ostentação de luxo"
+      ],
+      [
+        2,
+        "Casavam"
+      ],
+      [
+        3,
+        "Planeta fotografado pela missão Apollo 8"
+      ],
+      [
+        4,
+        "Viajaria"
+      ],
+      [
+        5,
+        "'Não senti nada!'"
+      ],
+      [
+        6,
+        "___ Ketu, banda de 'Cobertor'"
+      ],
+      [
+        7,
+        "Furada (pop.)"
+      ],
+      [
+        8,
+        "Deixe mais estreito"
+      ],
+      [
+        9,
+        "Mont ___: o mais alto dos Alpes"
+      ],
+      [
+        10,
+        "Ventilei"
+      ],
+      [
+        16,
+        "Cubro para manter o calor"
+      ],
+      [
+        20,
+        "Ocorrências"
+      ],
+      [
+        21,
+        "Faz o estádio ir à loucura"
+      ],
+      [
+        22,
+        "Capital do Iraque"
+      ],
+      [
+        23,
+        "Instrumentos de palheta dupla"
+      ],
+      [
+        24,
+        "Partes dos Tamagotchis"
+      ],
+      [
+        25,
+        "Material das anteninhas do Chapolin"
+      ],
+      [
+        26,
+        "Toma apontamentos"
+      ],
+      [
+        27,
+        "Esgotam"
+      ],
+      [
+        30,
+        "Peça na popa do barco"
+      ],
+      [
+        32,
+        "Ação impossível para o casuar"
+      ]
+    ],
+    "Across": [
+      [
+        1,
+        "2º presidente russo"
+      ],
+      [
+        6,
+        "Golfo de ___: reentrância na ponta norte do mar Vermelho"
+      ],
+      [
+        11,
+        "Sobrecarregue"
+      ],
+      [
+        12,
+        "Arma comum no cangaço"
+      ],
+      [
+        13,
+        "Guajará-___, uma das cidades mais populosas de Rondônia"
+      ],
+      [
+        14,
+        "Coligar"
+      ],
+      [
+        15,
+        "Suspensão"
+      ],
+      [
+        17,
+        "___ Hathaway, esposa de Shakespeare"
+      ],
+      [
+        18,
+        "Nutriz"
+      ],
+      [
+        19,
+        "Fiz conforme as orientações"
+      ],
+      [
+        21,
+        "Congelava o orvalho"
+      ],
+      [
+        22,
+        "Depositou confiança"
+      ],
+      [
+        25,
+        "Luís ___ de Camões, poeta de Portugal"
+      ],
+      [
+        28,
+        "Pastor de ovelhas do Antigo Testamento"
+      ],
+      [
+        29,
+        "Palavra representada por uma bolinha verde, no Instagram"
+      ],
+      [
+        31,
+        "Corte de camisetas"
+      ],
+      [
+        33,
+        "Cantor como Plácido Domingo"
+      ],
+      [
+        34,
+        "Como os nervos da pessoa inabalável (gíria)"
+      ],
+      [
+        35,
+        "Deixe de lado"
+      ],
+      [
+        36,
+        "Limpo o nariz"
+      ],
+      [
+        37,
+        "Preparam os cavalos para montaria"
+      ]
+    ]
+  },
+  "empty": ":"
+}

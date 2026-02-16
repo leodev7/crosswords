@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Palavras Cruzadas</title>
+  <base href="/site/">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <header>
+    <h1>Palavras Cruzadas</h1>
+    <div class="controls">
+      <input type="date" id="date-picker">
+      <div class="header-actions">
+        <span id="timer-display" class="timer">00:00</span>
+        <button id="stats-btn" class="icon-btn" title="Estatísticas">&#9776;</button>
+      </div>
+    </div>
+  </header>
+
+  <main>
+    <div class="crossword-container">
+      <div class="grid-wrapper">
+        <div id="grid" class="grid"></div>
+        <div class="toolbar">
+          <button id="btn-reveal-letter" title="Revelar Letra">Letra</button>
+          <button id="btn-reveal-word" title="Revelar Palavra">Palavra</button>
+          <button id="btn-reveal-all" title="Revelar Tudo">Tudo</button>
+        </div>
+      </div>
+      <div class="clues-panel">
+        <div class="clues-section">
+          <h3 class="clues-header" data-direction="across">Horizontais</h3>
+          <ol id="clues-across" class="clues-list"></ol>
+        </div>
+        <div class="clues-section">
+          <h3 class="clues-header" data-direction="down">Verticais</h3>
+          <ol id="clues-down" class="clues-list"></ol>
+        </div>
+      </div>
+    </div>
+
+    <div class="active-clue-bar" id="active-clue-bar"></div>
+  </main>
+
+  <div id="modal-overlay" class="modal-overlay hidden">
+    <div class="modal">
+      <button class="modal-close" id="modal-close">&times;</button>
+      <div id="modal-content"></div>
+    </div>
+  </div>
+
+  <script type="module" src="js/app.js"></script>
+</body>
+</html>

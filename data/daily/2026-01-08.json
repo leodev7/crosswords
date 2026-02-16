@@ -1,0 +1,473 @@
+{
+  "date": "2026-01-08",
+  "level": "daily",
+  "dimensions": {
+    "width": 11,
+    "height": 11
+  },
+  "puzzle": [
+    [
+      1,
+      2,
+      3,
+      4,
+      5,
+      "#",
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    [
+      11,
+      ":",
+      ":",
+      ":",
+      ":",
+      "#",
+      12,
+      ":",
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      13,
+      ":",
+      ":",
+      ":",
+      ":",
+      "#",
+      14,
+      ":",
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      15,
+      ":",
+      ":",
+      ":",
+      "#",
+      16,
+      ":",
+      ":",
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      17,
+      ":",
+      ":",
+      ":",
+      18,
+      ":",
+      ":",
+      ":",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      19,
+      ":",
+      ":",
+      "#",
+      20,
+      ":",
+      ":",
+      "#",
+      21,
+      22,
+      23
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      24,
+      ":",
+      ":",
+      ":",
+      25,
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      26,
+      27,
+      28,
+      ":",
+      ":",
+      ":",
+      "#",
+      29,
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      30,
+      ":",
+      ":",
+      ":",
+      ":",
+      "#",
+      31,
+      ":",
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      32,
+      ":",
+      ":",
+      ":",
+      ":",
+      "#",
+      33,
+      ":",
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      34,
+      ":",
+      ":",
+      ":",
+      ":",
+      "#",
+      35,
+      ":",
+      ":",
+      ":",
+      ":"
+    ]
+  ],
+  "solution": [
+    [
+      "A",
+      "L",
+      "I",
+      "S",
+      "A",
+      "#",
+      "A",
+      "C",
+      "I",
+      "M",
+      "A"
+    ],
+    [
+      "T",
+      "A",
+      "M",
+      "E",
+      "N",
+      "#",
+      "C",
+      "A",
+      "N",
+      "A",
+      "L"
+    ],
+    [
+      "A",
+      "C",
+      "E",
+      "N",
+      "O",
+      "#",
+      "E",
+      "R",
+      "E",
+      "T",
+      "O"
+    ],
+    [
+      "U",
+      "R",
+      "R",
+      "A",
+      "#",
+      "C",
+      "R",
+      "I",
+      "S",
+      "E",
+      "S"
+    ],
+    [
+      "D",
+      "E",
+      "S",
+      "C",
+      "A",
+      "R",
+      "T",
+      "E",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      "E",
+      "S",
+      "O",
+      "#",
+      "L",
+      "E",
+      "E",
+      "#",
+      "P",
+      "O",
+      "P"
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      "C",
+      "A",
+      "M",
+      "I",
+      "S",
+      "O",
+      "L",
+      "A"
+    ],
+    [
+      "E",
+      "S",
+      "P",
+      "E",
+      "R",
+      "E",
+      "#",
+      "E",
+      "D",
+      "I",
+      "L"
+    ],
+    [
+      "M",
+      "I",
+      "R",
+      "A",
+      "M",
+      "#",
+      "F",
+      "R",
+      "E",
+      "V",
+      "O"
+    ],
+    [
+      "A",
+      "G",
+      "O",
+      "R",
+      "A",
+      "#",
+      "L",
+      "E",
+      "R",
+      "A",
+      "M"
+    ],
+    [
+      "S",
+      "O",
+      "L",
+      "A",
+      "R",
+      "#",
+      "U",
+      "S",
+      "A",
+      "L",
+      "A"
+    ]
+  ],
+  "clues": {
+    "Down": [
+      [
+        1,
+        "Caixa vista no velório"
+      ],
+      [
+        2,
+        "Travas usadas em extintores"
+      ],
+      [
+        3,
+        "Mergulhado"
+      ],
+      [
+        4,
+        "Empresa do Sistema S"
+      ],
+      [
+        5,
+        "1953, para a fundação da Petrobras"
+      ],
+      [
+        6,
+        "Respondi corretamente"
+      ],
+      [
+        7,
+        "Pode causar dor nos dentes"
+      ],
+      [
+        8,
+        "___ Galvão, atriz mineira"
+      ],
+      [
+        9,
+        "Palavra com 'chá' ou 'xeque'"
+      ],
+      [
+        10,
+        "Saudações ao telefone"
+      ],
+      [
+        16,
+        "Cosmético para a pele"
+      ],
+      [
+        18,
+        "Sinalizar o perigo que está por vir"
+      ],
+      [
+        21,
+        "Estará apto"
+      ],
+      [
+        22,
+        "Plantação de azeitonas"
+      ],
+      [
+        23,
+        "Pomba, em espanhol"
+      ],
+      [
+        24,
+        "Estado com as cidades de Quixadá e Quixeramobim"
+      ],
+      [
+        25,
+        "Entes, criaturas"
+      ],
+      [
+        26,
+        "Aves de pescoço comprido"
+      ],
+      [
+        27,
+        "Vou atrás"
+      ],
+      [
+        28,
+        "Em ___ de: para benefício de"
+      ],
+      [
+        31,
+        "Fla-___: clássico do futebol brasileiro"
+      ]
+    ],
+    "Across": [
+      [
+        1,
+        "Tira as rugas"
+      ],
+      [
+        6,
+        "Em lugar mais alto"
+      ],
+      [
+        11,
+        "Palavra na bandeira de MG"
+      ],
+      [
+        12,
+        "A página de um 'youtuber'"
+      ],
+      [
+        13,
+        "Sinal feito com as mãos"
+      ],
+      [
+        14,
+        "O poste de luz, por sua posição"
+      ],
+      [
+        15,
+        "Solta rugidos (o animal)"
+      ],
+      [
+        16,
+        "Situações de escassez"
+      ],
+      [
+        17,
+        "Eliminação de resíduos"
+      ],
+      [
+        19,
+        "Isso, na Argentina"
+      ],
+      [
+        20,
+        "Rita ___, cantora de 'Saúde'"
+      ],
+      [
+        21,
+        "Estilo de Rihanna"
+      ],
+      [
+        24,
+        "Uma &quot;roupa de cama&quot;"
+      ],
+      [
+        26,
+        "Aguarde"
+      ],
+      [
+        29,
+        "Sinônimo para vereador"
+      ],
+      [
+        30,
+        "Fixam os olhos"
+      ],
+      [
+        31,
+        "Dança em que se usam guarda-chuvas"
+      ],
+      [
+        32,
+        "Atualmente"
+      ],
+      [
+        33,
+        "Consumiram 'O Alienista'"
+      ],
+      [
+        34,
+        "Energia associada a placas fotovoltaicas"
+      ],
+      [
+        35,
+        "Recorrer a ela"
+      ]
+    ]
+  },
+  "empty": ":"
+}

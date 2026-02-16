@@ -1,0 +1,473 @@
+{
+  "date": "2026-01-22",
+  "level": "daily",
+  "dimensions": {
+    "width": 11,
+    "height": 11
+  },
+  "puzzle": [
+    [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      "#",
+      7,
+      8,
+      9,
+      10
+    ],
+    [
+      11,
+      ":",
+      ":",
+      ":",
+      ":",
+      ":",
+      "#",
+      12,
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      13,
+      ":",
+      ":",
+      ":",
+      ":",
+      ":",
+      14,
+      ":",
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      15,
+      ":",
+      ":",
+      ":",
+      "#",
+      "#",
+      16,
+      ":",
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      17,
+      18,
+      19,
+      ":",
+      ":",
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      20,
+      21,
+      22,
+      "#",
+      23,
+      ":",
+      ":",
+      "#",
+      24,
+      ":",
+      ":"
+    ],
+    [
+      25,
+      ":",
+      ":",
+      26,
+      ":",
+      ":",
+      ":",
+      27,
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      28,
+      ":",
+      ":",
+      ":",
+      ":",
+      "#",
+      "#",
+      29,
+      30,
+      31,
+      32
+    ],
+    [
+      33,
+      ":",
+      ":",
+      ":",
+      ":",
+      34,
+      35,
+      ":",
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      36,
+      ":",
+      ":",
+      ":",
+      "#",
+      37,
+      ":",
+      ":",
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      38,
+      ":",
+      ":",
+      ":",
+      "#",
+      39,
+      ":",
+      ":",
+      ":",
+      ":",
+      ":"
+    ]
+  ],
+  "solution": [
+    [
+      "A",
+      "R",
+      "E",
+      "I",
+      "A",
+      "S",
+      "#",
+      "B",
+      "I",
+      "E",
+      "N"
+    ],
+    [
+      "P",
+      "O",
+      "S",
+      "S",
+      "U",
+      "O",
+      "#",
+      "A",
+      "L",
+      "V",
+      "A"
+    ],
+    [
+      "T",
+      "E",
+      "S",
+      "T",
+      "E",
+      "M",
+      "U",
+      "N",
+      "H",
+      "A",
+      "M"
+    ],
+    [
+      "O",
+      "R",
+      "E",
+      "O",
+      "#",
+      "#",
+      "F",
+      "I",
+      "A",
+      "D",
+      "O"
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      "E",
+      "N",
+      "C",
+      "A",
+      "R",
+      "D",
+      "I",
+      "R"
+    ],
+    [
+      "T",
+      "I",
+      "C",
+      "#",
+      "E",
+      "O",
+      "N",
+      "#",
+      "O",
+      "R",
+      "O"
+    ],
+    [
+      "E",
+      "M",
+      "A",
+      "P",
+      "U",
+      "R",
+      "O",
+      "S",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      "M",
+      "O",
+      "T",
+      "O",
+      "R",
+      "#",
+      "#",
+      "E",
+      "R",
+      "G",
+      "A"
+    ],
+    [
+      "P",
+      "R",
+      "I",
+      "M",
+      "O",
+      "R",
+      "D",
+      "I",
+      "A",
+      "I",
+      "S"
+    ],
+    [
+      "L",
+      "A",
+      "V",
+      "O",
+      "#",
+      "M",
+      "A",
+      "T",
+      "I",
+      "N",
+      "E"
+    ],
+    [
+      "O",
+      "L",
+      "A",
+      "S",
+      "#",
+      "A",
+      "R",
+      "A",
+      "D",
+      "O",
+      "S"
+    ]
+  ],
+  "clues": {
+    "Down": [
+      [
+        1,
+        "Capaz de realizar o serviço"
+      ],
+      [
+        2,
+        "Triturar com os dentes, como ratos"
+      ],
+      [
+        3,
+        "Letra maiúscula em 'Suíça'"
+      ],
+      [
+        4,
+        "Revista brasileira de notícias"
+      ],
+      [
+        5,
+        "Grande alvoroço"
+      ],
+      [
+        6,
+        "Algo que quebra o silêncio"
+      ],
+      [
+        7,
+        "Expulsar da pátria"
+      ],
+      [
+        8,
+        "Isolado dos demais"
+      ],
+      [
+        9,
+        "Fugir"
+      ],
+      [
+        10,
+        "Antecede o noivado"
+      ],
+      [
+        14,
+        "Que se orgulha de algo"
+      ],
+      [
+        18,
+        "Prefixo ligado ao sistema nervoso"
+      ],
+      [
+        19,
+        "Pode ser mudada tingindo"
+      ],
+      [
+        20,
+        "Edifício destinado ao culto religioso"
+      ],
+      [
+        21,
+        "Sem decência"
+      ],
+      [
+        22,
+        "Atrai"
+      ],
+      [
+        26,
+        "___ de ouro: frutas mitológicas colhidas por Hércules"
+      ],
+      [
+        27,
+        "Grupo que professa uma mesma doutrina"
+      ],
+      [
+        30,
+        "Inseticida, concorrente do SBP"
+      ],
+      [
+        31,
+        "___ &amp; Geno, dupla sertaneja"
+      ],
+      [
+        32,
+        "Craques"
+      ],
+      [
+        34,
+        "Real Madrid, em placares"
+      ],
+      [
+        35,
+        "Ceder gratuitamente"
+      ]
+    ],
+    "Across": [
+      [
+        1,
+        "Conteúdo da ampulheta (pl.)"
+      ],
+      [
+        7,
+        "Bem, em Bordeaux"
+      ],
+      [
+        11,
+        "Tenho"
+      ],
+      [
+        12,
+        "Branca"
+      ],
+      [
+        13,
+        "Veem com os próprios olhos"
+      ],
+      [
+        15,
+        "Biscoito com uma versão míni"
+      ],
+      [
+        16,
+        "Comprado a crédito"
+      ],
+      [
+        17,
+        "Deixar sinais de sujeira"
+      ],
+      [
+        20,
+        "___ Tac, marca de balas vendidas em caixinhas"
+      ],
+      [
+        23,
+        "Período histórico imensurável"
+      ],
+      [
+        24,
+        "Eu rezo, no presente."
+      ],
+      [
+        25,
+        "Passando por dificuldades (2 palavras)"
+      ],
+      [
+        28,
+        "Parte essencial de um carro"
+      ],
+      [
+        29,
+        "Coloque em um lugar mais alto"
+      ],
+      [
+        33,
+        "Que não podem faltar"
+      ],
+      [
+        36,
+        "Dou banho"
+      ],
+      [
+        37,
+        "Espetáculo na parte da tarde"
+      ],
+      [
+        38,
+        "Brincadeiras de torcidas"
+      ],
+      [
+        39,
+        "Ferramentas agrícolas"
+      ]
+    ]
+  },
+  "empty": ":"
+}

@@ -1,0 +1,433 @@
+{
+  "date": "2026-02-11",
+  "level": "daily",
+  "dimensions": {
+    "width": 11,
+    "height": 11
+  },
+  "puzzle": [
+    [
+      "#",
+      "#",
+      "#",
+      1,
+      2,
+      3,
+      4,
+      5,
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      6,
+      ":",
+      ":",
+      ":",
+      ":",
+      ":",
+      7,
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      8,
+      ":",
+      ":",
+      ":",
+      ":",
+      ":",
+      ":",
+      ":",
+      9,
+      "#"
+    ],
+    [
+      10,
+      ":",
+      ":",
+      ":",
+      ":",
+      "#",
+      11,
+      ":",
+      ":",
+      ":",
+      12
+    ],
+    [
+      13,
+      ":",
+      ":",
+      ":",
+      ":",
+      "#",
+      14,
+      ":",
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      15,
+      ":",
+      ":",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      16,
+      ":",
+      ":"
+    ],
+    [
+      17,
+      ":",
+      ":",
+      18,
+      19,
+      "#",
+      20,
+      21,
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      22,
+      ":",
+      ":",
+      ":",
+      ":",
+      "#",
+      23,
+      ":",
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      "#",
+      24,
+      ":",
+      ":",
+      ":",
+      25,
+      ":",
+      ":",
+      ":",
+      ":",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      26,
+      ":",
+      ":",
+      ":",
+      ":",
+      ":",
+      ":",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      27,
+      ":",
+      ":",
+      ":",
+      ":",
+      "#",
+      "#",
+      "#"
+    ]
+  ],
+  "solution": [
+    [
+      "#",
+      "#",
+      "#",
+      "D",
+      "A",
+      "I",
+      "M",
+      "E",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      "C",
+      "A",
+      "N",
+      "C",
+      "E",
+      "L",
+      "A",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      "C",
+      "O",
+      "N",
+      "C",
+      "E",
+      "N",
+      "T",
+      "R",
+      "A",
+      "#"
+    ],
+    [
+      "F",
+      "O",
+      "S",
+      "C",
+      "A",
+      "#",
+      "T",
+      "O",
+      "R",
+      "D",
+      "O"
+    ],
+    [
+      "A",
+      "R",
+      "T",
+      "E",
+      "S",
+      "#",
+      "A",
+      "N",
+      "E",
+      "I",
+      "S"
+    ],
+    [
+      "I",
+      "R",
+      "A",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "P",
+      "A",
+      "S"
+    ],
+    [
+      "N",
+      "E",
+      "R",
+      "D",
+      "S",
+      "#",
+      "I",
+      "R",
+      "E",
+      "N",
+      "E"
+    ],
+    [
+      "A",
+      "T",
+      "I",
+      "R",
+      "E",
+      "#",
+      "T",
+      "E",
+      "N",
+      "D",
+      "O"
+    ],
+    [
+      "#",
+      "O",
+      "C",
+      "O",
+      "R",
+      "R",
+      "E",
+      "N",
+      "D",
+      "O",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      "A",
+      "P",
+      "R",
+      "E",
+      "N",
+      "D",
+      "E",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      "S",
+      "O",
+      "U",
+      "S",
+      "A",
+      "#",
+      "#",
+      "#"
+    ]
+  ],
+  "clues": {
+    "Down": [
+      [
+        1,
+        "Mexa as cadeiras"
+      ],
+      [
+        2,
+        "Partes traseiras dos cavalos"
+      ],
+      [
+        3,
+        "___ Blue, rapper paulista"
+      ],
+      [
+        4,
+        "Sabor comum para alguns chicletes verdes"
+      ],
+      [
+        5,
+        "___ John, cantor inglês"
+      ],
+      [
+        6,
+        "País cuja moeda é o colón (2 palavras)"
+      ],
+      [
+        7,
+        "___-se: lamenta a decisão tomada"
+      ],
+      [
+        8,
+        "Sem nada de errado"
+      ],
+      [
+        9,
+        "Pospondo"
+      ],
+      [
+        10,
+        "Trabalho árduo e extenso"
+      ],
+      [
+        12,
+        "O fêmur, por sua constituição"
+      ],
+      [
+        18,
+        "Doce de anis citado em 'Flagra', de Rita Lee"
+      ],
+      [
+        19,
+        "Corto a madeira"
+      ],
+      [
+        20,
+        "Artigos de uma enumeração"
+      ],
+      [
+        21,
+        "Objetivo de um investimento"
+      ],
+      [
+        25,
+        "Acusado do crime"
+      ]
+    ],
+    "Across": [
+      [
+        1,
+        "Santo ___, doutrina que faz uso da ayahuasca"
+      ],
+      [
+        6,
+        "Barreira vista em pedágios"
+      ],
+      [
+        8,
+        "Foca a atenção"
+      ],
+      [
+        10,
+        "Sem brilho (fem.)"
+      ],
+      [
+        11,
+        "Um dos pássaros em 'Passaredo'"
+      ],
+      [
+        13,
+        "Produções ligadas às musas"
+      ],
+      [
+        14,
+        "Atributos de Saturno"
+      ],
+      [
+        15,
+        "Sentimento de rancor"
+      ],
+      [
+        16,
+        "Hastes de um ventilador"
+      ],
+      [
+        17,
+        "Alunos muito aplicados"
+      ],
+      [
+        20,
+        "___ Ravache, atuou em 'A Viagem'"
+      ],
+      [
+        22,
+        "Arremesse"
+      ],
+      [
+        23,
+        "Sendo proprietário"
+      ],
+      [
+        24,
+        "Em andamento"
+      ],
+      [
+        26,
+        "Capta o ensinamento"
+      ],
+      [
+        27,
+        "Cruz e ___: o Cisne Negro"
+      ]
+    ]
+  },
+  "empty": ":"
+}

@@ -1,0 +1,433 @@
+{
+  "date": "2026-02-15",
+  "level": "daily",
+  "dimensions": {
+    "width": 11,
+    "height": 11
+  },
+  "puzzle": [
+    [
+      "#",
+      "#",
+      "#",
+      1,
+      2,
+      3,
+      4,
+      5,
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      6,
+      ":",
+      ":",
+      ":",
+      ":",
+      ":",
+      7,
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      8,
+      ":",
+      ":",
+      ":",
+      ":",
+      ":",
+      ":",
+      ":",
+      9,
+      "#"
+    ],
+    [
+      10,
+      ":",
+      ":",
+      ":",
+      ":",
+      ":",
+      ":",
+      "#",
+      11,
+      ":",
+      12
+    ],
+    [
+      13,
+      ":",
+      ":",
+      ":",
+      ":",
+      ":",
+      "#",
+      14,
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      15,
+      ":",
+      ":",
+      ":",
+      ":",
+      "#",
+      16,
+      ":",
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      17,
+      ":",
+      ":",
+      ":",
+      "#",
+      18,
+      ":",
+      ":",
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      19,
+      ":",
+      ":",
+      "#",
+      20,
+      ":",
+      ":",
+      ":",
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      "#",
+      21,
+      ":",
+      22,
+      ":",
+      ":",
+      ":",
+      ":",
+      ":",
+      ":",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      23,
+      ":",
+      ":",
+      ":",
+      ":",
+      ":",
+      ":",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      24,
+      ":",
+      ":",
+      ":",
+      ":",
+      "#",
+      "#",
+      "#"
+    ]
+  ],
+  "solution": [
+    [
+      "#",
+      "#",
+      "#",
+      "H",
+      "A",
+      "R",
+      "A",
+      "S",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      "R",
+      "E",
+      "M",
+      "A",
+      "T",
+      "E",
+      "S",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      "G",
+      "E",
+      "R",
+      "A",
+      "D",
+      "O",
+      "R",
+      "E",
+      "S",
+      "#"
+    ],
+    [
+      "M",
+      "A",
+      "I",
+      "O",
+      "R",
+      "I",
+      "A",
+      "#",
+      "L",
+      "I",
+      "V"
+    ],
+    [
+      "A",
+      "N",
+      "T",
+      "I",
+      "G",
+      "O",
+      "#",
+      "F",
+      "E",
+      "R",
+      "A"
+    ],
+    [
+      "C",
+      "H",
+      "E",
+      "C",
+      "A",
+      "#",
+      "C",
+      "A",
+      "T",
+      "E",
+      "I"
+    ],
+    [
+      "R",
+      "A",
+      "R",
+      "O",
+      "#",
+      "C",
+      "O",
+      "L",
+      "I",
+      "N",
+      "A"
+    ],
+    [
+      "O",
+      "V",
+      "A",
+      "#",
+      "O",
+      "U",
+      "R",
+      "I",
+      "V",
+      "E",
+      "S"
+    ],
+    [
+      "#",
+      "A",
+      "D",
+      "A",
+      "P",
+      "T",
+      "A",
+      "D",
+      "O",
+      "S",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      "O",
+      "B",
+      "T",
+      "I",
+      "D",
+      "O",
+      "S",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      "R",
+      "O",
+      "S",
+      "A",
+      "S",
+      "#",
+      "#",
+      "#"
+    ]
+  ],
+  "clues": {
+    "Down": [
+      [
+        1,
+        "'De um povo ___ o brado...'"
+      ],
+      [
+        2,
+        "De sabor áspero (fem.)"
+      ],
+      [
+        3,
+        "Osso do antebraço com o nome de um aparelho"
+      ],
+      [
+        4,
+        "Sem nada para fazer (2 palavras)"
+      ],
+      [
+        5,
+        "Corresponder a determinada identificação"
+      ],
+      [
+        6,
+        "Dito novamente"
+      ],
+      [
+        7,
+        "Cuidadosos na hora de escolher"
+      ],
+      [
+        8,
+        "Vencia as competições"
+      ],
+      [
+        9,
+        "Sinais sonoros de viaturas"
+      ],
+      [
+        10,
+        "Sequência de comandos no Excel ou Word"
+      ],
+      [
+        12,
+        "Gritos de desaprovação da plateia"
+      ],
+      [
+        14,
+        "Quebrados (financeiramente)"
+      ],
+      [
+        16,
+        "Vermelha no rosto"
+      ],
+      [
+        18,
+        "Pele humana"
+      ],
+      [
+        20,
+        "Escolho"
+      ],
+      [
+        22,
+        "Mês do segundo trimestre (abrev.)"
+      ]
+    ],
+    "Across": [
+      [
+        1,
+        "Estabelecimento destinado à criação de cavalos"
+      ],
+      [
+        6,
+        "Partes finais das obras"
+      ],
+      [
+        8,
+        "Máquinas úteis em blecautes"
+      ],
+      [
+        10,
+        "O grupo que elege um governador ou presidente"
+      ],
+      [
+        11,
+        "54, em algarismos romanos"
+      ],
+      [
+        13,
+        "Que existiu outrora"
+      ],
+      [
+        14,
+        "Animal selvagem"
+      ],
+      [
+        15,
+        "Comprova a veracidade dos fatos"
+      ],
+      [
+        16,
+        "Busquei, recolhi"
+      ],
+      [
+        17,
+        "O tântalo, por sua frequência"
+      ],
+      [
+        18,
+        "Pequena elevação de terreno"
+      ],
+      [
+        19,
+        "Base do caviar"
+      ],
+      [
+        20,
+        "Pessoa que fabrica joias"
+      ],
+      [
+        21,
+        "Ajustados"
+      ],
+      [
+        23,
+        "Conseguidos"
+      ],
+      [
+        24,
+        "'Obrigado Pelas ___', música do Luiz Ayrão"
+      ]
+    ]
+  },
+  "empty": ":"
+}

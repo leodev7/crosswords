@@ -1,0 +1,457 @@
+{
+  "date": "2025-12-27",
+  "level": "daily",
+  "dimensions": {
+    "width": 11,
+    "height": 11
+  },
+  "puzzle": [
+    [
+      1,
+      2,
+      3,
+      4,
+      5,
+      "#",
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    [
+      11,
+      ":",
+      ":",
+      ":",
+      ":",
+      "#",
+      12,
+      ":",
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      13,
+      ":",
+      ":",
+      ":",
+      ":",
+      "#",
+      14,
+      ":",
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      15,
+      ":",
+      ":",
+      "#",
+      16,
+      17,
+      ":",
+      ":",
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      "#",
+      18,
+      ":",
+      19,
+      ":",
+      ":",
+      ":",
+      ":",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      20,
+      ":",
+      ":",
+      ":",
+      ":",
+      ":",
+      21,
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      22,
+      ":",
+      ":",
+      ":",
+      ":",
+      ":",
+      23,
+      "#"
+    ],
+    [
+      24,
+      25,
+      26,
+      ":",
+      ":",
+      ":",
+      ":",
+      "#",
+      27,
+      ":",
+      28
+    ],
+    [
+      29,
+      ":",
+      ":",
+      ":",
+      ":",
+      "#",
+      30,
+      31,
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      32,
+      ":",
+      ":",
+      ":",
+      ":",
+      "#",
+      33,
+      ":",
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      34,
+      ":",
+      ":",
+      ":",
+      ":",
+      "#",
+      35,
+      ":",
+      ":",
+      ":",
+      ":"
+    ]
+  ],
+  "solution": [
+    [
+      "C",
+      "A",
+      "P",
+      "R",
+      "I",
+      "#",
+      "S",
+      "A",
+      "U",
+      "V",
+      "A"
+    ],
+    [
+      "U",
+      "S",
+      "A",
+      "I",
+      "N",
+      "#",
+      "E",
+      "T",
+      "I",
+      "O",
+      "S"
+    ],
+    [
+      "B",
+      "I",
+      "L",
+      "A",
+      "C",
+      "#",
+      "J",
+      "O",
+      "V",
+      "E",
+      "M"
+    ],
+    [
+      "A",
+      "L",
+      "O",
+      "#",
+      "I",
+      "P",
+      "A",
+      "N",
+      "E",
+      "M",
+      "A"
+    ],
+    [
+      "#",
+      "E",
+      "M",
+      "U",
+      "D",
+      "E",
+      "C",
+      "I",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      "A",
+      "N",
+      "E",
+      "D",
+      "O",
+      "T",
+      "A",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      "A",
+      "N",
+      "I",
+      "M",
+      "A",
+      "L",
+      "S",
+      "#"
+    ],
+    [
+      "A",
+      "D",
+      "E",
+      "N",
+      "T",
+      "R",
+      "O",
+      "#",
+      "T",
+      "O",
+      "K"
+    ],
+    [
+      "P",
+      "O",
+      "D",
+      "I",
+      "A",
+      "#",
+      "F",
+      "A",
+      "I",
+      "N",
+      "A"
+    ],
+    [
+      "T",
+      "R",
+      "E",
+      "M",
+      "I",
+      "#",
+      "O",
+      "U",
+      "V",
+      "I",
+      "R"
+    ],
+    [
+      "A",
+      "I",
+      "R",
+      "E",
+      "S",
+      "#",
+      "R",
+      "E",
+      "A",
+      "C",
+      "T"
+    ]
+  ],
+  "clues": {
+    "Down": [
+      [
+        1,
+        "País da Ilha da Juventude"
+      ],
+      [
+        2,
+        "Dê guarida"
+      ],
+      [
+        3,
+        "Pomba, no Peru"
+      ],
+      [
+        4,
+        "Braço do mar para navegação"
+      ],
+      [
+        5,
+        "Episódicos"
+      ],
+      [
+        6,
+        "'De qualquer maneira...'"
+      ],
+      [
+        7,
+        "Pasmada"
+      ],
+      [
+        8,
+        "Grite como lobo"
+      ],
+      [
+        9,
+        "Usem o serviço da Qantas"
+      ],
+      [
+        10,
+        "Doença que pode causar chiado no peito"
+      ],
+      [
+        17,
+        "Demandar"
+      ],
+      [
+        19,
+        "Vindo de todos"
+      ],
+      [
+        21,
+        "Elevada"
+      ],
+      [
+        23,
+        "Amigo do Tails"
+      ],
+      [
+        24,
+        "Cabível (fem.)"
+      ],
+      [
+        25,
+        "___ Caymmi, cantor de 'Porto'"
+      ],
+      [
+        26,
+        "Jofre no Hall da Fama do Boxe"
+      ],
+      [
+        28,
+        "Tipo de carro em que Ayrton Senna começou sua carreira"
+      ],
+      [
+        31,
+        "Tumulto"
+      ]
+    ],
+    "Across": [
+      [
+        1,
+        "Ilha italiana no golfo de Nápoles"
+      ],
+      [
+        6,
+        "Formiga considerada uma praga agrícola"
+      ],
+      [
+        11,
+        "___ Bolt, ex-atleta"
+      ],
+      [
+        12,
+        "Modelo de carro da Toyota"
+      ],
+      [
+        13,
+        "Olavo ___, poeta fluminense"
+      ],
+      [
+        14,
+        "Novo"
+      ],
+      [
+        15,
+        "'___, ___, Marciano', música da Elis Regina"
+      ],
+      [
+        16,
+        "Praia carioca com nome de origem tupi"
+      ],
+      [
+        18,
+        "Não dei um pio"
+      ],
+      [
+        20,
+        "Relato curto para divertir"
+      ],
+      [
+        22,
+        "Dog, cat and rat"
+      ],
+      [
+        24,
+        "No interior"
+      ],
+      [
+        27,
+        "___&amp;Stok, rede de lojas"
+      ],
+      [
+        29,
+        "Tinha permissão"
+      ],
+      [
+        30,
+        "Trabalho árduo"
+      ],
+      [
+        32,
+        "Tiritei"
+      ],
+      [
+        33,
+        "Atender um pedido"
+      ],
+      [
+        34,
+        "Venâncio ___, município gaúcho"
+      ],
+      [
+        35,
+        "Vídeo em que alguém assiste a outro vídeo (ing.)"
+      ]
+    ]
+  },
+  "empty": ":"
+}

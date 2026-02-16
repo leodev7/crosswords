@@ -1,0 +1,465 @@
+{
+  "date": "2026-01-16",
+  "level": "daily",
+  "dimensions": {
+    "width": 11,
+    "height": 11
+  },
+  "puzzle": [
+    [
+      1,
+      2,
+      3,
+      4,
+      5,
+      "#",
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    [
+      11,
+      ":",
+      ":",
+      ":",
+      ":",
+      "#",
+      12,
+      ":",
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      13,
+      ":",
+      ":",
+      ":",
+      ":",
+      14,
+      ":",
+      ":",
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      15,
+      ":",
+      ":",
+      "#",
+      16,
+      ":",
+      ":",
+      ":",
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      17,
+      ":",
+      ":",
+      18,
+      ":",
+      ":",
+      "#",
+      19,
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      20,
+      ":",
+      ":",
+      21,
+      ":",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      22,
+      23,
+      24,
+      ":",
+      "#",
+      25,
+      ":",
+      ":",
+      26,
+      27,
+      28
+    ],
+    [
+      29,
+      ":",
+      ":",
+      ":",
+      30,
+      ":",
+      ":",
+      "#",
+      31,
+      ":",
+      ":"
+    ],
+    [
+      32,
+      ":",
+      ":",
+      ":",
+      ":",
+      ":",
+      ":",
+      33,
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      34,
+      ":",
+      ":",
+      ":",
+      ":",
+      "#",
+      35,
+      ":",
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      36,
+      ":",
+      ":",
+      ":",
+      ":",
+      "#",
+      37,
+      ":",
+      ":",
+      ":",
+      ":"
+    ]
+  ],
+  "solution": [
+    [
+      "P",
+      "A",
+      "V",
+      "E",
+      "S",
+      "#",
+      "T",
+      "O",
+      "C",
+      "O",
+      "S"
+    ],
+    [
+      "A",
+      "C",
+      "I",
+      "D",
+      "O",
+      "#",
+      "I",
+      "R",
+      "A",
+      "D",
+      "A"
+    ],
+    [
+      "R",
+      "E",
+      "D",
+      "U",
+      "N",
+      "D",
+      "A",
+      "N",
+      "C",
+      "I",
+      "A"
+    ],
+    [
+      "E",
+      "T",
+      "A",
+      "#",
+      "D",
+      "E",
+      "S",
+      "A",
+      "T",
+      "A",
+      "R"
+    ],
+    [
+      "M",
+      "O",
+      "S",
+      "C",
+      "A",
+      "S",
+      "#",
+      "T",
+      "O",
+      "R",
+      "A"
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      "A",
+      "R",
+      "A",
+      "D",
+      "O",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      "T",
+      "O",
+      "U",
+      "R",
+      "#",
+      "B",
+      "I",
+      "S",
+      "A",
+      "V",
+      "O"
+    ],
+    [
+      "A",
+      "T",
+      "R",
+      "I",
+      "T",
+      "A",
+      "R",
+      "#",
+      "T",
+      "I",
+      "L"
+    ],
+    [
+      "S",
+      "I",
+      "N",
+      "C",
+      "E",
+      "R",
+      "I",
+      "D",
+      "A",
+      "D",
+      "E"
+    ],
+    [
+      "E",
+      "M",
+      "A",
+      "I",
+      "L",
+      "#",
+      "G",
+      "O",
+      "R",
+      "R",
+      "O"
+    ],
+    [
+      "R",
+      "O",
+      "S",
+      "A",
+      "L",
+      "#",
+      "I",
+      "O",
+      "I",
+      "O",
+      "S"
+    ]
+  ],
+  "clues": {
+    "Down": [
+      [
+        1,
+        "'Não se movam!'"
+      ],
+      [
+        2,
+        "___ balsâmico: tempero de saladas"
+      ],
+      [
+        3,
+        "Podem ser 'ganhas' em jogos eletrônicos"
+      ],
+      [
+        4,
+        "___ Guedes, chef de cozinha brasileiro"
+      ],
+      [
+        5,
+        "Fazer uma investigação"
+      ],
+      [
+        6,
+        "Mulheres na árvore genealógica"
+      ],
+      [
+        7,
+        "Adereços"
+      ],
+      [
+        8,
+        "Planta de caule coberto de espinhos"
+      ],
+      [
+        9,
+        "Detestar"
+      ],
+      [
+        10,
+        "Deserto do norte da África"
+      ],
+      [
+        14,
+        "Vir abaixo"
+      ],
+      [
+        18,
+        "Afago"
+      ],
+      [
+        21,
+        "Guiei o veículo"
+      ],
+      [
+        22,
+        "Arma de choque"
+      ],
+      [
+        23,
+        "Com grande qualidade"
+      ],
+      [
+        24,
+        "Caixas usadas em eleições"
+      ],
+      [
+        26,
+        "Empresa pioneira em jogos arcade"
+      ],
+      [
+        27,
+        "Material de frascos"
+      ],
+      [
+        28,
+        "Líquidos gordurosos para lubrificar"
+      ],
+      [
+        30,
+        "Guilherme ___, herói da independência suíça"
+      ],
+      [
+        33,
+        "Scooby-___"
+      ]
+    ],
+    "Across": [
+      [
+        1,
+        "Sobremesas feitas com bolachas e creme"
+      ],
+      [
+        6,
+        "Pedaços curtos de madeira"
+      ],
+      [
+        11,
+        "De pH menor que 7"
+      ],
+      [
+        12,
+        "Cheia de cólera, enfurecida"
+      ],
+      [
+        13,
+        "Característica da frase 'subir para cima'"
+      ],
+      [
+        15,
+        "'___ Mundo Melhor!', novela de 2025"
+      ],
+      [
+        16,
+        "Desfazer os nós"
+      ],
+      [
+        17,
+        "Às ___: largado, esquecido"
+      ],
+      [
+        19,
+        "Tronco grande de madeira"
+      ],
+      [
+        20,
+        "Lavrado"
+      ],
+      [
+        22,
+        "___ de France: competição de ciclismo"
+      ],
+      [
+        25,
+        "Mãe da mãe da mãe"
+      ],
+      [
+        29,
+        "Friccionar dois objetos"
+      ],
+      [
+        31,
+        "Sinal em 'chão'"
+      ],
+      [
+        32,
+        "Franqueza"
+      ],
+      [
+        34,
+        "Mensagem enviada on-line"
+      ],
+      [
+        35,
+        "Carapuça"
+      ],
+      [
+        36,
+        "Campo com a rainha das flores"
+      ],
+      [
+        37,
+        "Brinquedos que sobem e descem"
+      ]
+    ]
+  },
+  "empty": ":"
+}

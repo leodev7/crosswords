@@ -1,0 +1,473 @@
+{
+  "date": "2026-02-09",
+  "level": "daily",
+  "dimensions": {
+    "width": 11,
+    "height": 11
+  },
+  "puzzle": [
+    [
+      1,
+      2,
+      3,
+      4,
+      5,
+      "#",
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    [
+      11,
+      ":",
+      ":",
+      ":",
+      ":",
+      "#",
+      12,
+      ":",
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      13,
+      ":",
+      ":",
+      ":",
+      ":",
+      "#",
+      14,
+      ":",
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      15,
+      ":",
+      ":",
+      "#",
+      16,
+      17,
+      ":",
+      ":",
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      18,
+      ":",
+      ":",
+      19,
+      ":",
+      ":",
+      "#",
+      20,
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      21,
+      ":",
+      ":",
+      22,
+      ":",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      23,
+      24,
+      25,
+      ":",
+      "#",
+      26,
+      ":",
+      ":",
+      27,
+      28,
+      29
+    ],
+    [
+      30,
+      ":",
+      ":",
+      ":",
+      31,
+      ":",
+      ":",
+      "#",
+      32,
+      ":",
+      ":"
+    ],
+    [
+      33,
+      ":",
+      ":",
+      ":",
+      ":",
+      "#",
+      34,
+      35,
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      36,
+      ":",
+      ":",
+      ":",
+      ":",
+      "#",
+      37,
+      ":",
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      38,
+      ":",
+      ":",
+      ":",
+      ":",
+      "#",
+      39,
+      ":",
+      ":",
+      ":",
+      ":"
+    ]
+  ],
+  "solution": [
+    [
+      "L",
+      "U",
+      "T",
+      "A",
+      "R",
+      "#",
+      "A",
+      "C",
+      "H",
+      "A",
+      "M"
+    ],
+    [
+      "I",
+      "B",
+      "O",
+      "P",
+      "E",
+      "#",
+      "P",
+      "L",
+      "A",
+      "T",
+      "A"
+    ],
+    [
+      "S",
+      "O",
+      "N",
+      "I",
+      "C",
+      "#",
+      "T",
+      "A",
+      "S",
+      "E",
+      "R"
+    ],
+    [
+      "T",
+      "A",
+      "E",
+      "#",
+      "A",
+      "G",
+      "A",
+      "S",
+      "T",
+      "A",
+      "R"
+    ],
+    [
+      "A",
+      "T",
+      "R",
+      "A",
+      "I",
+      "R",
+      "#",
+      "S",
+      "E",
+      "R",
+      "A"
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      "G",
+      "R",
+      "I",
+      "F",
+      "E",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      "G",
+      "R",
+      "A",
+      "U",
+      "#",
+      "P",
+      "R",
+      "A",
+      "Z",
+      "E",
+      "R"
+    ],
+    [
+      "R",
+      "I",
+      "T",
+      "A",
+      "L",
+      "E",
+      "E",
+      "#",
+      "A",
+      "X",
+      "E"
+    ],
+    [
+      "O",
+      "P",
+      "E",
+      "R",
+      "E",
+      "#",
+      "S",
+      "P",
+      "I",
+      "T",
+      "Z"
+    ],
+    [
+      "S",
+      "A",
+      "U",
+      "D",
+      "E",
+      "#",
+      "T",
+      "O",
+      "R",
+      "R",
+      "A"
+    ],
+    [
+      "A",
+      "S",
+      "S",
+      "E",
+      "M",
+      "#",
+      "A",
+      "R",
+      "E",
+      "A",
+      "R"
+    ]
+  ],
+  "clues": {
+    "Down": [
+      [
+        1,
+        "Pode ser de compras ou de chamada"
+      ],
+      [
+        2,
+        "Submarino da 1ª e da 2ª Guerra"
+      ],
+      [
+        3,
+        "Pó preto usado em impressoras a laser"
+      ],
+      [
+        4,
+        "Prefixo que dá a ideia de 'abelha'"
+      ],
+      [
+        5,
+        "Voltar a sofrer de uma doença"
+      ],
+      [
+        6,
+        "Capaz de realizar a tarefa (fem.)"
+      ],
+      [
+        7,
+        "De excelente qualidade (2 palavras)"
+      ],
+      [
+        8,
+        "Pau ou ferro erguido que serve de apoio"
+      ],
+      [
+        9,
+        "Pôr fogo"
+      ],
+      [
+        10,
+        "Na ___: à força"
+      ],
+      [
+        17,
+        "___ espanhola: epidemia que chegou ao Brasil em 1918"
+      ],
+      [
+        19,
+        "'Não se precipite'"
+      ],
+      [
+        22,
+        "Sinal de que a janela não ficou bem fechada"
+      ],
+      [
+        23,
+        "Agrupamento de doze dúzias"
+      ],
+      [
+        24,
+        "Pedaços de madeira longos e estreitos"
+      ],
+      [
+        25,
+        "Sartre e Freud, por suas religiões"
+      ],
+      [
+        27,
+        "O Congo, até 1997"
+      ],
+      [
+        28,
+        "Adicional"
+      ],
+      [
+        29,
+        "'Ajoelhou, tem que ___'"
+      ],
+      [
+        31,
+        "Agem como ratos de biblioteca"
+      ],
+      [
+        35,
+        "Palavra que antecede 'favor' ou 'enquanto'"
+      ]
+    ],
+    "Across": [
+      [
+        1,
+        "Praticar boxe ou jiu-jítsu"
+      ],
+      [
+        6,
+        "Descobrem onde está"
+      ],
+      [
+        11,
+        "Empresa que presta serviço de medição de audiência de TV"
+      ],
+      [
+        12,
+        "Mar del ___, cidade argentina"
+      ],
+      [
+        13,
+        "Ouriço que coleta anéis nos jogos"
+      ],
+      [
+        14,
+        "Arma de choque"
+      ],
+      [
+        15,
+        "___ Kwon Do, arte marcial"
+      ],
+      [
+        16,
+        "Provocar irritação"
+      ],
+      [
+        18,
+        "Poder do ímã"
+      ],
+      [
+        20,
+        "Música do Legião Urbana"
+      ],
+      [
+        21,
+        "Empresa que fabrica artigos de luxo"
+      ],
+      [
+        23,
+        "Unidade para o teor de álcool"
+      ],
+      [
+        26,
+        "Sentimento de alegria"
+      ],
+      [
+        30,
+        "Cantora da música 'Flagra' (2 palavras)"
+      ],
+      [
+        32,
+        "Estilo de Ivete Sangalo"
+      ],
+      [
+        33,
+        "Submeta à cirurgia"
+      ],
+      [
+        34,
+        "___ alemão: raça de cães"
+      ],
+      [
+        36,
+        "Palavra falada para alguém que acabou de espirrar"
+      ],
+      [
+        37,
+        "Queima de leve"
+      ],
+      [
+        38,
+        "Aqueçam no forno"
+      ],
+      [
+        39,
+        "Esfregar para limpar as panelas"
+      ]
+    ]
+  },
+  "empty": ":"
+}

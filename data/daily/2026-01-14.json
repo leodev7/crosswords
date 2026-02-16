@@ -1,0 +1,465 @@
+{
+  "date": "2026-01-14",
+  "level": "daily",
+  "dimensions": {
+    "width": 11,
+    "height": 11
+  },
+  "puzzle": [
+    [
+      1,
+      2,
+      3,
+      4,
+      "#",
+      "#",
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    [
+      10,
+      ":",
+      ":",
+      ":",
+      11,
+      "#",
+      12,
+      ":",
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      13,
+      ":",
+      ":",
+      ":",
+      ":",
+      14,
+      ":",
+      ":",
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      15,
+      ":",
+      ":",
+      ":",
+      ":",
+      ":",
+      "#",
+      16,
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      17,
+      ":",
+      ":",
+      "#",
+      18,
+      ":",
+      19,
+      ":",
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      20,
+      ":",
+      ":",
+      ":",
+      ":",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      21,
+      22,
+      23,
+      ":",
+      ":",
+      ":",
+      ":",
+      "#",
+      24,
+      25,
+      26
+    ],
+    [
+      27,
+      ":",
+      ":",
+      ":",
+      "#",
+      28,
+      ":",
+      29,
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      30,
+      ":",
+      ":",
+      ":",
+      31,
+      ":",
+      ":",
+      ":",
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      32,
+      ":",
+      ":",
+      ":",
+      ":",
+      "#",
+      33,
+      ":",
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      34,
+      ":",
+      ":",
+      ":",
+      ":",
+      "#",
+      "#",
+      35,
+      ":",
+      ":",
+      ":"
+    ]
+  ],
+  "solution": [
+    [
+      "B",
+      "A",
+      "N",
+      "I",
+      "#",
+      "#",
+      "C",
+      "A",
+      "S",
+      "A",
+      "R"
+    ],
+    [
+      "A",
+      "T",
+      "U",
+      "A",
+      "R",
+      "#",
+      "A",
+      "R",
+      "E",
+      "N",
+      "A"
+    ],
+    [
+      "R",
+      "E",
+      "T",
+      "R",
+      "O",
+      "G",
+      "R",
+      "A",
+      "D",
+      "O",
+      "S"
+    ],
+    [
+      "C",
+      "A",
+      "R",
+      "A",
+      "C",
+      "U",
+      "#",
+      "R",
+      "A",
+      "T",
+      "A"
+    ],
+    [
+      "O",
+      "R",
+      "E",
+      "#",
+      "C",
+      "A",
+      "M",
+      "A",
+      "R",
+      "A",
+      "S"
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      "C",
+      "H",
+      "R",
+      "I",
+      "S",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      "A",
+      "N",
+      "D",
+      "R",
+      "E",
+      "A",
+      "S",
+      "#",
+      "O",
+      "R",
+      "G"
+    ],
+    [
+      "C",
+      "A",
+      "I",
+      "O",
+      "#",
+      "N",
+      "E",
+      "G",
+      "R",
+      "O",
+      "R"
+    ],
+    [
+      "A",
+      "S",
+      "S",
+      "A",
+      "L",
+      "A",
+      "R",
+      "I",
+      "A",
+      "D",
+      "O"
+    ],
+    [
+      "B",
+      "A",
+      "S",
+      "T",
+      "A",
+      "#",
+      "O",
+      "R",
+      "L",
+      "A",
+      "S"
+    ],
+    [
+      "O",
+      "L",
+      "E",
+      "A",
+      "R",
+      "#",
+      "#",
+      "A",
+      "B",
+      "R",
+      "A"
+    ]
+  ],
+  "clues": {
+    "Down": [
+      [
+        1,
+        "Pode ser movido com remos"
+      ],
+      [
+        2,
+        "Pôr fogo"
+      ],
+      [
+        3,
+        "Fornece alimento"
+      ],
+      [
+        4,
+        "Sereia do nosso folclore"
+      ],
+      [
+        5,
+        "Carro, na Califórnia"
+      ],
+      [
+        6,
+        "Aves muito coloridas"
+      ],
+      [
+        7,
+        "Tranquilizar com remédios"
+      ],
+      [
+        8,
+        "Toma apontamentos"
+      ],
+      [
+        9,
+        "Pouco fundas (as piscinas)"
+      ],
+      [
+        11,
+        "Ellen ___, atriz e modelo"
+      ],
+      [
+        14,
+        "Fruto estimulante usado em refrigerantes"
+      ],
+      [
+        19,
+        "Muito pobre"
+      ],
+      [
+        20,
+        "Língua europeia falada em Zagreb"
+      ],
+      [
+        21,
+        "Concluo o trabalho"
+      ],
+      [
+        22,
+        "Relativo ao nariz"
+      ],
+      [
+        23,
+        "Falei"
+      ],
+      [
+        24,
+        "Opção à Colgate"
+      ],
+      [
+        25,
+        "Circular"
+      ],
+      [
+        26,
+        "Lima usada para desbastar madeira"
+      ],
+      [
+        29,
+        "Move-se em torno de um eixo"
+      ],
+      [
+        31,
+        "A colmeia, para a abelha"
+      ]
+    ],
+    "Across": [
+      [
+        1,
+        "Expulsei da pátria"
+      ],
+      [
+        5,
+        "Desejo da noiva"
+      ],
+      [
+        10,
+        "Representar um papel no teatro"
+      ],
+      [
+        12,
+        "Local de batalha para gladiadores"
+      ],
+      [
+        13,
+        "Antiquados"
+      ],
+      [
+        15,
+        "Raça de boi de pelo curto e avermelhado"
+      ],
+      [
+        16,
+        "Roedora encontrada no esgoto"
+      ],
+      [
+        17,
+        "Peça ao Senhor"
+      ],
+      [
+        18,
+        "Espaços fechados"
+      ],
+      [
+        20,
+        "___ Rock, comediante dos EUA"
+      ],
+      [
+        21,
+        "'GTA San ___', jogo eletrônico"
+      ],
+      [
+        24,
+        "Opção ao .com.br"
+      ],
+      [
+        27,
+        "___ Castro, atuou em 'Fina Estampa'"
+      ],
+      [
+        28,
+        "Escuridão densa"
+      ],
+      [
+        30,
+        "Pago, remunerado"
+      ],
+      [
+        32,
+        "'Já chega!'"
+      ],
+      [
+        33,
+        "Margens de rios e lagoas"
+      ],
+      [
+        34,
+        "Cobrir a fôrma com gordura"
+      ],
+      [
+        35,
+        "Tire da caixa"
+      ]
+    ]
+  },
+  "empty": ":"
+}

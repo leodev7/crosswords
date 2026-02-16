@@ -1,0 +1,457 @@
+{
+  "date": "2026-02-06",
+  "level": "daily",
+  "dimensions": {
+    "width": 11,
+    "height": 11
+  },
+  "puzzle": [
+    [
+      1,
+      2,
+      3,
+      4,
+      "#",
+      "#",
+      "#",
+      5,
+      6,
+      7,
+      8
+    ],
+    [
+      9,
+      ":",
+      ":",
+      ":",
+      10,
+      "#",
+      11,
+      ":",
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      12,
+      ":",
+      ":",
+      ":",
+      ":",
+      "#",
+      13,
+      ":",
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      14,
+      ":",
+      ":",
+      ":",
+      ":",
+      15,
+      ":",
+      ":",
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      "#",
+      16,
+      ":",
+      ":",
+      "#",
+      17,
+      ":",
+      ":",
+      ":",
+      ":",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      18,
+      19,
+      ":",
+      ":",
+      ":",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      20,
+      21,
+      ":",
+      ":",
+      ":",
+      "#",
+      22,
+      23,
+      24,
+      "#"
+    ],
+    [
+      25,
+      ":",
+      ":",
+      ":",
+      ":",
+      ":",
+      26,
+      ":",
+      ":",
+      ":",
+      27
+    ],
+    [
+      28,
+      ":",
+      ":",
+      ":",
+      ":",
+      "#",
+      29,
+      ":",
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      30,
+      ":",
+      ":",
+      ":",
+      ":",
+      "#",
+      31,
+      ":",
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      32,
+      ":",
+      ":",
+      ":",
+      "#",
+      "#",
+      "#",
+      33,
+      ":",
+      ":",
+      ":"
+    ]
+  ],
+  "solution": [
+    [
+      "B",
+      "O",
+      "D",
+      "A",
+      "#",
+      "#",
+      "#",
+      "D",
+      "O",
+      "M",
+      "A"
+    ],
+    [
+      "A",
+      "M",
+      "O",
+      "R",
+      "E",
+      "#",
+      "S",
+      "E",
+      "D",
+      "E",
+      "S"
+    ],
+    [
+      "S",
+      "A",
+      "R",
+      "R",
+      "O",
+      "#",
+      "I",
+      "S",
+      "A",
+      "A",
+      "C"
+    ],
+    [
+      "E",
+      "N",
+      "S",
+      "A",
+      "N",
+      "D",
+      "E",
+      "C",
+      "I",
+      "D",
+      "O"
+    ],
+    [
+      "#",
+      "I",
+      "O",
+      "N",
+      "#",
+      "A",
+      "N",
+      "O",
+      "R",
+      "A",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      "H",
+      "A",
+      "V",
+      "A",
+      "N",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      "A",
+      "T",
+      "A",
+      "R",
+      "I",
+      "#",
+      "T",
+      "V",
+      "S",
+      "#"
+    ],
+    [
+      "M",
+      "E",
+      "R",
+      "C",
+      "A",
+      "D",
+      "O",
+      "R",
+      "I",
+      "A",
+      "S"
+    ],
+    [
+      "A",
+      "D",
+      "I",
+      "E",
+      "M",
+      "#",
+      "M",
+      "O",
+      "R",
+      "T",
+      "A"
+    ],
+    [
+      "P",
+      "E",
+      "G",
+      "U",
+      "E",
+      "#",
+      "C",
+      "L",
+      "A",
+      "I",
+      "R"
+    ],
+    [
+      "A",
+      "S",
+      "O",
+      "S",
+      "#",
+      "#",
+      "#",
+      "E",
+      "L",
+      "E",
+      "S"
+    ]
+  ],
+  "clues": {
+    "Down": [
+      [
+        1,
+        "Parte inferior que serve de apoio"
+      ],
+      [
+        2,
+        "Do país cuja capital é Mascate"
+      ],
+      [
+        3,
+        "Parte do cavalo onde é colocada a sela"
+      ],
+      [
+        4,
+        "Edifícios como o Burj Khalifa"
+      ],
+      [
+        5,
+        "Caos momentâneo"
+      ],
+      [
+        6,
+        "___ José, cantor de 'Eu Vou Tirar Você Desse Lugar '"
+      ],
+      [
+        7,
+        "Achar o fio da ___"
+      ],
+      [
+        8,
+        "Repugnância"
+      ],
+      [
+        10,
+        "Período histórico imensurável"
+      ],
+      [
+        11,
+        "Cidade italiana, berço de vários papas"
+      ],
+      [
+        15,
+        "___ Bowie, cantor de 'Heroes'"
+      ],
+      [
+        19,
+        "Fio metálico de cercas"
+      ],
+      [
+        20,
+        "___ Aegypti: o mosquito da dengue"
+      ],
+      [
+        21,
+        "Cereal da triticultura"
+      ],
+      [
+        23,
+        "Vídeo ou imagem que se populariza rapidamente na internet"
+      ],
+      [
+        24,
+        "Erik ___: compositor de 'Trois Gymnopédies'"
+      ],
+      [
+        25,
+        "Imagem do atlas"
+      ],
+      [
+        26,
+        "Org. que supervisiona o comércio"
+      ],
+      [
+        27,
+        "Virose de nível grave"
+      ]
+    ],
+    "Across": [
+      [
+        1,
+        "Cerimônia de casamento"
+      ],
+      [
+        5,
+        "Amansa o animal selvagem"
+      ],
+      [
+        9,
+        "Amor, em Bérgamo"
+      ],
+      [
+        11,
+        "Matrizes de empresas"
+      ],
+      [
+        12,
+        "Tirar ___: debochar"
+      ],
+      [
+        13,
+        "___ Newton, estabeleceu as 'Leis de Newton'"
+      ],
+      [
+        14,
+        "Doido"
+      ],
+      [
+        16,
+        "Átomo com carga elétrica"
+      ],
+      [
+        17,
+        "Ganhou o Oscar de Melhor Filme de 2024"
+      ],
+      [
+        18,
+        "Loja com uma réplica da Estátua da Liberdade"
+      ],
+      [
+        20,
+        "A criadora do 'Pong'"
+      ],
+      [
+        22,
+        "Costumam estar em salas de estar"
+      ],
+      [
+        25,
+        "São guardadas no estoque da loja"
+      ],
+      [
+        28,
+        "Posponham"
+      ],
+      [
+        29,
+        "Galinha ___: pessoa medrosa"
+      ],
+      [
+        30,
+        "Segure com a mão"
+      ],
+      [
+        31,
+        "Janete ___, autora de 'Irmãos Coragem'"
+      ],
+      [
+        32,
+        "Sem mais ninguém para acompanhar (2 palavras)"
+      ],
+      [
+        33,
+        "Estes caras"
+      ]
+    ]
+  },
+  "empty": ":"
+}

@@ -1,0 +1,465 @@
+{
+  "date": "2026-01-18",
+  "level": "daily",
+  "dimensions": {
+    "width": 11,
+    "height": 11
+  },
+  "puzzle": [
+    [
+      1,
+      2,
+      3,
+      4,
+      "#",
+      "#",
+      "#",
+      5,
+      6,
+      7,
+      8
+    ],
+    [
+      9,
+      ":",
+      ":",
+      ":",
+      10,
+      "#",
+      11,
+      ":",
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      12,
+      ":",
+      ":",
+      ":",
+      ":",
+      "#",
+      13,
+      ":",
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      14,
+      ":",
+      ":",
+      "#",
+      15,
+      16,
+      ":",
+      ":",
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      "#",
+      17,
+      ":",
+      18,
+      "#",
+      19,
+      ":",
+      ":",
+      ":",
+      ":",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      20,
+      ":",
+      21,
+      ":",
+      ":",
+      ":",
+      ":",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      22,
+      ":",
+      ":",
+      ":",
+      ":",
+      "#",
+      23,
+      ":",
+      24,
+      "#"
+    ],
+    [
+      25,
+      ":",
+      ":",
+      ":",
+      ":",
+      ":",
+      26,
+      "#",
+      27,
+      ":",
+      28
+    ],
+    [
+      29,
+      ":",
+      ":",
+      ":",
+      ":",
+      "#",
+      30,
+      31,
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      32,
+      ":",
+      ":",
+      ":",
+      ":",
+      "#",
+      33,
+      ":",
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      34,
+      ":",
+      ":",
+      ":",
+      "#",
+      "#",
+      "#",
+      35,
+      ":",
+      ":",
+      ":"
+    ]
+  ],
+  "solution": [
+    [
+      "R",
+      "O",
+      "C",
+      "K",
+      "#",
+      "#",
+      "#",
+      "M",
+      "I",
+      "A",
+      "R"
+    ],
+    [
+      "A",
+      "V",
+      "A",
+      "I",
+      "S",
+      "#",
+      "D",
+      "E",
+      "N",
+      "G",
+      "O"
+    ],
+    [
+      "R",
+      "A",
+      "P",
+      "T",
+      "A",
+      "#",
+      "A",
+      "S",
+      "S",
+      "I",
+      "M"
+    ],
+    [
+      "A",
+      "I",
+      "R",
+      "#",
+      "B",
+      "A",
+      "Q",
+      "U",
+      "E",
+      "T",
+      "A"
+    ],
+    [
+      "#",
+      "S",
+      "I",
+      "N",
+      "#",
+      "T",
+      "U",
+      "R",
+      "N",
+      "O",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      "C",
+      "O",
+      "B",
+      "A",
+      "I",
+      "A",
+      "S",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      "C",
+      "O",
+      "V",
+      "I",
+      "D",
+      "#",
+      "R",
+      "I",
+      "M",
+      "#"
+    ],
+    [
+      "A",
+      "R",
+      "R",
+      "A",
+      "S",
+      "A",
+      "M",
+      "#",
+      "V",
+      "A",
+      "I"
+    ],
+    [
+      "C",
+      "I",
+      "N",
+      "T",
+      "A",
+      "#",
+      "A",
+      "P",
+      "E",
+      "G",
+      "O"
+    ],
+    [
+      "R",
+      "A",
+      "I",
+      "A",
+      "S",
+      "#",
+      "O",
+      "R",
+      "I",
+      "O",
+      "N"
+    ],
+    [
+      "A",
+      "R",
+      "O",
+      "S",
+      "#",
+      "#",
+      "#",
+      "A",
+      "S",
+      "A",
+      "S"
+    ]
+  ],
+  "clues": {
+    "Down": [
+      [
+        1,
+        "Muito pouco vista"
+      ],
+      [
+        2,
+        "Em forma de 0 (pl.)"
+      ],
+      [
+        3,
+        "Signo para pessoas nascidas no Natal"
+      ],
+      [
+        4,
+        "Conjunto de peças relacionadas"
+      ],
+      [
+        5,
+        "Cortejar, cumprimentar"
+      ],
+      [
+        6,
+        "Apáticos, indiferentes"
+      ],
+      [
+        7,
+        "Grande inquietação"
+      ],
+      [
+        8,
+        "Cidade da Fontana di Trevi"
+      ],
+      [
+        10,
+        "Dia entre Sex. e Dom."
+      ],
+      [
+        11,
+        "Deste lugar"
+      ],
+      [
+        16,
+        "Amarrada, ligada"
+      ],
+      [
+        18,
+        "Calouras"
+      ],
+      [
+        21,
+        "Mães das avós (pop.)"
+      ],
+      [
+        22,
+        "Inventar"
+      ],
+      [
+        24,
+        "Ressentimento guardado"
+      ],
+      [
+        25,
+        "Capital e maior cidade de Gana"
+      ],
+      [
+        26,
+        "___ Tsé-Tung: 1º presidente da China"
+      ],
+      [
+        28,
+        "Átomos carregados eletricamente"
+      ],
+      [
+        31,
+        "'___ Dizer Adeus', música dos Titãs"
+      ]
+    ],
+    "Across": [
+      [
+        1,
+        "___ in Rio, festival de música"
+      ],
+      [
+        5,
+        "Imitar os gatos"
+      ],
+      [
+        9,
+        "Garantias de pagamentos"
+      ],
+      [
+        11,
+        "Birra de criança"
+      ],
+      [
+        12,
+        "Apodera-se de uma pessoa"
+      ],
+      [
+        13,
+        "Desse modo"
+      ],
+      [
+        14,
+        "___ bag: proteção de veículos"
+      ],
+      [
+        15,
+        "Varinha usada pelo baterista"
+      ],
+      [
+        17,
+        "Sem, em espanhol"
+      ],
+      [
+        19,
+        "Cada um dos períodos de uma atividade"
+      ],
+      [
+        20,
+        "Animais usados em experimentos"
+      ],
+      [
+        22,
+        "Infecção viral"
+      ],
+      [
+        23,
+        "Órgão em formato de feijão"
+      ],
+      [
+        25,
+        "Fazem um grande sucesso (gíria)"
+      ],
+      [
+        27,
+        "Segue"
+      ],
+      [
+        29,
+        "___-liga: peça íntima feminina"
+      ],
+      [
+        30,
+        "Ligação afetiva"
+      ],
+      [
+        32,
+        "Divisões da piscina"
+      ],
+      [
+        33,
+        "Gigante caçador da mitologia grega"
+      ],
+      [
+        34,
+        "São quatro no símbolo da Audi"
+      ],
+      [
+        35,
+        "Membros do urubu"
+      ]
+    ]
+  },
+  "empty": ":"
+}

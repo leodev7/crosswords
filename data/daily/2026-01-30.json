@@ -1,0 +1,457 @@
+{
+  "date": "2026-01-30",
+  "level": "daily",
+  "dimensions": {
+    "width": 11,
+    "height": 11
+  },
+  "puzzle": [
+    [
+      1,
+      2,
+      3,
+      4,
+      "#",
+      "#",
+      "#",
+      5,
+      6,
+      7,
+      8
+    ],
+    [
+      9,
+      ":",
+      ":",
+      ":",
+      10,
+      "#",
+      11,
+      ":",
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      12,
+      ":",
+      ":",
+      ":",
+      ":",
+      "#",
+      13,
+      ":",
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      14,
+      ":",
+      ":",
+      ":",
+      ":",
+      15,
+      ":",
+      ":",
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      "#",
+      16,
+      ":",
+      ":",
+      "#",
+      17,
+      ":",
+      ":",
+      ":",
+      ":",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      18,
+      19,
+      ":",
+      ":",
+      ":",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      20,
+      21,
+      ":",
+      ":",
+      ":",
+      "#",
+      22,
+      23,
+      24,
+      "#"
+    ],
+    [
+      25,
+      ":",
+      ":",
+      ":",
+      ":",
+      ":",
+      26,
+      ":",
+      ":",
+      ":",
+      27
+    ],
+    [
+      28,
+      ":",
+      ":",
+      ":",
+      ":",
+      "#",
+      29,
+      ":",
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      30,
+      ":",
+      ":",
+      ":",
+      ":",
+      "#",
+      31,
+      ":",
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      32,
+      ":",
+      ":",
+      ":",
+      "#",
+      "#",
+      "#",
+      33,
+      ":",
+      ":",
+      ":"
+    ]
+  ],
+  "solution": [
+    [
+      "O",
+      "R",
+      "C",
+      "A",
+      "#",
+      "#",
+      "#",
+      "I",
+      "B",
+      "G",
+      "E"
+    ],
+    [
+      "C",
+      "E",
+      "I",
+      "F",
+      "A",
+      "#",
+      "I",
+      "D",
+      "E",
+      "A",
+      "L"
+    ],
+    [
+      "A",
+      "L",
+      "C",
+      "E",
+      "S",
+      "#",
+      "N",
+      "E",
+      "S",
+      "S",
+      "E"
+    ],
+    [
+      "S",
+      "A",
+      "L",
+      "T",
+      "I",
+      "T",
+      "A",
+      "N",
+      "T",
+      "E",
+      "S"
+    ],
+    [
+      "#",
+      "M",
+      "O",
+      "I",
+      "#",
+      "A",
+      "N",
+      "T",
+      "A",
+      "S",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      "V",
+      "E",
+      "R",
+      "E",
+      "I",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      "C",
+      "A",
+      "I",
+      "D",
+      "A",
+      "#",
+      "F",
+      "A",
+      "B",
+      "#"
+    ],
+    [
+      "N",
+      "O",
+      "R",
+      "D",
+      "E",
+      "S",
+      "T",
+      "I",
+      "N",
+      "O",
+      "S"
+    ],
+    [
+      "A",
+      "L",
+      "I",
+      "A",
+      "M",
+      "#",
+      "A",
+      "C",
+      "U",
+      "D",
+      "I"
+    ],
+    [
+      "C",
+      "O",
+      "A",
+      "D",
+      "A",
+      "#",
+      "J",
+      "O",
+      "I",
+      "A",
+      "S"
+    ],
+    [
+      "O",
+      "U",
+      "S",
+      "E",
+      "#",
+      "#",
+      "#",
+      "U",
+      "R",
+      "S",
+      "O"
+    ]
+  ],
+  "clues": {
+    "Down": [
+      [
+        1,
+        "Casas indígenas"
+      ],
+      [
+        2,
+        "Raspam, triscam"
+      ],
+      [
+        3,
+        "Conjunto de eventos repetidos regularmente"
+      ],
+      [
+        4,
+        "Carinho"
+      ],
+      [
+        5,
+        "Descobriu quem era"
+      ],
+      [
+        6,
+        "Antiga arma com arco"
+      ],
+      [
+        7,
+        "Escapam pelo escape do carro"
+      ],
+      [
+        8,
+        "Estes caras"
+      ],
+      [
+        10,
+        "Assim, na Argentina"
+      ],
+      [
+        11,
+        "Fútil, vazio"
+      ],
+      [
+        15,
+        "Peso do veículo sem a carga (pl.)"
+      ],
+      [
+        19,
+        "Acúmulo de líquido nos tecidos"
+      ],
+      [
+        20,
+        "Copiou na prova (gíria)"
+      ],
+      [
+        21,
+        "Peças para solistas"
+      ],
+      [
+        23,
+        "Estar de acordo, consentir"
+      ],
+      [
+        24,
+        "'As ___ de Fígaro', ópera"
+      ],
+      [
+        25,
+        "Grande fatia"
+      ],
+      [
+        26,
+        "___ Mahal, mausoléu de Agra"
+      ],
+      [
+        27,
+        "O dente do juízo"
+      ]
+    ],
+    "Across": [
+      [
+        1,
+        "Mamífero marinho de dorso negro"
+      ],
+      [
+        5,
+        "Instituto que dividiu o Brasil em macrorregiões"
+      ],
+      [
+        9,
+        "Colheita de cereais"
+      ],
+      [
+        11,
+        "Modelo de excelência"
+      ],
+      [
+        12,
+        "Grandes cervos encontrados na Finlândia"
+      ],
+      [
+        13,
+        "No interior desse objeto"
+      ],
+      [
+        14,
+        "Que dão pequenos pulos"
+      ],
+      [
+        16,
+        "Reduz a pedaços pequenos"
+      ],
+      [
+        17,
+        "Mamíferos do Pantanal"
+      ],
+      [
+        18,
+        "Olharei"
+      ],
+      [
+        20,
+        "Voltada para baixo"
+      ],
+      [
+        22,
+        "Força Aérea do nosso país"
+      ],
+      [
+        25,
+        "Nascidos no Piauí ou no Ceará"
+      ],
+      [
+        28,
+        "Formam uma união"
+      ],
+      [
+        29,
+        "Prestei auxílio"
+      ],
+      [
+        30,
+        "Filtrada"
+      ],
+      [
+        31,
+        "São fabricadas pelo ourives"
+      ],
+      [
+        32,
+        "Aja com audácia"
+      ],
+      [
+        33,
+        "Animal como o panda"
+      ]
+    ]
+  },
+  "empty": ":"
+}

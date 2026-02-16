@@ -1,0 +1,465 @@
+{
+  "date": "2026-01-01",
+  "level": "daily",
+  "dimensions": {
+    "width": 11,
+    "height": 11
+  },
+  "puzzle": [
+    [
+      1,
+      2,
+      3,
+      4,
+      "#",
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    [
+      11,
+      ":",
+      ":",
+      ":",
+      "#",
+      12,
+      ":",
+      ":",
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      13,
+      ":",
+      ":",
+      ":",
+      14,
+      ":",
+      ":",
+      ":",
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      15,
+      ":",
+      ":",
+      ":",
+      ":",
+      "#",
+      16,
+      ":",
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      17,
+      ":",
+      18,
+      ":",
+      "#",
+      19,
+      ":",
+      ":"
+    ],
+    [
+      "#",
+      "#",
+      20,
+      ":",
+      ":",
+      ":",
+      ":",
+      21,
+      ":",
+      "#",
+      "#"
+    ],
+    [
+      22,
+      23,
+      ":",
+      "#",
+      24,
+      ":",
+      ":",
+      ":",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      25,
+      ":",
+      ":",
+      26,
+      ":",
+      "#",
+      27,
+      ":",
+      28,
+      29,
+      30
+    ],
+    [
+      31,
+      ":",
+      ":",
+      ":",
+      ":",
+      32,
+      ":",
+      ":",
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      33,
+      ":",
+      ":",
+      ":",
+      ":",
+      ":",
+      "#",
+      34,
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      35,
+      ":",
+      ":",
+      ":",
+      ":",
+      ":",
+      "#",
+      36,
+      ":",
+      ":",
+      ":"
+    ]
+  ],
+  "solution": [
+    [
+      "L",
+      "I",
+      "D",
+      "E",
+      "#",
+      "A",
+      "C",
+      "U",
+      "D",
+      "I",
+      "R"
+    ],
+    [
+      "A",
+      "V",
+      "E",
+      "S",
+      "#",
+      "S",
+      "A",
+      "R",
+      "A",
+      "D",
+      "O"
+    ],
+    [
+      "M",
+      "A",
+      "L",
+      "T",
+      "R",
+      "A",
+      "T",
+      "A",
+      "D",
+      "O",
+      "S"
+    ],
+    [
+      "A",
+      "N",
+      "A",
+      "U",
+      "E",
+      "#",
+      "E",
+      "L",
+      "I",
+      "S",
+      "A"
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      "D",
+      "O",
+      "G",
+      "G",
+      "#",
+      "V",
+      "O",
+      "S"
+    ],
+    [
+      "#",
+      "#",
+      "D",
+      "E",
+      "R",
+      "R",
+      "O",
+      "T",
+      "A",
+      "#",
+      "#"
+    ],
+    [
+      "A",
+      "G",
+      "E",
+      "#",
+      "D",
+      "E",
+      "R",
+      "A",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      "N",
+      "A",
+      "S",
+      "C",
+      "E",
+      "#",
+      "I",
+      "N",
+      "C",
+      "A",
+      "S"
+    ],
+    [
+      "D",
+      "E",
+      "S",
+      "E",
+      "N",
+      "C",
+      "A",
+      "D",
+      "E",
+      "I",
+      "A"
+    ],
+    [
+      "A",
+      "C",
+      "E",
+      "N",
+      "A",
+      "R",
+      "#",
+      "E",
+      "R",
+      "R",
+      "E"
+    ],
+    [
+      "M",
+      "O",
+      "S",
+      "T",
+      "R",
+      "E",
+      "#",
+      "M",
+      "O",
+      "E",
+      "M"
+    ]
+  ],
+  "clues": {
+    "Down": [
+      [
+        1,
+        "Mistura pegajosa de terra com água"
+      ],
+      [
+        2,
+        "___ Lins, cantor carioca"
+      ],
+      [
+        3,
+        "Daquela professora"
+      ],
+      [
+        4,
+        "Prepare-se para a prova"
+      ],
+      [
+        5,
+        "Parte do corpo de um pelicano"
+      ],
+      [
+        6,
+        "Classe"
+      ],
+      [
+        7,
+        "Rio que banha a Rússia"
+      ],
+      [
+        8,
+        "Graça, presente"
+      ],
+      [
+        9,
+        "Muito vivido"
+      ],
+      [
+        10,
+        "Flores comumente dadas de presente"
+      ],
+      [
+        14,
+        "Arranjar novamente"
+      ],
+      [
+        18,
+        "O 'Imortal Tricolor' em placares de jogos"
+      ],
+      [
+        20,
+        "Dos que estou apontando"
+      ],
+      [
+        21,
+        "Bicicleta de dois assentos"
+      ],
+      [
+        22,
+        "Passeiam a pé"
+      ],
+      [
+        23,
+        "Órgão contra o crime organizado"
+      ],
+      [
+        26,
+        "50 ___, rapper de 'Many Men'"
+      ],
+      [
+        28,
+        "Zero, em Zaragoza"
+      ],
+      [
+        29,
+        "Ar, na Argentina"
+      ],
+      [
+        30,
+        "Deixam o local"
+      ],
+      [
+        32,
+        "Confia muito"
+      ]
+    ],
+    "Across": [
+      [
+        1,
+        "Lute, batalhe"
+      ],
+      [
+        5,
+        "Socorrer"
+      ],
+      [
+        11,
+        "Animais como o biguá e o irerê"
+      ],
+      [
+        12,
+        "Curado"
+      ],
+      [
+        13,
+        "Agredidos"
+      ],
+      [
+        15,
+        "Saudação adotada pelos integralistas"
+      ],
+      [
+        16,
+        "Irmã de Napoleão"
+      ],
+      [
+        17,
+        "Snoop ___, cantor de 'Drop It Like It's Hot'"
+      ],
+      [
+        19,
+        "2ª pessoa do plural"
+      ],
+      [
+        20,
+        "Perda"
+      ],
+      [
+        22,
+        "Produz efeito"
+      ],
+      [
+        24,
+        "'Quem me ___!'"
+      ],
+      [
+        25,
+        "Vem ao mundo"
+      ],
+      [
+        27,
+        "Habitavam Machu Picchu"
+      ],
+      [
+        31,
+        "Provoca uma reação"
+      ],
+      [
+        33,
+        "Fazer movimentos com as mãos para mostrar algo"
+      ],
+      [
+        34,
+        "Qualquer ponta do &quot;radar&quot;"
+      ],
+      [
+        35,
+        "Exiba"
+      ],
+      [
+        36,
+        "Reduzem a pedaços pequenos"
+      ]
+    ]
+  },
+  "empty": ":"
+}

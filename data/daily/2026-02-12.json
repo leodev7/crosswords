@@ -1,0 +1,449 @@
+{
+  "date": "2026-02-12",
+  "level": "daily",
+  "dimensions": {
+    "width": 11,
+    "height": 11
+  },
+  "puzzle": [
+    [
+      "#",
+      "#",
+      "#",
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    [
+      "#",
+      "#",
+      9,
+      ":",
+      ":",
+      ":",
+      ":",
+      ":",
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      "#",
+      10,
+      ":",
+      ":",
+      ":",
+      ":",
+      ":",
+      ":",
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      11,
+      ":",
+      ":",
+      "#",
+      12,
+      ":",
+      ":",
+      "#",
+      13,
+      ":",
+      ":"
+    ],
+    [
+      14,
+      ":",
+      ":",
+      15,
+      "#",
+      16,
+      ":",
+      17,
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      18,
+      ":",
+      ":",
+      ":",
+      19,
+      "#",
+      20,
+      ":",
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      21,
+      ":",
+      ":",
+      ":",
+      ":",
+      22,
+      "#",
+      23,
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      24,
+      ":",
+      ":",
+      "#",
+      25,
+      ":",
+      26,
+      "#",
+      27,
+      ":",
+      ":"
+    ],
+    [
+      28,
+      ":",
+      ":",
+      29,
+      ":",
+      ":",
+      ":",
+      30,
+      ":",
+      ":",
+      "#"
+    ],
+    [
+      31,
+      ":",
+      ":",
+      ":",
+      ":",
+      ":",
+      ":",
+      ":",
+      ":",
+      "#",
+      "#"
+    ],
+    [
+      32,
+      ":",
+      ":",
+      ":",
+      ":",
+      ":",
+      ":",
+      ":",
+      "#",
+      "#",
+      "#"
+    ]
+  ],
+  "solution": [
+    [
+      "#",
+      "#",
+      "#",
+      "C",
+      "O",
+      "M",
+      "O",
+      "V",
+      "I",
+      "D",
+      "A"
+    ],
+    [
+      "#",
+      "#",
+      "L",
+      "O",
+      "B",
+      "I",
+      "S",
+      "O",
+      "M",
+      "E",
+      "M"
+    ],
+    [
+      "#",
+      "M",
+      "E",
+      "M",
+      "O",
+      "R",
+      "I",
+      "Z",
+      "A",
+      "D",
+      "O"
+    ],
+    [
+      "V",
+      "E",
+      "L",
+      "#",
+      "E",
+      "A",
+      "R",
+      "#",
+      "G",
+      "I",
+      "L"
+    ],
+    [
+      "I",
+      "D",
+      "E",
+      "A",
+      "#",
+      "M",
+      "I",
+      "M",
+      "I",
+      "C",
+      "A"
+    ],
+    [
+      "L",
+      "I",
+      "D",
+      "E",
+      "R",
+      "#",
+      "S",
+      "A",
+      "N",
+      "A",
+      "R"
+    ],
+    [
+      "A",
+      "C",
+      "A",
+      "R",
+      "O",
+      "S",
+      "#",
+      "C",
+      "A",
+      "D",
+      "A"
+    ],
+    [
+      "B",
+      "I",
+      "C",
+      "#",
+      "B",
+      "A",
+      "G",
+      "#",
+      "D",
+      "O",
+      "M"
+    ],
+    [
+      "E",
+      "N",
+      "U",
+      "M",
+      "E",
+      "R",
+      "A",
+      "D",
+      "O",
+      "S",
+      "#"
+    ],
+    [
+      "L",
+      "A",
+      "C",
+      "E",
+      "R",
+      "A",
+      "D",
+      "O",
+      "S",
+      "#",
+      "#"
+    ],
+    [
+      "A",
+      "L",
+      "A",
+      "S",
+      "T",
+      "R",
+      "O",
+      "U",
+      "#",
+      "#",
+      "#"
+    ]
+  ],
+  "clues": {
+    "Down": [
+      [
+        1,
+        "Mastruz ___ Leite, banda de forró"
+      ],
+      [
+        2,
+        "Instrumento da família das madeiras"
+      ],
+      [
+        3,
+        "Fazem pontaria"
+      ],
+      [
+        4,
+        "Deus egípcio, pai de Hórus e Anúbis"
+      ],
+      [
+        5,
+        "Direito de falar (fig.)"
+      ],
+      [
+        6,
+        "Sonhados"
+      ],
+      [
+        7,
+        "Comprometidos com seus deveres"
+      ],
+      [
+        8,
+        "Afiaram"
+      ],
+      [
+        9,
+        "Doido, maluco (3 palavras)"
+      ],
+      [
+        10,
+        "A planta com propriedades terapêuticas"
+      ],
+      [
+        11,
+        "Onde nasceu Lampião (2 palavras)"
+      ],
+      [
+        15,
+        "Prefixo que dá a ideia de ar ou atmosfera"
+      ],
+      [
+        17,
+        "___ and cheese: prato dos EUA"
+      ],
+      [
+        19,
+        "___ de Niro, atuou em 'Coringa'"
+      ],
+      [
+        22,
+        "Restituir a saúde"
+      ],
+      [
+        26,
+        "É cuidado pelo pecuarista"
+      ],
+      [
+        29,
+        "Abril é o único que termina em L"
+      ],
+      [
+        30,
+        "Ofereço como presente"
+      ]
+    ],
+    "Across": [
+      [
+        1,
+        "Emocionada, sensibilizada"
+      ],
+      [
+        9,
+        "Ser que se transforma em noites de lua cheia"
+      ],
+      [
+        10,
+        "Decorado (o texto)"
+      ],
+      [
+        11,
+        "Sufixo com 'inveja' e 'estima'"
+      ],
+      [
+        12,
+        "Orelha, em inglês"
+      ],
+      [
+        13,
+        "Gilberto ___, cantor de 'Andar Com Fé'"
+      ],
+      [
+        14,
+        "Ideia, em espanhol"
+      ],
+      [
+        16,
+        "Forma de expressão com o uso de gestos"
+      ],
+      [
+        18,
+        "Chefe"
+      ],
+      [
+        20,
+        "Saciar (a dúvida)"
+      ],
+      [
+        21,
+        "Parasitas em sofás e travesseiros"
+      ],
+      [
+        23,
+        "'___ macaco no seu galho'"
+      ],
+      [
+        24,
+        "Marca de canetas"
+      ],
+      [
+        25,
+        "Air ___: proteção veicular"
+      ],
+      [
+        27,
+        "Talento"
+      ],
+      [
+        28,
+        "Postos em uma listagem"
+      ],
+      [
+        31,
+        "Rasgados com força"
+      ],
+      [
+        32,
+        "Disseminou"
+      ]
+    ]
+  },
+  "empty": ":"
+}

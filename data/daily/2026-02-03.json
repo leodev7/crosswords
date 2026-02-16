@@ -1,0 +1,473 @@
+{
+  "date": "2026-02-03",
+  "level": "daily",
+  "dimensions": {
+    "width": 11,
+    "height": 11
+  },
+  "puzzle": [
+    [
+      1,
+      2,
+      3,
+      4,
+      5,
+      "#",
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    [
+      11,
+      ":",
+      ":",
+      ":",
+      ":",
+      "#",
+      12,
+      ":",
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      13,
+      ":",
+      ":",
+      ":",
+      ":",
+      "#",
+      14,
+      ":",
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      15,
+      ":",
+      ":",
+      ":",
+      "#",
+      16,
+      ":",
+      ":",
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      17,
+      ":",
+      ":",
+      "#",
+      18,
+      ":",
+      ":",
+      ":",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      19,
+      ":",
+      ":",
+      20,
+      ":",
+      ":",
+      ":",
+      ":",
+      21,
+      22,
+      23
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      24,
+      ":",
+      ":",
+      ":",
+      "#",
+      25,
+      ":",
+      ":"
+    ],
+    [
+      26,
+      27,
+      28,
+      ":",
+      ":",
+      ":",
+      "#",
+      29,
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      30,
+      ":",
+      ":",
+      ":",
+      ":",
+      "#",
+      31,
+      ":",
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      32,
+      ":",
+      ":",
+      ":",
+      ":",
+      "#",
+      33,
+      ":",
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      34,
+      ":",
+      ":",
+      ":",
+      ":",
+      "#",
+      35,
+      ":",
+      ":",
+      ":",
+      ":"
+    ]
+  ],
+  "solution": [
+    [
+      "T",
+      "I",
+      "E",
+      "T",
+      "A",
+      "#",
+      "T",
+      "A",
+      "B",
+      "O",
+      "M"
+    ],
+    [
+      "A",
+      "R",
+      "F",
+      "A",
+      "R",
+      "#",
+      "A",
+      "L",
+      "I",
+      "C",
+      "E"
+    ],
+    [
+      "P",
+      "A",
+      "E",
+      "T",
+      "E",
+      "#",
+      "U",
+      "B",
+      "O",
+      "A",
+      "T"
+    ],
+    [
+      "A",
+      "L",
+      "T",
+      "A",
+      "#",
+      "C",
+      "R",
+      "E",
+      "S",
+      "S",
+      "E"
+    ],
+    [
+      "D",
+      "E",
+      "U",
+      "#",
+      "N",
+      "O",
+      "I",
+      "R",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      "A",
+      "M",
+      "O",
+      "D",
+      "A",
+      "A",
+      "N",
+      "T",
+      "I",
+      "G",
+      "A"
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      "J",
+      "U",
+      "D",
+      "O",
+      "#",
+      "R",
+      "I",
+      "M"
+    ],
+    [
+      "F",
+      "A",
+      "M",
+      "O",
+      "S",
+      "O",
+      "#",
+      "C",
+      "O",
+      "R",
+      "O"
+    ],
+    [
+      "A",
+      "B",
+      "A",
+      "N",
+      "E",
+      "#",
+      "P",
+      "E",
+      "N",
+      "A",
+      "R"
+    ],
+    [
+      "R",
+      "A",
+      "S",
+      "G",
+      "A",
+      "#",
+      "S",
+      "A",
+      "I",
+      "R",
+      "A"
+    ],
+    [
+      "O",
+      "S",
+      "C",
+      "A",
+      "R",
+      "#",
+      "G",
+      "R",
+      "A",
+      "A",
+      "L"
+    ]
+  ],
+  "clues": {
+    "Down": [
+      [
+        1,
+        "Obturada"
+      ],
+      [
+        2,
+        "Superar as expectativas"
+      ],
+      [
+        3,
+        "Executo a operação"
+      ],
+      [
+        4,
+        "Dona ___, personagem de 'Clarissa'"
+      ],
+      [
+        5,
+        "Medida usada por agrimensores"
+      ],
+      [
+        6,
+        "Nascido no fim de abril (astrol.)"
+      ],
+      [
+        7,
+        "___ Camus, escritor da Argélia"
+      ],
+      [
+        8,
+        "Sistema básico do computador"
+      ],
+      [
+        9,
+        "Casas de caetés"
+      ],
+      [
+        10,
+        "___ o dedo: age como um enxerido"
+      ],
+      [
+        16,
+        "Passado pelo filtro"
+      ],
+      [
+        18,
+        "Repugnar"
+      ],
+      [
+        20,
+        "Rapper de &quot;Bença&quot;"
+      ],
+      [
+        21,
+        "Figura retórica usada por Voltaire"
+      ],
+      [
+        22,
+        "Dará uma volta"
+      ],
+      [
+        23,
+        "Indiferente a bem e mal"
+      ],
+      [
+        26,
+        "'Hora do ___', antigo programa de TV"
+      ],
+      [
+        27,
+        "Bordas"
+      ],
+      [
+        28,
+        "Gênero da palavra gênero (abrev.)"
+      ],
+      [
+        29,
+        "Algo que se faz antes de dormir"
+      ],
+      [
+        31,
+        "Rival do Lyon"
+      ]
+    ],
+    "Across": [
+      [
+        1,
+        "Famosa filha de Zé Esteves, na literatura"
+      ],
+      [
+        6,
+        "'Fechado' (pop.)"
+      ],
+      [
+        11,
+        "Respirar com dificuldade"
+      ],
+      [
+        12,
+        "___ Ruiz, escreveu 'Hai-Tropikai'"
+      ],
+      [
+        13,
+        "Bordado cintilante"
+      ],
+      [
+        14,
+        "Antigo submarino alemão"
+      ],
+      [
+        15,
+        "Palavra que antecede 'sociedade' e 'hospitalar'"
+      ],
+      [
+        16,
+        "Considerasse como verdade"
+      ],
+      [
+        17,
+        "Conde casado com a Princesa Isabel"
+      ],
+      [
+        18,
+        "Preto, em Paris"
+      ],
+      [
+        19,
+        "Como o amante cantado por Roberto Carlos"
+      ],
+      [
+        24,
+        "Esporte olímpico desde 1964"
+      ],
+      [
+        25,
+        "Órgão faseolar"
+      ],
+      [
+        26,
+        "Invulgar"
+      ],
+      [
+        29,
+        "Grupo de pessoas cantando um mesmo trecho musical"
+      ],
+      [
+        30,
+        "Faça tremular"
+      ],
+      [
+        31,
+        "Sofrimento físico"
+      ],
+      [
+        32,
+        "Divide um tecido com as mãos"
+      ],
+      [
+        33,
+        "Deixará de participar do grupo"
+      ],
+      [
+        34,
+        "___ de la Hoya, ex-boxeador"
+      ],
+      [
+        35,
+        "Busca de Artur e seus cavaleiros"
+      ]
+    ]
+  },
+  "empty": ":"
+}

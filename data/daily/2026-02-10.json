@@ -1,0 +1,473 @@
+{
+  "date": "2026-02-10",
+  "level": "daily",
+  "dimensions": {
+    "width": 11,
+    "height": 11
+  },
+  "puzzle": [
+    [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      "#",
+      7,
+      8,
+      9,
+      10
+    ],
+    [
+      11,
+      ":",
+      ":",
+      ":",
+      ":",
+      ":",
+      "#",
+      12,
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      13,
+      ":",
+      ":",
+      ":",
+      ":",
+      ":",
+      "#",
+      14,
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      15,
+      ":",
+      ":",
+      "#",
+      16,
+      ":",
+      17,
+      ":",
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      18,
+      ":",
+      ":",
+      19,
+      "#",
+      20,
+      ":",
+      ":",
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      21,
+      22,
+      ":",
+      ":",
+      ":",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      23,
+      24,
+      25,
+      ":",
+      ":",
+      ":",
+      "#",
+      26,
+      27,
+      28,
+      29
+    ],
+    [
+      30,
+      ":",
+      ":",
+      ":",
+      ":",
+      ":",
+      31,
+      "#",
+      32,
+      ":",
+      ":"
+    ],
+    [
+      33,
+      ":",
+      ":",
+      ":",
+      "#",
+      34,
+      ":",
+      35,
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      36,
+      ":",
+      ":",
+      ":",
+      "#",
+      37,
+      ":",
+      ":",
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      38,
+      ":",
+      ":",
+      ":",
+      "#",
+      39,
+      ":",
+      ":",
+      ":",
+      ":",
+      ":"
+    ]
+  ],
+  "solution": [
+    [
+      "T",
+      "E",
+      "N",
+      "T",
+      "A",
+      "M",
+      "#",
+      "A",
+      "D",
+      "A",
+      "M"
+    ],
+    [
+      "O",
+      "X",
+      "O",
+      "S",
+      "S",
+      "I",
+      "#",
+      "T",
+      "I",
+      "R",
+      "A"
+    ],
+    [
+      "N",
+      "I",
+      "V",
+      "E",
+      "I",
+      "S",
+      "#",
+      "I",
+      "O",
+      "I",
+      "O"
+    ],
+    [
+      "E",
+      "G",
+      "O",
+      "#",
+      "A",
+      "T",
+      "E",
+      "N",
+      "D",
+      "E",
+      "M"
+    ],
+    [
+      "L",
+      "E",
+      "S",
+      "A",
+      "#",
+      "E",
+      "N",
+      "G",
+      "O",
+      "L",
+      "E"
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      "T",
+      "H",
+      "R",
+      "E",
+      "E",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      "R",
+      "E",
+      "S",
+      "U",
+      "M",
+      "I",
+      "#",
+      "M",
+      "A",
+      "C",
+      "A"
+    ],
+    [
+      "A",
+      "C",
+      "H",
+      "A",
+      "M",
+      "O",
+      "S",
+      "#",
+      "T",
+      "O",
+      "P"
+    ],
+    [
+      "M",
+      "O",
+      "E",
+      "R",
+      "#",
+      "S",
+      "U",
+      "J",
+      "A",
+      "V",
+      "A"
+    ],
+    [
+      "P",
+      "A",
+      "R",
+      "A",
+      "#",
+      "A",
+      "C",
+      "U",
+      "D",
+      "I",
+      "R"
+    ],
+    [
+      "A",
+      "M",
+      "A",
+      "M",
+      "#",
+      "S",
+      "O",
+      "L",
+      "A",
+      "D",
+      "O"
+    ]
+  ],
+  "clues": {
+    "Down": [
+      [
+        1,
+        "Grande recipiente"
+      ],
+      [
+        2,
+        "Demanda"
+      ],
+      [
+        3,
+        "___ Baianos, grupo de 'Mistério do Planeta'"
+      ],
+      [
+        4,
+        "Mao ___-Tung, foi o 1º presidente chinês"
+      ],
+      [
+        5,
+        "Continente onde 4-Vertical presidiu"
+      ],
+      [
+        6,
+        "Enigmáticas"
+      ],
+      [
+        7,
+        "Abrangem"
+      ],
+      [
+        8,
+        "O 'D' de LED, em português"
+      ],
+      [
+        9,
+        "Nome da Pequena Sereia da Disney"
+      ],
+      [
+        10,
+        "Líder religioso nascido em Meca"
+      ],
+      [
+        17,
+        "Inicia novamente"
+      ],
+      [
+        19,
+        "Representaram papéis"
+      ],
+      [
+        22,
+        "Interjeição da pessoa pensativa"
+      ],
+      [
+        23,
+        "Auxilia o acesso do cadeirante"
+      ],
+      [
+        24,
+        "Repetem um som"
+      ],
+      [
+        25,
+        "A irmã de He-Man"
+      ],
+      [
+        27,
+        "Presa com cordas"
+      ],
+      [
+        28,
+        "Mal que vitimou Tarcísio Meira"
+      ],
+      [
+        29,
+        "Corto as partes que sobram"
+      ],
+      [
+        31,
+        "Caldo nutritivo extraído de frutas, legumes etc."
+      ],
+      [
+        35,
+        "7º mês (abrev.)"
+      ]
+    ],
+    "Across": [
+      [
+        1,
+        "Experimentam"
+      ],
+      [
+        7,
+        "___ Sandler, ator de 'O Astronauta'"
+      ],
+      [
+        11,
+        "Orixá, irmão de Ogum"
+      ],
+      [
+        12,
+        "Remove"
+      ],
+      [
+        13,
+        "Graus, categorias"
+      ],
+      [
+        14,
+        "Brinquedo com um eixo e um fio"
+      ],
+      [
+        15,
+        "Instância do aparelho psíquico (Freud)"
+      ],
+      [
+        16,
+        "Respondem a um chamado"
+      ],
+      [
+        18,
+        "Comete uma fraude"
+      ],
+      [
+        20,
+        "Suporta sem reclamar (fig.)"
+      ],
+      [
+        21,
+        "Número após o 'two'"
+      ],
+      [
+        23,
+        "Sintetizei o texto"
+      ],
+      [
+        26,
+        "Cama de uma ambulância"
+      ],
+      [
+        30,
+        "Descobrimos onde estava"
+      ],
+      [
+        32,
+        "___ model: profissional como Gisele Bündchen"
+      ],
+      [
+        33,
+        "Triturar"
+      ],
+      [
+        34,
+        "Tornava imundo"
+      ],
+      [
+        36,
+        "Estado onde ficam as cidades de Tailândia e Belém"
+      ],
+      [
+        37,
+        "Socorrer"
+      ],
+      [
+        38,
+        "Sentem um grande carinho"
+      ],
+      [
+        39,
+        "Parte inferior da bota"
+      ]
+    ]
+  },
+  "empty": ":"
+}

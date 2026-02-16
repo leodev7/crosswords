@@ -1,0 +1,10 @@
+{
+  "name": "crosswords-scraper",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Scraper for O Globo crossword puzzles via Agilmente API",
+  "scripts": {
+    "fetch": "node fetch-puzzles.js"
+  }
+}

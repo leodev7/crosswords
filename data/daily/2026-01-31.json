@@ -1,0 +1,473 @@
+{
+  "date": "2026-01-31",
+  "level": "daily",
+  "dimensions": {
+    "width": 11,
+    "height": 11
+  },
+  "puzzle": [
+    [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      "#",
+      7,
+      8,
+      9,
+      10
+    ],
+    [
+      11,
+      ":",
+      ":",
+      ":",
+      ":",
+      ":",
+      "#",
+      12,
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      13,
+      ":",
+      ":",
+      ":",
+      ":",
+      ":",
+      "#",
+      14,
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      15,
+      ":",
+      ":",
+      ":",
+      ":",
+      "#",
+      16,
+      ":",
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      17,
+      ":",
+      18,
+      ":",
+      ":",
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      19,
+      20,
+      21,
+      "#",
+      22,
+      ":",
+      ":",
+      "#",
+      23,
+      ":",
+      ":"
+    ],
+    [
+      24,
+      ":",
+      ":",
+      25,
+      ":",
+      ":",
+      ":",
+      26,
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      27,
+      ":",
+      ":",
+      ":",
+      ":",
+      "#",
+      28,
+      ":",
+      29,
+      30,
+      31
+    ],
+    [
+      32,
+      ":",
+      ":",
+      ":",
+      "#",
+      33,
+      ":",
+      ":",
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      34,
+      ":",
+      ":",
+      ":",
+      "#",
+      35,
+      ":",
+      ":",
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      36,
+      ":",
+      ":",
+      ":",
+      "#",
+      37,
+      ":",
+      ":",
+      ":",
+      ":",
+      ":"
+    ]
+  ],
+  "solution": [
+    [
+      "C",
+      "A",
+      "R",
+      "T",
+      "A",
+      "S",
+      "#",
+      "P",
+      "A",
+      "T",
+      "A"
+    ],
+    [
+      "A",
+      "M",
+      "I",
+      "U",
+      "D",
+      "E",
+      "#",
+      "O",
+      "V",
+      "E",
+      "R"
+    ],
+    [
+      "L",
+      "A",
+      "C",
+      "R",
+      "O",
+      "U",
+      "#",
+      "L",
+      "I",
+      "R",
+      "A"
+    ],
+    [
+      "I",
+      "M",
+      "A",
+      "N",
+      "E",
+      "#",
+      "C",
+      "E",
+      "D",
+      "E",
+      "M"
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      "E",
+      "N",
+      "G",
+      "A",
+      "N",
+      "A",
+      "R",
+      "A"
+    ],
+    [
+      "E",
+      "R",
+      "A",
+      "#",
+      "T",
+      "E",
+      "U",
+      "#",
+      "S",
+      "E",
+      "R"
+    ],
+    [
+      "V",
+      "O",
+      "L",
+      "T",
+      "A",
+      "S",
+      "S",
+      "E",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      "I",
+      "S",
+      "C",
+      "A",
+      "R",
+      "#",
+      "A",
+      "R",
+      "M",
+      "A",
+      "M"
+    ],
+    [
+      "T",
+      "E",
+      "O",
+      "R",
+      "#",
+      "E",
+      "N",
+      "G",
+      "A",
+      "T",
+      "E"
+    ],
+    [
+      "A",
+      "T",
+      "O",
+      "S",
+      "#",
+      "A",
+      "D",
+      "A",
+      "G",
+      "A",
+      "S"
+    ],
+    [
+      "R",
+      "A",
+      "L",
+      "O",
+      "#",
+      "T",
+      "O",
+      "M",
+      "A",
+      "R",
+      "A"
+    ]
+  ],
+  "clues": {
+    "Down": [
+      [
+        1,
+        "Populosa cidade colombiana"
+      ],
+      [
+        2,
+        "Sentem um grande carinho"
+      ],
+      [
+        3,
+        "Afortunada"
+      ],
+      [
+        4,
+        "Viagem feita por uma banda ou músico"
+      ],
+      [
+        5,
+        "Tornar(-se) enfermo"
+      ],
+      [
+        6,
+        "___ Jorge, cantor de 'América do Norte'"
+      ],
+      [
+        7,
+        "Pó encontrado em flores"
+      ],
+      [
+        8,
+        "Ansiosas, com forte desejo"
+      ],
+      [
+        9,
+        "Espécie de chimarrão gelado"
+      ],
+      [
+        10,
+        "Cercar com tela, alambrar"
+      ],
+      [
+        16,
+        "Ocasionando"
+      ],
+      [
+        18,
+        "G, G, G, G..."
+      ],
+      [
+        19,
+        "Impedir a ocorrência de um fato"
+      ],
+      [
+        20,
+        "Parte móvel da espora"
+      ],
+      [
+        21,
+        "Substância na cerveja e no rum"
+      ],
+      [
+        25,
+        "Parte superior do pé"
+      ],
+      [
+        26,
+        "Coloquem em um lugar mais alto"
+      ],
+      [
+        29,
+        "Krav ___, sistema de combate israelense"
+      ],
+      [
+        30,
+        "Prender com nó"
+      ],
+      [
+        31,
+        "Móvel usado no jogo de pôquer"
+      ],
+      [
+        33,
+        "Comer, na Inglaterra"
+      ]
+    ],
+    "Across": [
+      [
+        1,
+        "São 78 no tarô"
+      ],
+      [
+        7,
+        "O 'pé' do cavalo"
+      ],
+      [
+        11,
+        "Repetidas vezes"
+      ],
+      [
+        12,
+        "Game ___: fim de jogo"
+      ],
+      [
+        13,
+        "Fechou hermeticamente"
+      ],
+      [
+        14,
+        "Era usada na Itália antes do euro"
+      ],
+      [
+        15,
+        "De grande porte"
+      ],
+      [
+        16,
+        "Transferem as posses"
+      ],
+      [
+        17,
+        "Passará a perna"
+      ],
+      [
+        19,
+        "Palavra que pode anteceder 'Cenozoica' e 'geológica'"
+      ],
+      [
+        22,
+        "Usado por ti"
+      ],
+      [
+        23,
+        "'Deixe de ___ bobo!'"
+      ],
+      [
+        24,
+        "Retornasse"
+      ],
+      [
+        27,
+        "Preparar o engodo"
+      ],
+      [
+        28,
+        "Preparam para a guerra"
+      ],
+      [
+        32,
+        "Proporção na mistura"
+      ],
+      [
+        33,
+        "Peça para ligar vagões de trem"
+      ],
+      [
+        34,
+        "Divisões das peças teatrais"
+      ],
+      [
+        35,
+        "Espadas de lâmina curta e larga, usadas na Idade Média"
+      ],
+      [
+        36,
+        "Parte da pia que pode ser tampada"
+      ],
+      [
+        37,
+        "&quot;Oxalá!&quot;"
+      ]
+    ]
+  },
+  "empty": ":"
+}

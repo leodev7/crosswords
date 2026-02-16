@@ -1,0 +1,457 @@
+{
+  "date": "2026-01-05",
+  "level": "daily",
+  "dimensions": {
+    "width": 11,
+    "height": 11
+  },
+  "puzzle": [
+    [
+      1,
+      2,
+      3,
+      4,
+      5,
+      "#",
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    [
+      11,
+      ":",
+      ":",
+      ":",
+      ":",
+      "#",
+      12,
+      ":",
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      13,
+      ":",
+      ":",
+      ":",
+      ":",
+      14,
+      ":",
+      ":",
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      15,
+      ":",
+      ":",
+      ":",
+      "#",
+      16,
+      ":",
+      ":",
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      17,
+      ":",
+      ":",
+      ":",
+      "#",
+      18,
+      ":",
+      ":",
+      ":",
+      ":",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      19,
+      20,
+      ":",
+      ":",
+      ":",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      21,
+      22,
+      ":",
+      ":",
+      ":",
+      "#",
+      23,
+      24,
+      25,
+      26
+    ],
+    [
+      27,
+      ":",
+      ":",
+      ":",
+      ":",
+      ":",
+      "#",
+      28,
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      29,
+      ":",
+      ":",
+      ":",
+      ":",
+      ":",
+      30,
+      ":",
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      31,
+      ":",
+      ":",
+      ":",
+      ":",
+      "#",
+      32,
+      ":",
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      33,
+      ":",
+      ":",
+      ":",
+      ":",
+      "#",
+      34,
+      ":",
+      ":",
+      ":",
+      ":"
+    ]
+  ],
+  "solution": [
+    [
+      "R",
+      "O",
+      "M",
+      "P",
+      "I",
+      "#",
+      "A",
+      "F",
+      "T",
+      "A",
+      "S"
+    ],
+    [
+      "A",
+      "P",
+      "E",
+      "E",
+      "I",
+      "#",
+      "B",
+      "A",
+      "R",
+      "B",
+      "A"
+    ],
+    [
+      "M",
+      "A",
+      "T",
+      "R",
+      "I",
+      "M",
+      "O",
+      "N",
+      "I",
+      "A",
+      "L"
+    ],
+    [
+      "A",
+      "C",
+      "E",
+      "S",
+      "#",
+      "U",
+      "N",
+      "T",
+      "A",
+      "D",
+      "A"
+    ],
+    [
+      "S",
+      "O",
+      "M",
+      "E",
+      "#",
+      "D",
+      "O",
+      "A",
+      "R",
+      "A",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      "G",
+      "R",
+      "A",
+      "U",
+      "S",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      "A",
+      "C",
+      "U",
+      "A",
+      "R",
+      "#",
+      "I",
+      "S",
+      "C",
+      "A"
+    ],
+    [
+      "S",
+      "O",
+      "L",
+      "I",
+      "D",
+      "A",
+      "#",
+      "A",
+      "T",
+      "E",
+      "R"
+    ],
+    [
+      "U",
+      "N",
+      "A",
+      "N",
+      "I",
+      "M",
+      "I",
+      "D",
+      "A",
+      "D",
+      "E"
+    ],
+    [
+      "A",
+      "D",
+      "I",
+      "D",
+      "O",
+      "#",
+      "D",
+      "A",
+      "R",
+      "E",
+      "I"
+    ],
+    [
+      "M",
+      "E",
+      "R",
+      "O",
+      "S",
+      "#",
+      "O",
+      "S",
+      "T",
+      "R",
+      "A"
+    ]
+  ],
+  "clues": {
+    "Down": [
+      [
+        1,
+        "Conjuntos de galhos de uma planta"
+      ],
+      [
+        2,
+        "Que não deixa a luz passar"
+      ],
+      [
+        3,
+        "Enfiam, colocam"
+      ],
+      [
+        4,
+        "Tentando alcançar"
+      ],
+      [
+        5,
+        "3, em algarismos romanos"
+      ],
+      [
+        6,
+        "Creditou"
+      ],
+      [
+        7,
+        "Vestidas para o carnaval"
+      ],
+      [
+        8,
+        "Selecionar cuidadosamente"
+      ],
+      [
+        9,
+        "Roupa usada pelo folião"
+      ],
+      [
+        10,
+        "Espaço para aulas ou leitura"
+      ],
+      [
+        14,
+        "Fizeram alterações"
+      ],
+      [
+        20,
+        "Aparelhos com botão de volume"
+      ],
+      [
+        21,
+        "'Para qual lugar?'"
+      ],
+      [
+        22,
+        "Janete ___, autora de 'Irmãos Coragem'"
+      ],
+      [
+        24,
+        "Começar, em inglês"
+      ],
+      [
+        25,
+        "Sucumbir"
+      ],
+      [
+        26,
+        "Material em que se aterrissa no salto em distância"
+      ],
+      [
+        27,
+        "Transpiram"
+      ],
+      [
+        30,
+        "Que se foi, passado"
+      ]
+    ],
+    "Across": [
+      [
+        1,
+        "Quebrei"
+      ],
+      [
+        6,
+        "Incômodos na mucosa da boca"
+      ],
+      [
+        11,
+        "Desci (do cavalo)"
+      ],
+      [
+        12,
+        "Característica do Papai Noel"
+      ],
+      [
+        13,
+        "Relativo ao casamento"
+      ],
+      [
+        15,
+        "Pontos de saque no vôlei"
+      ],
+      [
+        16,
+        "Coberta com óleo (a fôrma)"
+      ],
+      [
+        17,
+        "Desaparece de onde estava"
+      ],
+      [
+        18,
+        "Fará caridade"
+      ],
+      [
+        19,
+        "São 90 no ângulo reto"
+      ],
+      [
+        21,
+        "Parar diante do perigo"
+      ],
+      [
+        23,
+        "Engodo para atrair o peixe"
+      ],
+      [
+        27,
+        "Feita de matéria maciça"
+      ],
+      [
+        28,
+        "Fazer parar"
+      ],
+      [
+        29,
+        "Consenso geral"
+      ],
+      [
+        31,
+        "Acrescentado"
+      ],
+      [
+        32,
+        "Presentearei"
+      ],
+      [
+        33,
+        "Comuns, vulgares"
+      ],
+      [
+        34,
+        "O 'estojo' natural da pérola"
+      ]
+    ]
+  },
+  "empty": ":"
+}

@@ -1,0 +1,473 @@
+{
+  "date": "2025-12-22",
+  "level": "daily",
+  "dimensions": {
+    "width": 11,
+    "height": 11
+  },
+  "puzzle": [
+    [
+      1,
+      2,
+      3,
+      4,
+      5,
+      "#",
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    [
+      11,
+      ":",
+      ":",
+      ":",
+      ":",
+      "#",
+      12,
+      ":",
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      13,
+      ":",
+      ":",
+      ":",
+      ":",
+      "#",
+      14,
+      ":",
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      15,
+      ":",
+      ":",
+      ":",
+      ":",
+      16,
+      "#",
+      17,
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      18,
+      ":",
+      ":",
+      "#",
+      19,
+      ":",
+      20,
+      ":",
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      21,
+      ":",
+      ":",
+      ":",
+      ":",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      22,
+      23,
+      24,
+      ":",
+      ":",
+      ":",
+      ":",
+      "#",
+      25,
+      26,
+      27
+    ],
+    [
+      28,
+      ":",
+      ":",
+      ":",
+      "#",
+      29,
+      ":",
+      30,
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      31,
+      ":",
+      ":",
+      ":",
+      32,
+      "#",
+      33,
+      ":",
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      34,
+      ":",
+      ":",
+      ":",
+      ":",
+      "#",
+      35,
+      ":",
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      36,
+      ":",
+      ":",
+      ":",
+      ":",
+      "#",
+      37,
+      ":",
+      ":",
+      ":",
+      ":"
+    ]
+  ],
+  "solution": [
+    [
+      "L",
+      "A",
+      "D",
+      "O",
+      "B",
+      "#",
+      "U",
+      "R",
+      "I",
+      "C",
+      "O"
+    ],
+    [
+      "A",
+      "C",
+      "U",
+      "D",
+      "I",
+      "#",
+      "S",
+      "A",
+      "F",
+      "O",
+      "U"
+    ],
+    [
+      "V",
+      "A",
+      "R",
+      "I",
+      "G",
+      "#",
+      "E",
+      "C",
+      "O",
+      "A",
+      "R"
+    ],
+    [
+      "A",
+      "T",
+      "O",
+      "N",
+      "O",
+      "S",
+      "#",
+      "I",
+      "O",
+      "D",
+      "O"
+    ],
+    [
+      "R",
+      "E",
+      "U",
+      "#",
+      "D",
+      "E",
+      "C",
+      "A",
+      "D",
+      "A",
+      "S"
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      "P",
+      "E",
+      "N",
+      "A",
+      "L",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      "R",
+      "E",
+      "C",
+      "U",
+      "S",
+      "A",
+      "M",
+      "#",
+      "V",
+      "O",
+      "N"
+    ],
+    [
+      "A",
+      "M",
+      "I",
+      "L",
+      "#",
+      "C",
+      "A",
+      "S",
+      "A",
+      "C",
+      "O"
+    ],
+    [
+      "L",
+      "A",
+      "N",
+      "G",
+      "E",
+      "#",
+      "R",
+      "E",
+      "L",
+      "U",
+      "Z"
+    ],
+    [
+      "A",
+      "N",
+      "D",
+      "A",
+      "M",
+      "#",
+      "I",
+      "B",
+      "O",
+      "P",
+      "E"
+    ],
+    [
+      "M",
+      "A",
+      "Y",
+      "S",
+      "A",
+      "#",
+      "M",
+      "E",
+      "R",
+      "O",
+      "S"
+    ]
+  ],
+  "clues": {
+    "Down": [
+      [
+        1,
+        "___ a honra: vingar-se"
+      ],
+      [
+        2,
+        "Obedeça"
+      ],
+      [
+        3,
+        "Seguiu existindo"
+      ],
+      [
+        4,
+        "Deus que roubou hidromel, nos mitos nórdicos"
+      ],
+      [
+        5,
+        "Podem ser deixados por copos de leite"
+      ],
+      [
+        6,
+        "Vista"
+      ],
+      [
+        7,
+        "Um tipo de cota"
+      ],
+      [
+        8,
+        "Marca cuja seta do logo representa um sorriso"
+      ],
+      [
+        9,
+        "Filtrada"
+      ],
+      [
+        10,
+        "São representados por losangos vermelhos"
+      ],
+      [
+        16,
+        "Instituição cuja letra C de sua sigla significa comercial"
+      ],
+      [
+        20,
+        "Recinto do teatro"
+      ],
+      [
+        21,
+        "Costumam morder os caramelos"
+      ],
+      [
+        22,
+        "Trabalham muito (Bras.)"
+      ],
+      [
+        23,
+        "Desprende (o aroma)"
+      ],
+      [
+        24,
+        "___ Crawford, top model"
+      ],
+      [
+        25,
+        "Unidade real de ___: URV"
+      ],
+      [
+        26,
+        "Emprego"
+      ],
+      [
+        27,
+        "Ingredientes para o recheio da baklava"
+      ],
+      [
+        30,
+        "Cerca de arbustos para proteger quintais"
+      ],
+      [
+        32,
+        "Nhandu"
+      ]
+    ],
+    "Across": [
+      [
+        1,
+        "Uma das partes de um disco de vinil"
+      ],
+      [
+        6,
+        "Ácido ___: resíduo produzido pelo fígado"
+      ],
+      [
+        11,
+        "Prestei auxílio"
+      ],
+      [
+        12,
+        "Livrou"
+      ],
+      [
+        13,
+        "Cia. aérea fundada por Otto Ernst Meyer"
+      ],
+      [
+        14,
+        "Produzir a repetição do som"
+      ],
+      [
+        15,
+        "Pronomes pessoais oblíquos como o 'a' e o 'lhe'"
+      ],
+      [
+        17,
+        "Elemento extraído de algas"
+      ],
+      [
+        18,
+        "Uma das partes do processo judicial"
+      ],
+      [
+        19,
+        "São formadas por dois lustros"
+      ],
+      [
+        21,
+        "'Na Colônia ___', obra de Franz Kafka"
+      ],
+      [
+        22,
+        "Desprezam uma oferta"
+      ],
+      [
+        25,
+        "Otto ___ Bismarck, chanceler"
+      ],
+      [
+        28,
+        "Apressadíssimo (pop.)"
+      ],
+      [
+        29,
+        "Doação na Campanha do Agasalho"
+      ],
+      [
+        31,
+        "Jessica ___, vencedora do Oscar de Melhor Atriz de 1995"
+      ],
+      [
+        33,
+        "Brilha muito"
+      ],
+      [
+        34,
+        "___ na linha: portam-se bem"
+      ],
+      [
+        35,
+        "Gíria para sucesso, prestígio"
+      ],
+      [
+        36,
+        "Cantora de 'Meu Mundo Caiu'"
+      ],
+      [
+        37,
+        "Pouco importantes, triviais"
+      ]
+    ]
+  },
+  "empty": ":"
+}

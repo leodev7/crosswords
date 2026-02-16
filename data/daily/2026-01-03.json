@@ -1,0 +1,473 @@
+{
+  "date": "2026-01-03",
+  "level": "daily",
+  "dimensions": {
+    "width": 11,
+    "height": 11
+  },
+  "puzzle": [
+    [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      "#",
+      7,
+      8,
+      9,
+      10
+    ],
+    [
+      11,
+      ":",
+      ":",
+      ":",
+      ":",
+      ":",
+      "#",
+      12,
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      13,
+      ":",
+      ":",
+      ":",
+      ":",
+      ":",
+      14,
+      ":",
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      15,
+      ":",
+      ":",
+      ":",
+      ":",
+      "#",
+      16,
+      ":",
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      17,
+      ":",
+      ":",
+      "#",
+      "#",
+      18,
+      ":",
+      ":",
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      19,
+      20,
+      ":",
+      ":",
+      ":",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      21,
+      22,
+      23,
+      ":",
+      ":",
+      ":",
+      "#",
+      "#",
+      24,
+      25,
+      26
+    ],
+    [
+      27,
+      ":",
+      ":",
+      ":",
+      ":",
+      "#",
+      28,
+      29,
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      30,
+      ":",
+      ":",
+      ":",
+      ":",
+      31,
+      ":",
+      ":",
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      32,
+      ":",
+      ":",
+      ":",
+      "#",
+      33,
+      ":",
+      ":",
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      34,
+      ":",
+      ":",
+      ":",
+      "#",
+      35,
+      ":",
+      ":",
+      ":",
+      ":",
+      ":"
+    ]
+  ],
+  "solution": [
+    [
+      "S",
+      "A",
+      "C",
+      "O",
+      "L",
+      "E",
+      "#",
+      "A",
+      "D",
+      "I",
+      "O"
+    ],
+    [
+      "A",
+      "R",
+      "A",
+      "R",
+      "A",
+      "T",
+      "#",
+      "B",
+      "O",
+      "N",
+      "D"
+    ],
+    [
+      "C",
+      "O",
+      "M",
+      "E",
+      "R",
+      "C",
+      "I",
+      "A",
+      "N",
+      "T",
+      "E"
+    ],
+    [
+      "A",
+      "D",
+      "A",
+      "M",
+      "S",
+      "#",
+      "A",
+      "T",
+      "U",
+      "E",
+      "I"
+    ],
+    [
+      "S",
+      "O",
+      "S",
+      "#",
+      "#",
+      "P",
+      "I",
+      "E",
+      "T",
+      "R",
+      "O"
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      "F",
+      "R",
+      "E",
+      "A",
+      "R",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      "T",
+      "A",
+      "B",
+      "L",
+      "E",
+      "T",
+      "#",
+      "#",
+      "O",
+      "V",
+      "O"
+    ],
+    [
+      "A",
+      "N",
+      "I",
+      "O",
+      "N",
+      "#",
+      "B",
+      "E",
+      "B",
+      "E",
+      "S"
+    ],
+    [
+      "D",
+      "A",
+      "R",
+      "P",
+      "A",
+      "R",
+      "A",
+      "T",
+      "R",
+      "A",
+      "S"
+    ],
+    [
+      "E",
+      "I",
+      "R",
+      "A",
+      "#",
+      "A",
+      "T",
+      "E",
+      "A",
+      "D",
+      "O"
+    ],
+    [
+      "U",
+      "S",
+      "A",
+      "R",
+      "#",
+      "T",
+      "O",
+      "R",
+      "S",
+      "O",
+      "S"
+    ]
+  ],
+  "clues": {
+    "Down": [
+      [
+        1,
+        "Bolsas de café"
+      ],
+      [
+        2,
+        "Em abundância (pop.) (2 palavras)"
+      ],
+      [
+        3,
+        "Móveis com estrados"
+      ],
+      [
+        4,
+        "Dirijam suas súplicas a Deus"
+      ],
+      [
+        5,
+        "___ Grael, velejador brasileiro"
+      ],
+      [
+        6,
+        "Abrev. que encurta uma lista longa"
+      ],
+      [
+        7,
+        "Quitar (a parcela)"
+      ],
+      [
+        8,
+        "Rosquinha doce e frita (ing.)"
+      ],
+      [
+        9,
+        "Time vermelho do Grenal (pop.)"
+      ],
+      [
+        10,
+        "Sinto aversão"
+      ],
+      [
+        14,
+        "'___ Garcia', romance de Machado de Assis"
+      ],
+      [
+        18,
+        "Material usado na produção de garrafas"
+      ],
+      [
+        19,
+        "Dar errado (gíria)"
+      ],
+      [
+        20,
+        "Animal que ajuda a puxar o trenó do Papai Noel"
+      ],
+      [
+        21,
+        "___ Schmidt, apresentador de TV"
+      ],
+      [
+        22,
+        "Registro da história de um povo"
+      ],
+      [
+        23,
+        "Teimosia da criança manhosa"
+      ],
+      [
+        24,
+        "Produções"
+      ],
+      [
+        25,
+        "Animal com cornos ramificados"
+      ],
+      [
+        26,
+        "Estruturas como o fêmur e a costela"
+      ],
+      [
+        28,
+        "Golpeio"
+      ],
+      [
+        29,
+        "O mítico ar puro e elevado"
+      ],
+      [
+        31,
+        "Rato, em inglês"
+      ]
+    ],
+    "Across": [
+      [
+        1,
+        "Geladinho, dindim ou chup-chup, dependendo do estado"
+      ],
+      [
+        7,
+        "Posponho"
+      ],
+      [
+        11,
+        "Monte turco com dois picos"
+      ],
+      [
+        12,
+        "James ___: o agente secreto 007"
+      ],
+      [
+        13,
+        "Profissional como o lojista"
+      ],
+      [
+        15,
+        "Douglas ___, autor do 'Guia do Mochileiro das Galáxias'"
+      ],
+      [
+        16,
+        "Representei um papel no teatro"
+      ],
+      [
+        17,
+        "Solitários"
+      ],
+      [
+        18,
+        "O 'Pedro' italiano"
+      ],
+      [
+        19,
+        "Parar o movimento do carro"
+      ],
+      [
+        21,
+        "Produto como o iPad"
+      ],
+      [
+        24,
+        "Alimento rico em albumina"
+      ],
+      [
+        27,
+        "Átomo com carga elétrica negativa"
+      ],
+      [
+        28,
+        "Os drinks de uma festa"
+      ],
+      [
+        30,
+        "Não fechar o negócio (3 palavras)"
+      ],
+      [
+        32,
+        "Sem ___ nem beira"
+      ],
+      [
+        33,
+        "Causado (o fogo)"
+      ],
+      [
+        34,
+        "Consumir regularmente"
+      ],
+      [
+        35,
+        "Parte mais volumosa do corpo humano (pl.)"
+      ]
+    ]
+  },
+  "empty": ":"
+}

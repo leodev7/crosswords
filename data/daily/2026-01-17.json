@@ -1,0 +1,473 @@
+{
+  "date": "2026-01-17",
+  "level": "daily",
+  "dimensions": {
+    "width": 11,
+    "height": 11
+  },
+  "puzzle": [
+    [
+      1,
+      2,
+      3,
+      4,
+      "#",
+      "#",
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    [
+      10,
+      ":",
+      ":",
+      ":",
+      11,
+      "#",
+      12,
+      ":",
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      13,
+      ":",
+      ":",
+      ":",
+      ":",
+      "#",
+      14,
+      ":",
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      15,
+      ":",
+      ":",
+      ":",
+      ":",
+      16,
+      "#",
+      17,
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      18,
+      ":",
+      ":",
+      "#",
+      19,
+      ":",
+      20,
+      ":",
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      21,
+      ":",
+      ":",
+      ":",
+      ":",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      22,
+      23,
+      24,
+      ":",
+      ":",
+      ":",
+      ":",
+      "#",
+      25,
+      26,
+      27
+    ],
+    [
+      28,
+      ":",
+      ":",
+      ":",
+      "#",
+      29,
+      ":",
+      30,
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      31,
+      ":",
+      ":",
+      ":",
+      32,
+      "#",
+      33,
+      ":",
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      34,
+      ":",
+      ":",
+      ":",
+      ":",
+      "#",
+      35,
+      ":",
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      36,
+      ":",
+      ":",
+      ":",
+      ":",
+      "#",
+      "#",
+      37,
+      ":",
+      ":",
+      ":"
+    ]
+  ],
+  "solution": [
+    [
+      "C",
+      "O",
+      "V",
+      "A",
+      "#",
+      "#",
+      "D",
+      "A",
+      "M",
+      "A",
+      "S"
+    ],
+    [
+      "A",
+      "D",
+      "E",
+      "R",
+      "E",
+      "#",
+      "A",
+      "C",
+      "O",
+      "L",
+      "A"
+    ],
+    [
+      "R",
+      "I",
+      "R",
+      "A",
+      "M",
+      "#",
+      "S",
+      "A",
+      "R",
+      "A",
+      "R"
+    ],
+    [
+      "P",
+      "E",
+      "D",
+      "R",
+      "A",
+      "S",
+      "#",
+      "R",
+      "A",
+      "D",
+      "A"
+    ],
+    [
+      "O",
+      "I",
+      "E",
+      "#",
+      "N",
+      "I",
+      "C",
+      "O",
+      "L",
+      "A",
+      "U"
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      "C",
+      "A",
+      "N",
+      "O",
+      "S",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      "A",
+      "C",
+      "L",
+      "A",
+      "R",
+      "A",
+      "R",
+      "#",
+      "D",
+      "N",
+      "A"
+    ],
+    [
+      "L",
+      "U",
+      "A",
+      "S",
+      "#",
+      "L",
+      "A",
+      "C",
+      "R",
+      "A",
+      "R"
+    ],
+    [
+      "L",
+      "O",
+      "T",
+      "A",
+      "M",
+      "#",
+      "D",
+      "O",
+      "A",
+      "D",
+      "A"
+    ],
+    [
+      "A",
+      "C",
+      "I",
+      "D",
+      "A",
+      "#",
+      "A",
+      "R",
+      "M",
+      "A",
+      "R"
+    ],
+    [
+      "N",
+      "O",
+      "R",
+      "A",
+      "S",
+      "#",
+      "#",
+      "N",
+      "A",
+      "R",
+      "A"
+    ]
+  ],
+  "clues": {
+    "Down": [
+      [
+        1,
+        "Conjunto de ossos que articulam a mão com o antebraço"
+      ],
+      [
+        2,
+        "Detestei"
+      ],
+      [
+        3,
+        "Uma das cores da bandeira brasileira"
+      ],
+      [
+        4,
+        "Tarefa do lavrador"
+      ],
+      [
+        5,
+        "Estação ___ flores: primavera"
+      ],
+      [
+        6,
+        "Parasitas em sofás e colchões"
+      ],
+      [
+        7,
+        "Bons costumes"
+      ],
+      [
+        8,
+        "Dotada de asas"
+      ],
+      [
+        9,
+        "Reunião de finalidade literária"
+      ],
+      [
+        11,
+        "Desprender (o aroma)"
+      ],
+      [
+        16,
+        "Pinta na pele"
+      ],
+      [
+        20,
+        "Vermelha no rosto"
+      ],
+      [
+        21,
+        "A mulher que usa a aliança"
+      ],
+      [
+        22,
+        "___ Kardec, espiritista"
+      ],
+      [
+        23,
+        "Francisco ___, atuou em 'A Vida da Gente'"
+      ],
+      [
+        24,
+        "Algo que o poodle sabe fazer"
+      ],
+      [
+        25,
+        "Composição teatral"
+      ],
+      [
+        26,
+        "Deslocar-se em uma piscina"
+      ],
+      [
+        27,
+        "Ave de cauda longa e bico curvado"
+      ],
+      [
+        30,
+        "Milho, em Miami"
+      ],
+      [
+        32,
+        "Apesar disso..."
+      ]
+    ],
+    "Across": [
+      [
+        1,
+        "Buraco grande"
+      ],
+      [
+        5,
+        "Jogo de tabuleiro"
+      ],
+      [
+        10,
+        "Torna-se adepto a uma causa"
+      ],
+      [
+        12,
+        "Em lugar distante"
+      ],
+      [
+        13,
+        "Acharam graça"
+      ],
+      [
+        14,
+        "Recuperar a saúde"
+      ],
+      [
+        15,
+        "Peças de um jogo de tabuleiro"
+      ],
+      [
+        17,
+        "Terminação com 'tempo' ou 'chuva'"
+      ],
+      [
+        18,
+        "Saudação bastante informal"
+      ],
+      [
+        19,
+        "___ Copérnico, astrônomo polonês"
+      ],
+      [
+        21,
+        "Tubos dentro das paredes"
+      ],
+      [
+        22,
+        "Deixar bem explicado"
+      ],
+      [
+        25,
+        "Material genético"
+      ],
+      [
+        28,
+        "Satélites naturais"
+      ],
+      [
+        29,
+        "Fechar hermeticamente"
+      ],
+      [
+        31,
+        "Enchem completamente"
+      ],
+      [
+        33,
+        "Cedida, oferecida"
+      ],
+      [
+        34,
+        "Chuva ___: consequência da poluição"
+      ],
+      [
+        35,
+        "Encaixar as peças da estrutura"
+      ],
+      [
+        36,
+        "Esposa do filho (pl.)"
+      ],
+      [
+        37,
+        "___ Leão, cantora de 'A Banda' e 'Cuitelinho'"
+      ]
+    ]
+  },
+  "empty": ":"
+}

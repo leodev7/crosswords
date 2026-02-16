@@ -1,0 +1,433 @@
+{
+  "date": "2026-01-25",
+  "level": "daily",
+  "dimensions": {
+    "width": 11,
+    "height": 11
+  },
+  "puzzle": [
+    [
+      "#",
+      "#",
+      "#",
+      1,
+      2,
+      3,
+      4,
+      5,
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      6,
+      ":",
+      ":",
+      ":",
+      ":",
+      ":",
+      7,
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      8,
+      ":",
+      ":",
+      ":",
+      ":",
+      ":",
+      ":",
+      ":",
+      9,
+      "#"
+    ],
+    [
+      10,
+      ":",
+      ":",
+      ":",
+      ":",
+      "#",
+      11,
+      ":",
+      ":",
+      ":",
+      12
+    ],
+    [
+      13,
+      ":",
+      ":",
+      ":",
+      ":",
+      "#",
+      14,
+      ":",
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      15,
+      ":",
+      ":",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      16,
+      ":",
+      ":"
+    ],
+    [
+      17,
+      ":",
+      ":",
+      18,
+      19,
+      "#",
+      20,
+      21,
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      22,
+      ":",
+      ":",
+      ":",
+      ":",
+      "#",
+      23,
+      ":",
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      "#",
+      24,
+      ":",
+      ":",
+      ":",
+      25,
+      ":",
+      ":",
+      ":",
+      ":",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      26,
+      ":",
+      ":",
+      ":",
+      ":",
+      ":",
+      ":",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      27,
+      ":",
+      ":",
+      ":",
+      ":",
+      "#",
+      "#",
+      "#"
+    ]
+  ],
+  "solution": [
+    [
+      "#",
+      "#",
+      "#",
+      "R",
+      "E",
+      "E",
+      "S",
+      "E",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      "D",
+      "I",
+      "S",
+      "C",
+      "O",
+      "R",
+      "D",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      "D",
+      "E",
+      "S",
+      "C",
+      "O",
+      "B",
+      "R",
+      "I",
+      "R",
+      "#"
+    ],
+    [
+      "C",
+      "I",
+      "R",
+      "C",
+      "O",
+      "#",
+      "R",
+      "A",
+      "V",
+      "E",
+      "L"
+    ],
+    [
+      "A",
+      "R",
+      "I",
+      "A",
+      "L",
+      "#",
+      "E",
+      "R",
+      "E",
+      "T",
+      "A"
+    ],
+    [
+      "L",
+      "I",
+      "V",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "R",
+      "I",
+      "R"
+    ],
+    [
+      "A",
+      "G",
+      "A",
+      "V",
+      "E",
+      "#",
+      "N",
+      "O",
+      "T",
+      "R",
+      "E"
+    ],
+    [
+      "M",
+      "E",
+      "D",
+      "I",
+      "R",
+      "#",
+      "A",
+      "D",
+      "I",
+      "O",
+      "S"
+    ],
+    [
+      "#",
+      "M",
+      "A",
+      "R",
+      "I",
+      "A",
+      "G",
+      "A",
+      "D",
+      "U",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      "S",
+      "I",
+      "C",
+      "I",
+      "L",
+      "I",
+      "A",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      "L",
+      "A",
+      "S",
+      "E",
+      "R",
+      "#",
+      "#",
+      "#"
+    ]
+  ],
+  "clues": {
+    "Down": [
+      [
+        1,
+        "Faz um traço com a caneta"
+      ],
+      [
+        2,
+        "O que há de melhor qualidade"
+      ],
+      [
+        3,
+        "Ruído repetido"
+      ],
+      [
+        4,
+        "Em cima de"
+      ],
+      [
+        5,
+        "Medo do participante do 'Show do Milhão'"
+      ],
+      [
+        6,
+        "Oriundas, procedentes"
+      ],
+      [
+        7,
+        "'___ Mente', filme produzido pela Pixar"
+      ],
+      [
+        8,
+        "Conduzem os veículos"
+      ],
+      [
+        9,
+        "Removeu"
+      ],
+      [
+        10,
+        "Fazem parar de falar"
+      ],
+      [
+        12,
+        "Domicílios"
+      ],
+      [
+        18,
+        "Próprio do homem"
+      ],
+      [
+        19,
+        "Nome com as mesma letras de 'cárie'"
+      ],
+      [
+        20,
+        "Leda ___, jornalista mineira"
+      ],
+      [
+        21,
+        "___ José, cantor de 'Alegria Triste'"
+      ],
+      [
+        25,
+        "Gritos de dor"
+      ]
+    ],
+    "Across": [
+      [
+        1,
+        "___ Witherspoon, atuou em 'Água para Elefantes'."
+      ],
+      [
+        6,
+        "Plataforma para jogos e bate-papo"
+      ],
+      [
+        8,
+        "Tirar o edredom de cima"
+      ],
+      [
+        10,
+        "Onde se apresentam palhaços e trapezistas"
+      ],
+      [
+        11,
+        "Joseph Maurice ___, compôs 'Bolero'."
+      ],
+      [
+        13,
+        "Fonte presente no sistema Windows"
+      ],
+      [
+        14,
+        "Erguida"
+      ],
+      [
+        15,
+        "54, em algarismos romanos"
+      ],
+      [
+        16,
+        "Mostrar que achou engraçado"
+      ],
+      [
+        17,
+        "___-azul: matéria-prima da tequila"
+      ],
+      [
+        20,
+        "'O Corcunda de ___-Dame', romance"
+      ],
+      [
+        22,
+        "Descobrir quantos metros tem"
+      ],
+      [
+        23,
+        "Adeus em espanhol."
+      ],
+      [
+        24,
+        "Cantora de 'Shimbalaiê' (2 palavras)"
+      ],
+      [
+        26,
+        "Ilha italiana onde fica Palermo"
+      ],
+      [
+        27,
+        "Tecnologia usada em depilação"
+      ]
+    ]
+  },
+  "empty": ":"
+}

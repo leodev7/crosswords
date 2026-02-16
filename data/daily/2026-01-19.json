@@ -1,0 +1,473 @@
+{
+  "date": "2026-01-19",
+  "level": "daily",
+  "dimensions": {
+    "width": 11,
+    "height": 11
+  },
+  "puzzle": [
+    [
+      1,
+      2,
+      3,
+      4,
+      5,
+      "#",
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    [
+      11,
+      ":",
+      ":",
+      ":",
+      ":",
+      "#",
+      12,
+      ":",
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      13,
+      ":",
+      ":",
+      ":",
+      ":",
+      14,
+      ":",
+      ":",
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      15,
+      ":",
+      ":",
+      "#",
+      16,
+      ":",
+      ":",
+      ":",
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      17,
+      ":",
+      ":",
+      18,
+      "#",
+      19,
+      ":",
+      ":",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      20,
+      ":",
+      ":",
+      ":",
+      21,
+      "#",
+      22,
+      ":",
+      23,
+      24,
+      25
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      26,
+      ":",
+      27,
+      "#",
+      28,
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      29,
+      30,
+      31,
+      ":",
+      ":",
+      ":",
+      32,
+      "#",
+      33,
+      ":",
+      ":"
+    ],
+    [
+      34,
+      ":",
+      ":",
+      ":",
+      ":",
+      ":",
+      ":",
+      35,
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      36,
+      ":",
+      ":",
+      ":",
+      ":",
+      "#",
+      37,
+      ":",
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      38,
+      ":",
+      ":",
+      ":",
+      ":",
+      "#",
+      39,
+      ":",
+      ":",
+      ":",
+      ":"
+    ]
+  ],
+  "solution": [
+    [
+      "T",
+      "A",
+      "B",
+      "U",
+      "S",
+      "#",
+      "D",
+      "A",
+      "D",
+      "O",
+      "S"
+    ],
+    [
+      "A",
+      "C",
+      "E",
+      "S",
+      "O",
+      "#",
+      "E",
+      "M",
+      "I",
+      "L",
+      "E"
+    ],
+    [
+      "R",
+      "E",
+      "A",
+      "B",
+      "A",
+      "S",
+      "T",
+      "E",
+      "C",
+      "E",
+      "R"
+    ],
+    [
+      "A",
+      "N",
+      "T",
+      "#",
+      "P",
+      "E",
+      "R",
+      "N",
+      "A",
+      "D",
+      "A"
+    ],
+    [
+      "D",
+      "O",
+      "A",
+      "R",
+      "#",
+      "M",
+      "A",
+      "D",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      "A",
+      "S",
+      "S",
+      "E",
+      "M",
+      "#",
+      "N",
+      "O",
+      "T",
+      "A",
+      "M"
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      "T",
+      "O",
+      "P",
+      "#",
+      "A",
+      "R",
+      "M",
+      "E"
+    ],
+    [
+      "C",
+      "O",
+      "M",
+      "O",
+      "V",
+      "A",
+      "I",
+      "#",
+      "U",
+      "A",
+      "I"
+    ],
+    [
+      "A",
+      "M",
+      "A",
+      "M",
+      "E",
+      "N",
+      "T",
+      "A",
+      "N",
+      "D",
+      "O"
+    ],
+    [
+      "S",
+      "A",
+      "N",
+      "A",
+      "R",
+      "#",
+      "E",
+      "L",
+      "F",
+      "O",
+      "S"
+    ],
+    [
+      "A",
+      "R",
+      "O",
+      "M",
+      "A",
+      "#",
+      "M",
+      "O",
+      "O",
+      "R",
+      "E"
+    ]
+  ],
+  "clues": {
+    "Down": [
+      [
+        1,
+        "Muito gamada (Bras.)"
+      ],
+      [
+        2,
+        "Gestos feitos com a mão ou a cabeça"
+      ],
+      [
+        3,
+        "Muito devotas das práticas religiosas"
+      ],
+      [
+        4,
+        "Porta para conexão de mouses e teclados"
+      ],
+      [
+        5,
+        "___ opera: novela em inglês"
+      ],
+      [
+        6,
+        "Órgão que fiscaliza o trânsito"
+      ],
+      [
+        7,
+        "Fruta seca rica em fibras e zinco"
+      ],
+      [
+        8,
+        "Informação pontual e útil"
+      ],
+      [
+        9,
+        "Diodo usado em TVs modernas"
+      ],
+      [
+        10,
+        "Sucesso do Legião Urbana"
+      ],
+      [
+        14,
+        "Foi ___ querer querendo: bordão do Chaves"
+      ],
+      [
+        18,
+        "Continuam após a pausa"
+      ],
+      [
+        21,
+        "Mexerá"
+      ],
+      [
+        23,
+        "Arma secreta (fig.)"
+      ],
+      [
+        24,
+        "Antônimo de profissional"
+      ],
+      [
+        25,
+        "Tipo de divisão celular"
+      ],
+      [
+        27,
+        "Peter ___: menino da Terra do Nunca"
+      ],
+      [
+        29,
+        "Local de habitação"
+      ],
+      [
+        30,
+        "Don ___, cantor porto-riquenho"
+      ],
+      [
+        31,
+        "Irmão, carinhosamente"
+      ],
+      [
+        32,
+        "Cada elemento de uma lista"
+      ],
+      [
+        35,
+        "O 'olá' do telefone"
+      ]
+    ],
+    "Across": [
+      [
+        1,
+        "Proibições sociais"
+      ],
+      [
+        6,
+        "São rolados no jogo de gamão"
+      ],
+      [
+        11,
+        "Ligado (o lampião)"
+      ],
+      [
+        12,
+        "___ Zola, escreveu 'A Besta Humana'"
+      ],
+      [
+        13,
+        "Encher o tanque outra vez"
+      ],
+      [
+        15,
+        "Formiga, na Filadélfia"
+      ],
+      [
+        16,
+        "Passo largo"
+      ],
+      [
+        17,
+        "Contribuir com o banco de leite"
+      ],
+      [
+        19,
+        "Revista humorística criada nos EUA"
+      ],
+      [
+        20,
+        "Aqueçam no forno"
+      ],
+      [
+        22,
+        "Reparam"
+      ],
+      [
+        26,
+        "___ model: profissional como Gisele Bündchen"
+      ],
+      [
+        28,
+        "Monte (a estrutura)"
+      ],
+      [
+        29,
+        "'Tudo bem com você?' (2 palavras)"
+      ],
+      [
+        33,
+        "Interjeição dos mineiros"
+      ],
+      [
+        34,
+        "Nutrindo com leite materno"
+      ],
+      [
+        36,
+        "Saciar a dúvida"
+      ],
+      [
+        37,
+        "Raça da Terra Média (Tolkien)"
+      ],
+      [
+        38,
+        "Odor vindo de um jardim florido"
+      ],
+      [
+        39,
+        "Demi ___, atuou em 'Feitiço do Rio'"
+      ]
+    ]
+  },
+  "empty": ":"
+}

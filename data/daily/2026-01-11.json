@@ -1,0 +1,473 @@
+{
+  "date": "2026-01-11",
+  "level": "daily",
+  "dimensions": {
+    "width": 11,
+    "height": 11
+  },
+  "puzzle": [
+    [
+      1,
+      2,
+      3,
+      4,
+      5,
+      "#",
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    [
+      11,
+      ":",
+      ":",
+      ":",
+      ":",
+      "#",
+      12,
+      ":",
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      13,
+      ":",
+      ":",
+      ":",
+      ":",
+      14,
+      ":",
+      ":",
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      15,
+      ":",
+      ":",
+      ":",
+      ":",
+      ":",
+      "#",
+      16,
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      17,
+      ":",
+      ":",
+      18,
+      "#",
+      19,
+      ":",
+      ":"
+    ],
+    [
+      20,
+      21,
+      22,
+      "#",
+      23,
+      ":",
+      ":",
+      "#",
+      24,
+      ":",
+      ":"
+    ],
+    [
+      25,
+      ":",
+      ":",
+      "#",
+      26,
+      ":",
+      ":",
+      27,
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      28,
+      ":",
+      ":",
+      29,
+      "#",
+      30,
+      ":",
+      ":",
+      31,
+      32,
+      33
+    ],
+    [
+      34,
+      ":",
+      ":",
+      ":",
+      35,
+      ":",
+      ":",
+      ":",
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      36,
+      ":",
+      ":",
+      ":",
+      ":",
+      "#",
+      37,
+      ":",
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      38,
+      ":",
+      ":",
+      ":",
+      ":",
+      "#",
+      39,
+      ":",
+      ":",
+      ":",
+      ":"
+    ]
+  ],
+  "solution": [
+    [
+      "A",
+      "T",
+      "R",
+      "A",
+      "S",
+      "#",
+      "F",
+      "R",
+      "A",
+      "S",
+      "E"
+    ],
+    [
+      "S",
+      "A",
+      "I",
+      "D",
+      "O",
+      "#",
+      "L",
+      "E",
+      "V",
+      "A",
+      "R"
+    ],
+    [
+      "I",
+      "N",
+      "F",
+      "O",
+      "R",
+      "M",
+      "A",
+      "T",
+      "I",
+      "C",
+      "A"
+    ],
+    [
+      "A",
+      "G",
+      "A",
+      "R",
+      "R",
+      "A",
+      "#",
+      "A",
+      "D",
+      "A",
+      "M"
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      "O",
+      "I",
+      "T",
+      "O",
+      "#",
+      "E",
+      "N",
+      "O"
+    ],
+    [
+      "A",
+      "R",
+      "T",
+      "#",
+      "S",
+      "U",
+      "L",
+      "#",
+      "Z",
+      "A",
+      "S"
+    ],
+    [
+      "T",
+      "E",
+      "O",
+      "#",
+      "O",
+      "R",
+      "A",
+      "L",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      "A",
+      "B",
+      "R",
+      "E",
+      "#",
+      "A",
+      "R",
+      "E",
+      "O",
+      "L",
+      "A"
+    ],
+    [
+      "C",
+      "O",
+      "N",
+      "S",
+      "T",
+      "R",
+      "I",
+      "N",
+      "G",
+      "I",
+      "R"
+    ],
+    [
+      "A",
+      "C",
+      "A",
+      "T",
+      "O",
+      "#",
+      "A",
+      "Ç",
+      "U",
+      "D",
+      "E"
+    ],
+    [
+      "M",
+      "O",
+      "R",
+      "A",
+      "M",
+      "#",
+      "S",
+      "O",
+      "M",
+      "O",
+      "S"
+    ]
+  ],
+  "clues": {
+    "Down": [
+      [
+        1,
+        "O continente do Kuwait e do Vietnã"
+      ],
+      [
+        2,
+        "Marca de refresco em pó"
+      ],
+      [
+        3,
+        "Forma de arrecadar fundos"
+      ],
+      [
+        4,
+        "Amo"
+      ],
+      [
+        5,
+        "Expressão alegre, boa para fotos"
+      ],
+      [
+        6,
+        "&quot;Mengão&quot; em placares de jogos"
+      ],
+      [
+        7,
+        "A estrada sem curvas"
+      ],
+      [
+        8,
+        "Desejo ardente"
+      ],
+      [
+        9,
+        "De mau caráter"
+      ],
+      [
+        10,
+        "Costumávamos ser"
+      ],
+      [
+        14,
+        "Amadurecer"
+      ],
+      [
+        18,
+        "Fábricas de tijolos e telhas"
+      ],
+      [
+        20,
+        "Agem de forma agressiva"
+      ],
+      [
+        21,
+        "Massa que reveste paredes"
+      ],
+      [
+        22,
+        "Regressar de onde saiu"
+      ],
+      [
+        27,
+        "Pano para assoar o nariz"
+      ],
+      [
+        29,
+        "___ a fim: quer"
+      ],
+      [
+        31,
+        "Orixá da guerra"
+      ],
+      [
+        32,
+        "Estudado (o livro)"
+      ],
+      [
+        33,
+        "Deus da guerra, filho de Hera"
+      ],
+      [
+        35,
+        "Vigor natural"
+      ]
+    ],
+    "Across": [
+      [
+        1,
+        "'Há 10 Mil Anos ___', álbum solo de Raul Seixas"
+      ],
+      [
+        6,
+        "Cada uma das partes de um texto"
+      ],
+      [
+        11,
+        "Afastado, ausente"
+      ],
+      [
+        12,
+        "Carregar consigo"
+      ],
+      [
+        13,
+        "Estudo de computadores e dados"
+      ],
+      [
+        15,
+        "Segura e não deixa soltar"
+      ],
+      [
+        16,
+        "___ Sandler, atuou no filme 'Gente Grande'"
+      ],
+      [
+        17,
+        "Número de lados de um octógono"
+      ],
+      [
+        19,
+        "Produto contra má digestão"
+      ],
+      [
+        20,
+        "___ déco, estilo surgido na Europa em 1910"
+      ],
+      [
+        23,
+        "Região de Foz do Iguaçu"
+      ],
+      [
+        24,
+        "Interjeição muito usada pelo Chaves"
+      ],
+      [
+        25,
+        "Prefixo que significa 'Deus'"
+      ],
+      [
+        26,
+        "Produzido na boca"
+      ],
+      [
+        28,
+        "Remove a tampa"
+      ],
+      [
+        30,
+        "Círculo em volta do mamilo"
+      ],
+      [
+        34,
+        "Fazer pressão"
+      ],
+      [
+        36,
+        "Obediência a uma ordem"
+      ],
+      [
+        37,
+        "Local com água represada"
+      ],
+      [
+        38,
+        "Residem em um lugar"
+      ],
+      [
+        39,
+        "'___ Tão Jovens', filme de 2013"
+      ]
+    ]
+  },
+  "empty": ":"
+}

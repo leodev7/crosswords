@@ -1,0 +1,465 @@
+{
+  "date": "2025-12-31",
+  "level": "daily",
+  "dimensions": {
+    "width": 11,
+    "height": 11
+  },
+  "puzzle": [
+    [
+      1,
+      2,
+      3,
+      4,
+      "#",
+      "#",
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    [
+      10,
+      ":",
+      ":",
+      ":",
+      11,
+      "#",
+      12,
+      ":",
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      13,
+      ":",
+      ":",
+      ":",
+      ":",
+      14,
+      ":",
+      ":",
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      15,
+      ":",
+      ":",
+      ":",
+      ":",
+      ":",
+      "#",
+      16,
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      17,
+      ":",
+      ":",
+      "#",
+      18,
+      ":",
+      19,
+      ":",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      20,
+      ":",
+      ":",
+      21,
+      ":",
+      ":",
+      ":",
+      ":",
+      22,
+      23,
+      24
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      25,
+      ":",
+      ":",
+      ":",
+      "#",
+      26,
+      ":",
+      ":"
+    ],
+    [
+      27,
+      28,
+      29,
+      ":",
+      "#",
+      30,
+      ":",
+      31,
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      32,
+      ":",
+      ":",
+      ":",
+      33,
+      ":",
+      ":",
+      ":",
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      34,
+      ":",
+      ":",
+      ":",
+      ":",
+      "#",
+      35,
+      ":",
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      36,
+      ":",
+      ":",
+      ":",
+      ":",
+      "#",
+      "#",
+      37,
+      ":",
+      ":",
+      ":"
+    ]
+  ],
+  "solution": [
+    [
+      "V",
+      "A",
+      "R",
+      "A",
+      "#",
+      "#",
+      "A",
+      "L",
+      "I",
+      "B",
+      "I"
+    ],
+    [
+      "A",
+      "L",
+      "A",
+      "G",
+      "A",
+      "#",
+      "P",
+      "A",
+      "G",
+      "O",
+      "S"
+    ],
+    [
+      "R",
+      "E",
+      "S",
+      "I",
+      "N",
+      "A",
+      "E",
+      "P",
+      "O",
+      "X",
+      "I"
+    ],
+    [
+      "I",
+      "N",
+      "G",
+      "R",
+      "I",
+      "D",
+      "#",
+      "T",
+      "R",
+      "E",
+      "S"
+    ],
+    [
+      "E",
+      "T",
+      "A",
+      "#",
+      "M",
+      "O",
+      "D",
+      "O",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      "M",
+      "A",
+      "R",
+      "C",
+      "A",
+      "R",
+      "E",
+      "P",
+      "O",
+      "C",
+      "A"
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      "O",
+      "L",
+      "A",
+      "S",
+      "#",
+      "S",
+      "O",
+      "R"
+    ],
+    [
+      "S",
+      "A",
+      "C",
+      "I",
+      "#",
+      "V",
+      "A",
+      "D",
+      "I",
+      "A",
+      "R"
+    ],
+    [
+      "O",
+      "V",
+      "O",
+      "S",
+      "F",
+      "A",
+      "B",
+      "E",
+      "R",
+      "G",
+      "E"
+    ],
+    [
+      "B",
+      "A",
+      "S",
+      "A",
+      "L",
+      "#",
+      "A",
+      "L",
+      "I",
+      "E",
+      "I"
+    ],
+    [
+      "E",
+      "L",
+      "I",
+      "S",
+      "A",
+      "#",
+      "#",
+      "I",
+      "S",
+      "M",
+      "O"
+    ]
+  ],
+  "clues": {
+    "Down": [
+      [
+        1,
+        "Flutuem (fig.)"
+      ],
+      [
+        2,
+        "Dá coragem"
+      ],
+      [
+        3,
+        "Abrir um vão"
+      ],
+      [
+        4,
+        "Entrar em campo"
+      ],
+      [
+        5,
+        "Sem veículo"
+      ],
+      [
+        6,
+        "Computador portátil (ing.)"
+      ],
+      [
+        7,
+        "Compositor Stravinski"
+      ],
+      [
+        8,
+        "Esporte de Emile Griffith"
+      ],
+      [
+        9,
+        "Deusa egípcia do casamento"
+      ],
+      [
+        11,
+        "Reino de camarões"
+      ],
+      [
+        14,
+        "Cultuava"
+      ],
+      [
+        19,
+        "Rui"
+      ],
+      [
+        21,
+        "'O Coração Das ___', livro de Leandro Karnal"
+      ],
+      [
+        22,
+        "Deus que foi a primeira múmia"
+      ],
+      [
+        23,
+        "Forçam"
+      ],
+      [
+        24,
+        "___ de Ouro, cantor de 'Cajueiro'"
+      ],
+      [
+        27,
+        "Alça-se"
+      ],
+      [
+        28,
+        "Garantia"
+      ],
+      [
+        29,
+        "Na Itália é assim"
+      ],
+      [
+        31,
+        "Megalópole da Índia"
+      ],
+      [
+        33,
+        "O time do Estádio da Gávea, em placares"
+      ]
+    ],
+    "Across": [
+      [
+        1,
+        "Grande número de porcos"
+      ],
+      [
+        5,
+        "Uma forma de defesa"
+      ],
+      [
+        10,
+        "Enche de água"
+      ],
+      [
+        12,
+        "Restituídos"
+      ],
+      [
+        13,
+        "Produto usado juntamente com um catalisador"
+      ],
+      [
+        15,
+        "___ Guimarães, atuou em 'Sangue Bom'"
+      ],
+      [
+        16,
+        "Número de estrelas na bandeira filipina"
+      ],
+      [
+        17,
+        "Sétima letra grega"
+      ],
+      [
+        18,
+        "Meio"
+      ],
+      [
+        20,
+        "Tornar-se notável"
+      ],
+      [
+        25,
+        "Ondulaciones esenciales para el surf"
+      ],
+      [
+        26,
+        "Forma de tratar madres"
+      ],
+      [
+        27,
+        "Mascote do Internacional"
+      ],
+      [
+        30,
+        "Viver na ociosidade"
+      ],
+      [
+        32,
+        "Joias para os czares russos"
+      ],
+      [
+        34,
+        "Situado na parte inferior de alguma coisa"
+      ],
+      [
+        35,
+        "Uni"
+      ],
+      [
+        36,
+        "Irmã de Napoleão"
+      ],
+      [
+        37,
+        "Sufixo usado com 'czar' e 'dual'"
+      ]
+    ]
+  },
+  "empty": ":"
+}

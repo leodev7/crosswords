@@ -1,0 +1,465 @@
+{
+  "date": "2026-01-12",
+  "level": "daily",
+  "dimensions": {
+    "width": 11,
+    "height": 11
+  },
+  "puzzle": [
+    [
+      1,
+      2,
+      3,
+      4,
+      5,
+      "#",
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    [
+      11,
+      ":",
+      ":",
+      ":",
+      ":",
+      "#",
+      12,
+      ":",
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      13,
+      ":",
+      ":",
+      ":",
+      ":",
+      "#",
+      14,
+      ":",
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      15,
+      ":",
+      ":",
+      ":",
+      ":",
+      16,
+      ":",
+      ":",
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      17,
+      ":",
+      ":",
+      "#",
+      18,
+      ":",
+      ":",
+      ":",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      19,
+      ":",
+      ":",
+      "#",
+      20,
+      ":",
+      ":",
+      "#",
+      21,
+      22,
+      23
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      24,
+      ":",
+      ":",
+      ":",
+      "#",
+      25,
+      ":",
+      ":"
+    ],
+    [
+      26,
+      27,
+      28,
+      ":",
+      ":",
+      ":",
+      ":",
+      29,
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      30,
+      ":",
+      ":",
+      ":",
+      ":",
+      "#",
+      31,
+      ":",
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      32,
+      ":",
+      ":",
+      ":",
+      ":",
+      "#",
+      33,
+      ":",
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      34,
+      ":",
+      ":",
+      ":",
+      ":",
+      "#",
+      35,
+      ":",
+      ":",
+      ":",
+      ":"
+    ]
+  ],
+  "solution": [
+    [
+      "G",
+      "R",
+      "A",
+      "V",
+      "A",
+      "#",
+      "F",
+      "E",
+      "R",
+      "O",
+      "Z"
+    ],
+    [
+      "R",
+      "E",
+      "P",
+      "O",
+      "R",
+      "#",
+      "A",
+      "P",
+      "A",
+      "R",
+      "E"
+    ],
+    [
+      "U",
+      "B",
+      "O",
+      "A",
+      "T",
+      "#",
+      "M",
+      "O",
+      "L",
+      "A",
+      "R"
+    ],
+    [
+      "P",
+      "A",
+      "D",
+      "R",
+      "E",
+      "C",
+      "I",
+      "C",
+      "E",
+      "R",
+      "O"
+    ],
+    [
+      "A",
+      "T",
+      "E",
+      "#",
+      "S",
+      "O",
+      "L",
+      "A",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      "L",
+      "E",
+      "S",
+      "#",
+      "A",
+      "L",
+      "I",
+      "#",
+      "A",
+      "T",
+      "O"
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      "U",
+      "N",
+      "H",
+      "A",
+      "#",
+      "R",
+      "E",
+      "S"
+    ],
+    [
+      "D",
+      "E",
+      "S",
+      "V",
+      "A",
+      "I",
+      "R",
+      "A",
+      "D",
+      "A",
+      "S"
+    ],
+    [
+      "O",
+      "R",
+      "K",
+      "U",
+      "T",
+      "#",
+      "E",
+      "L",
+      "I",
+      "T",
+      "E"
+    ],
+    [
+      "A",
+      "M",
+      "O",
+      "L",
+      "O",
+      "#",
+      "A",
+      "C",
+      "A",
+      "R",
+      "O"
+    ],
+    [
+      "M",
+      "O",
+      "L",
+      "A",
+      "S",
+      "#",
+      "L",
+      "E",
+      "M",
+      "O",
+      "S"
+    ]
+  ],
+  "clues": {
+    "Down": [
+      [
+        1,
+        "De um conjunto de pessoas"
+      ],
+      [
+        2,
+        "Detém um golpe"
+      ],
+      [
+        3,
+        "Sem pés (pl.)"
+      ],
+      [
+        4,
+        "Viajar pela LATAM"
+      ],
+      [
+        5,
+        "Trabalhos feitos com técnicas manuais"
+      ],
+      [
+        6,
+        "A portuguesa chegou ao Brasil em 1808 (2 palavras)"
+      ],
+      [
+        7,
+        "Período histórico"
+      ],
+      [
+        8,
+        "Plebe, gentinha"
+      ],
+      [
+        9,
+        "Pedir em uma prece"
+      ],
+      [
+        10,
+        "Nota da prova de quem errou tudo"
+      ],
+      [
+        16,
+        "Apanhei os frutos"
+      ],
+      [
+        21,
+        "Estavam em chamas"
+      ],
+      [
+        22,
+        "A arte dramática"
+      ],
+      [
+        23,
+        "Como a tíbia e o fêmur"
+      ],
+      [
+        24,
+        "Saliência na entrada da garganta"
+      ],
+      [
+        26,
+        "Oferecem de graça"
+      ],
+      [
+        27,
+        "Deserto"
+      ],
+      [
+        28,
+        "Opção à Brahma"
+      ],
+      [
+        29,
+        "O maior cervídeo"
+      ]
+    ],
+    "Across": [
+      [
+        1,
+        "Faz uma filmagem"
+      ],
+      [
+        6,
+        "Violento"
+      ],
+      [
+        11,
+        "Fazer uma devolução"
+      ],
+      [
+        12,
+        "Corte o que sobra"
+      ],
+      [
+        13,
+        "Submarino da 1a e da 2a Guerra"
+      ],
+      [
+        14,
+        "Dente que tritura"
+      ],
+      [
+        15,
+        "Importante religioso de Crato, Ceará (2 palavras)"
+      ],
+      [
+        17,
+        "'___ que a morte nos separe'"
+      ],
+      [
+        18,
+        "Onde fica o salto do sapato"
+      ],
+      [
+        19,
+        "Gibson ___ Paul, uma guitarra"
+      ],
+      [
+        20,
+        "Aquele lugar"
+      ],
+      [
+        21,
+        "Divisão da ópera"
+      ],
+      [
+        24,
+        "É lixada pela manicure"
+      ],
+      [
+        25,
+        "Parte do rebanho do pecuarista"
+      ],
+      [
+        26,
+        "Insensatas, desajuizadas"
+      ],
+      [
+        30,
+        "Antiga rede social do Google"
+      ],
+      [
+        31,
+        "A alta-roda"
+      ],
+      [
+        32,
+        "Afio"
+      ],
+      [
+        33,
+        "Animal microscópico que vive no pó"
+      ],
+      [
+        34,
+        "Peças no interior de colchões"
+      ],
+      [
+        35,
+        "Usamos o livro"
+      ]
+    ]
+  },
+  "empty": ":"
+}

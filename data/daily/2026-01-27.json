@@ -1,0 +1,449 @@
+{
+  "date": "2026-01-27",
+  "level": "daily",
+  "dimensions": {
+    "width": 11,
+    "height": 11
+  },
+  "puzzle": [
+    [
+      1,
+      2,
+      3,
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      4,
+      5,
+      6
+    ],
+    [
+      7,
+      ":",
+      ":",
+      8,
+      "#",
+      "#",
+      "#",
+      9,
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      10,
+      ":",
+      ":",
+      ":",
+      11,
+      "#",
+      12,
+      ":",
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      13,
+      ":",
+      ":",
+      ":",
+      ":",
+      14,
+      ":",
+      ":",
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      "#",
+      15,
+      ":",
+      ":",
+      ":",
+      ":",
+      ":",
+      ":",
+      ":",
+      ":",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      "#",
+      16,
+      ":",
+      ":",
+      "#",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      17,
+      18,
+      19,
+      ":",
+      ":",
+      ":",
+      20,
+      21,
+      22,
+      "#"
+    ],
+    [
+      23,
+      ":",
+      ":",
+      ":",
+      ":",
+      ":",
+      ":",
+      ":",
+      ":",
+      ":",
+      24
+    ],
+    [
+      25,
+      ":",
+      ":",
+      ":",
+      ":",
+      "#",
+      26,
+      ":",
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      27,
+      ":",
+      ":",
+      ":",
+      "#",
+      "#",
+      "#",
+      28,
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      29,
+      ":",
+      ":",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      30,
+      ":",
+      ":"
+    ]
+  ],
+  "solution": [
+    [
+      "B",
+      "O",
+      "B",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "V",
+      "I",
+      "R"
+    ],
+    [
+      "O",
+      "P",
+      "E",
+      "N",
+      "#",
+      "#",
+      "#",
+      "R",
+      "A",
+      "Ç",
+      "A"
+    ],
+    [
+      "B",
+      "E",
+      "B",
+      "U",
+      "M",
+      "#",
+      "S",
+      "E",
+      "C",
+      "A",
+      "R"
+    ],
+    [
+      "A",
+      "R",
+      "O",
+      "M",
+      "A",
+      "T",
+      "I",
+      "Z",
+      "A",
+      "D",
+      "O"
+    ],
+    [
+      "#",
+      "A",
+      "P",
+      "A",
+      "R",
+      "A",
+      "T",
+      "O",
+      "S",
+      "O",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      "#",
+      "C",
+      "R",
+      "U",
+      "#",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      "F",
+      "A",
+      "R",
+      "E",
+      "J",
+      "A",
+      "D",
+      "O",
+      "R",
+      "#"
+    ],
+    [
+      "S",
+      "I",
+      "M",
+      "U",
+      "L",
+      "A",
+      "D",
+      "O",
+      "R",
+      "E",
+      "S"
+    ],
+    [
+      "U",
+      "N",
+      "I",
+      "Ã",
+      "O",
+      "#",
+      "O",
+      "E",
+      "S",
+      "T",
+      "E"
+    ],
+    [
+      "V",
+      "A",
+      "G",
+      "O",
+      "#",
+      "#",
+      "#",
+      "M",
+      "O",
+      "R",
+      "T"
+    ],
+    [
+      "S",
+      "L",
+      "A",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "N",
+      "O",
+      "E"
+    ]
+  ],
+  "clues": {
+    "Down": [
+      [
+        1,
+        "Besta, pouco inteligente (fem.)"
+      ],
+      [
+        2,
+        "Drama musicado"
+      ],
+      [
+        3,
+        "Estilo de jazz criado em 1945"
+      ],
+      [
+        4,
+        "Animais com úberes"
+      ],
+      [
+        5,
+        "Guindado"
+      ],
+      [
+        6,
+        "O talento difícil de ser  encontrado"
+      ],
+      [
+        8,
+        "Ficar ___ boa: ficar tranquilo"
+      ],
+      [
+        9,
+        "Faço orações"
+      ],
+      [
+        11,
+        "'___, Marmelo, Martelo', obra de Ruth Rocha"
+      ],
+      [
+        12,
+        "Localizado"
+      ],
+      [
+        14,
+        "Faixa que contorna um objeto"
+      ],
+      [
+        17,
+        "Derradeiro, último"
+      ],
+      [
+        18,
+        "Hermione, para Harry Potter"
+      ],
+      [
+        19,
+        "Homem comum, plebeu"
+      ],
+      [
+        20,
+        "Causam sofrimento"
+      ],
+      [
+        21,
+        "___ Welles, diretor de cinema"
+      ],
+      [
+        22,
+        "Estilo que faz uso das coisas que eram moda no passado"
+      ],
+      [
+        23,
+        "Veículos como o Equinox e o HR-V"
+      ],
+      [
+        24,
+        "63 / 9"
+      ]
+    ],
+    "Across": [
+      [
+        1,
+        "___ Marley, cantor de 'Buffalo Soldier'"
+      ],
+      [
+        4,
+        "Chegar"
+      ],
+      [
+        7,
+        "Competição na qual amadores e profissionais podem participar"
+      ],
+      [
+        9,
+        "Diferença entre cães"
+      ],
+      [
+        10,
+        "Pé de cana, pinguço (gíria)"
+      ],
+      [
+        12,
+        "Remover a umidade"
+      ],
+      [
+        13,
+        "Com cheiro agradável"
+      ],
+      [
+        15,
+        "Muito ornamentado"
+      ],
+      [
+        16,
+        "Ainda não cozido"
+      ],
+      [
+        17,
+        "Cão usado em buscas"
+      ],
+      [
+        23,
+        "Programas que replicam ambientes reais"
+      ],
+      [
+        25,
+        "___ Europeia, bloco econômico"
+      ],
+      [
+        26,
+        "Ponto do horizonte onde o sol se põe"
+      ],
+      [
+        27,
+        "Vazio (o espaço)"
+      ],
+      [
+        28,
+        "Ed ___, detetive da literatura"
+      ],
+      [
+        29,
+        "Sei lá, em chats"
+      ],
+      [
+        30,
+        "Patriarca que viveu 350 anos após o dilúvio"
+      ]
+    ]
+  },
+  "empty": ":"
+}

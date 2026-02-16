@@ -1,0 +1,465 @@
+{
+  "date": "2026-02-16",
+  "level": "daily",
+  "dimensions": {
+    "width": 11,
+    "height": 11
+  },
+  "puzzle": [
+    [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      "#",
+      7,
+      8,
+      9,
+      10
+    ],
+    [
+      11,
+      ":",
+      ":",
+      ":",
+      ":",
+      ":",
+      "#",
+      12,
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      13,
+      ":",
+      ":",
+      ":",
+      ":",
+      ":",
+      14,
+      ":",
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      15,
+      ":",
+      ":",
+      ":",
+      "#",
+      16,
+      ":",
+      ":",
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      17,
+      ":",
+      ":",
+      "#",
+      18,
+      ":",
+      ":",
+      ":",
+      ":",
+      ":",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      19,
+      ":",
+      ":",
+      ":",
+      ":",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      20,
+      21,
+      ":",
+      ":",
+      ":",
+      ":",
+      "#",
+      22,
+      23,
+      24
+    ],
+    [
+      25,
+      ":",
+      ":",
+      ":",
+      ":",
+      ":",
+      "#",
+      26,
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      27,
+      ":",
+      ":",
+      ":",
+      ":",
+      ":",
+      28,
+      ":",
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      29,
+      ":",
+      ":",
+      ":",
+      "#",
+      30,
+      ":",
+      ":",
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      31,
+      ":",
+      ":",
+      ":",
+      "#",
+      32,
+      ":",
+      ":",
+      ":",
+      ":",
+      ":"
+    ]
+  ],
+  "solution": [
+    [
+      "F",
+      "I",
+      "L",
+      "M",
+      "E",
+      "B",
+      "#",
+      "A",
+      "L",
+      "C",
+      "E"
+    ],
+    [
+      "O",
+      "C",
+      "I",
+      "O",
+      "S",
+      "A",
+      "#",
+      "T",
+      "E",
+      "O",
+      "R"
+    ],
+    [
+      "C",
+      "O",
+      "N",
+      "F",
+      "O",
+      "R",
+      "M",
+      "I",
+      "S",
+      "M",
+      "O"
+    ],
+    [
+      "A",
+      "N",
+      "D",
+      "O",
+      "#",
+      "R",
+      "I",
+      "V",
+      "A",
+      "I",
+      "S"
+    ],
+    [
+      "S",
+      "E",
+      "A",
+      "#",
+      "P",
+      "A",
+      "L",
+      "O",
+      "M",
+      "A",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      "M",
+      "A",
+      "P",
+      "A",
+      "S",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      "U",
+      "S",
+      "O",
+      "P",
+      "E",
+      "N",
+      "#",
+      "F",
+      "A",
+      "T"
+    ],
+    [
+      "A",
+      "M",
+      "A",
+      "D",
+      "A",
+      "S",
+      "#",
+      "L",
+      "A",
+      "C",
+      "E"
+    ],
+    [
+      "P",
+      "A",
+      "N",
+      "E",
+      "L",
+      "A",
+      "V",
+      "E",
+      "L",
+      "H",
+      "A"
+    ],
+    [
+      "O",
+      "M",
+      "A",
+      "R",
+      "#",
+      "D",
+      "E",
+      "V",
+      "I",
+      "A",
+      "M"
+    ],
+    [
+      "R",
+      "I",
+      "M",
+      "A",
+      "#",
+      "A",
+      "M",
+      "A",
+      "R",
+      "R",
+      "O"
+    ]
+  ],
+  "clues": {
+    "Down": [
+      [
+        1,
+        "Presas do urso-polar"
+      ],
+      [
+        2,
+        "Coisa emblemática"
+      ],
+      [
+        3,
+        "Formosa"
+      ],
+      [
+        4,
+        "Sinal de deterioração em alimentos"
+      ],
+      [
+        5,
+        "Isso, em espanhol"
+      ],
+      [
+        6,
+        "Gíria para uma coisa perigosa (2 palavras)"
+      ],
+      [
+        7,
+        "Os vulcões que podem entrar em erupção"
+      ],
+      [
+        8,
+        "Causam ferimentos"
+      ],
+      [
+        9,
+        "Omitia (letras)"
+      ],
+      [
+        10,
+        "Deus casado com Psiquê"
+      ],
+      [
+        14,
+        "Rival do Juventus e da Inter"
+      ],
+      [
+        18,
+        "Do chefe supremo da Igreja Católica"
+      ],
+      [
+        19,
+        "Controla"
+      ],
+      [
+        20,
+        "5º gosto básico do paladar"
+      ],
+      [
+        21,
+        "Reparam (os erros)"
+      ],
+      [
+        22,
+        "Quebrar (a empresa)"
+      ],
+      [
+        23,
+        "Descobrir"
+      ],
+      [
+        24,
+        "Frase do apaixonado (pop.) (2 palavras)"
+      ],
+      [
+        25,
+        "Juntar (uma coisa à outra)"
+      ],
+      [
+        26,
+        "Conduz"
+      ],
+      [
+        28,
+        "'Há males que ___ para bem'"
+      ]
+    ],
+    "Across": [
+      [
+        1,
+        "Produção cinematográfica de baixa qualidade (2 palavras)"
+      ],
+      [
+        7,
+        "Animal da família do veado"
+      ],
+      [
+        11,
+        "Inativa, desocupada"
+      ],
+      [
+        12,
+        "Proporção na mistura"
+      ],
+      [
+        13,
+        "Tendência a aceitar sem questionar"
+      ],
+      [
+        15,
+        "Vou caminhando"
+      ],
+      [
+        16,
+        "O Vasco e o Botafogo, para o Flamengo"
+      ],
+      [
+        17,
+        "Mar, em inglês"
+      ],
+      [
+        18,
+        "Pomba, em espanhol"
+      ],
+      [
+        19,
+        "___ mentais: diagramas usados no aprendizado"
+      ],
+      [
+        20,
+        "Torneio de tênis dos EUA (2 palavras)"
+      ],
+      [
+        22,
+        "Gordura, em inglês"
+      ],
+      [
+        25,
+        "Queridas"
+      ],
+      [
+        26,
+        "Ate, aperte"
+      ],
+      [
+        27,
+        "Sucesso de Sérgio Reis (2 palavras)"
+      ],
+      [
+        29,
+        "Don ___, cantor de Porto Rico"
+      ],
+      [
+        30,
+        "Tinham dívidas"
+      ],
+      [
+        31,
+        "Combinação do final das palavras"
+      ],
+      [
+        32,
+        "Dou um nó"
+      ]
+    ]
+  },
+  "empty": ":"
+}

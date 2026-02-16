@@ -1,0 +1,473 @@
+{
+  "date": "2026-01-20",
+  "level": "daily",
+  "dimensions": {
+    "width": 11,
+    "height": 11
+  },
+  "puzzle": [
+    [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      "#",
+      7,
+      8,
+      9,
+      10
+    ],
+    [
+      11,
+      ":",
+      ":",
+      ":",
+      ":",
+      ":",
+      "#",
+      12,
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      13,
+      ":",
+      ":",
+      ":",
+      ":",
+      ":",
+      "#",
+      14,
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      15,
+      ":",
+      ":",
+      ":",
+      ":",
+      "#",
+      16,
+      ":",
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      17,
+      ":",
+      ":",
+      "#",
+      18,
+      19,
+      ":",
+      ":",
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      20,
+      ":",
+      ":",
+      ":",
+      ":",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      21,
+      22,
+      23,
+      ":",
+      ":",
+      ":",
+      ":",
+      "#",
+      24,
+      25,
+      26
+    ],
+    [
+      27,
+      ":",
+      ":",
+      ":",
+      ":",
+      "#",
+      28,
+      29,
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      30,
+      ":",
+      ":",
+      ":",
+      "#",
+      31,
+      ":",
+      ":",
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      32,
+      ":",
+      ":",
+      ":",
+      "#",
+      33,
+      ":",
+      ":",
+      ":",
+      ":",
+      ":"
+    ],
+    [
+      34,
+      ":",
+      ":",
+      ":",
+      "#",
+      35,
+      ":",
+      ":",
+      ":",
+      ":",
+      ":"
+    ]
+  ],
+  "solution": [
+    [
+      "T",
+      "A",
+      "B",
+      "U",
+      "L",
+      "E",
+      "#",
+      "O",
+      "V",
+      "N",
+      "I"
+    ],
+    [
+      "A",
+      "B",
+      "R",
+      "I",
+      "A",
+      "M",
+      "#",
+      "B",
+      "I",
+      "O",
+      "S"
+    ],
+    [
+      "L",
+      "O",
+      "U",
+      "V",
+      "R",
+      "E",
+      "#",
+      "T",
+      "U",
+      "B",
+      "O"
+    ],
+    [
+      "E",
+      "N",
+      "T",
+      "O",
+      "A",
+      "#",
+      "C",
+      "I",
+      "V",
+      "I",
+      "L"
+    ],
+    [
+      "S",
+      "O",
+      "A",
+      "#",
+      "P",
+      "I",
+      "E",
+      "D",
+      "O",
+      "S",
+      "A"
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      "P",
+      "I",
+      "O",
+      "R",
+      "A",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      "R",
+      "O",
+      "N",
+      "R",
+      "O",
+      "N",
+      "A",
+      "#",
+      "A",
+      "P",
+      "P"
+    ],
+    [
+      "A",
+      "R",
+      "I",
+      "E",
+      "S",
+      "#",
+      "M",
+      "E",
+      "T",
+      "R",
+      "O"
+    ],
+    [
+      "B",
+      "A",
+      "N",
+      "D",
+      "#",
+      "V",
+      "I",
+      "G",
+      "I",
+      "A",
+      "S"
+    ],
+    [
+      "A",
+      "V",
+      "A",
+      "I",
+      "#",
+      "A",
+      "C",
+      "O",
+      "R",
+      "D",
+      "A"
+    ],
+    [
+      "T",
+      "A",
+      "R",
+      "O",
+      "#",
+      "R",
+      "O",
+      "S",
+      "E",
+      "A",
+      "R"
+    ]
+  ],
+  "clues": {
+    "Down": [
+      [
+        1,
+        "___ de Mileto: é considerado o 1º filósofo"
+      ],
+      [
+        2,
+        "Ajuda financeira"
+      ],
+      [
+        3,
+        "Violenta, muito rude"
+      ],
+      [
+        4,
+        "Grito do lobo"
+      ],
+      [
+        5,
+        "Ladrões, bandidos"
+      ],
+      [
+        6,
+        "O início de 'março'"
+      ],
+      [
+        7,
+        "Conseguida"
+      ],
+      [
+        8,
+        "Homem cuja esposa faleceu"
+      ],
+      [
+        9,
+        "Ora-pro-___, planta cactácea"
+      ],
+      [
+        10,
+        "Chuta a bola para fora do campo (gíria)"
+      ],
+      [
+        16,
+        "O porcelanato, por sua constituição"
+      ],
+      [
+        19,
+        "Átomo eletrizado"
+      ],
+      [
+        20,
+        "Construção com vários andares"
+      ],
+      [
+        21,
+        "Porto e capital do Marrocos"
+      ],
+      [
+        22,
+        "Rezava a Deus"
+      ],
+      [
+        23,
+        "Fazer a criança adormecer"
+      ],
+      [
+        24,
+        "Jogue"
+      ],
+      [
+        25,
+        "Marca italiana de bolsas, malas, sapatos etc."
+      ],
+      [
+        26,
+        "Ficar parado para a foto"
+      ],
+      [
+        29,
+        "Núcleo da personalidade de alguém (pl.)"
+      ],
+      [
+        31,
+        "Auxílio para o juiz de futebol"
+      ]
+    ],
+    "Across": [
+      [
+        1,
+        "Salada da cozinha libanesa"
+      ],
+      [
+        7,
+        "Alvo de debates entre ufologistas"
+      ],
+      [
+        11,
+        "Destapavam"
+      ],
+      [
+        12,
+        "Sistema básico do computador"
+      ],
+      [
+        13,
+        "Lar da 'Mona Lisa'"
+      ],
+      [
+        14,
+        "Estrutura por onde passam gases ou líquidos"
+      ],
+      [
+        15,
+        "Enuncia em voz alta"
+      ],
+      [
+        16,
+        "Relativo ao cidadão"
+      ],
+      [
+        17,
+        "Produz ruído"
+      ],
+      [
+        18,
+        "Cheia de misericórdia"
+      ],
+      [
+        20,
+        "Mudança não desejada pelo doente"
+      ],
+      [
+        21,
+        "Faz um ruído mostrando que está contente (o gato)"
+      ],
+      [
+        24,
+        "O TikTok é um (ing.)"
+      ],
+      [
+        27,
+        "Signo do final de março"
+      ],
+      [
+        28,
+        "Transporte coletivo subterrâneo"
+      ],
+      [
+        30,
+        "Opção ao SBT"
+      ],
+      [
+        31,
+        "Sentinelas"
+      ],
+      [
+        32,
+        "Clube de futebol catarinense"
+      ],
+      [
+        33,
+        "Desperta do sono"
+      ],
+      [
+        34,
+        "Baralho esotérico"
+      ],
+      [
+        35,
+        "___-se: ficar corado"
+      ]
+    ]
+  },
+  "empty": ":"
+}
