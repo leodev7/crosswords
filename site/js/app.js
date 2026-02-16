@@ -39,17 +39,7 @@ let timer = null;
 let cluesPanel = null;
 let availableIndexes = {};
 
-// Base path: detect if we're inside site/ or at root
-const DATA_BASE = detectDataBase();
-function detectDataBase() {
-  const path = window.location.pathname;
-  // If serving from /site/index.html or /site/, data is at ../data/
-  if (path.includes('/site/') || path.endsWith('/site')) {
-    return '../data';
-  }
-  // If serving from root with site as subdir, data is at ./data/
-  return './data';
-}
+const DATA_BASE = '../data';
 
 // --- Data loading ---
 async function loadIndex(level) {
