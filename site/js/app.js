@@ -66,11 +66,28 @@ async function loadPuzzle(level, date) {
 }
 
 // --- Theme ---
+const THEME_KEY = 'crosswords_theme';
+const themeBtn = document.getElementById('theme-btn');
+
+function getEffectiveTheme() {
+  const saved = localStorage.getItem(THEME_KEY);
+  if (saved) return saved;
+  return window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
+}
+
+function applyTheme(theme) {
+  document.documentElement.className = theme;
+  themeBtn.innerHTML = theme === 'dark' ? '&#9788;' : '&#9790;';
+  themeBtn.title = theme === 'dark' ? 'Tema claro' : 'Tema escuro';
+}
+
 function initTheme() {
-  const saved = localStorage.getItem('crosswords_theme');
-  if (saved) {
-    document.documentElement.className = saved;
-  }
+  applyTheme(getEffectiveTheme());
+  themeBtn.addEventListener('click', () => {
+    const next = getEffectiveTheme() === 'dark' ? 'light' : 'dark';
+    localStorage.setItem(THEME_KEY, next);
+    applyTheme(next);
+  });
 }
 
 // --- Init puzzle ---
