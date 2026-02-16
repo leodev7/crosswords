@@ -254,10 +254,13 @@ main {
   min-width: 0;
   max-height: calc(100vh - 120px);
   overflow-y: auto;
+  display: flex;
+  gap: 24px;
 }
 
 .clues-section {
-  margin-bottom: 20px;
+  flex: 1;
+  min-width: 0;
 }
 
 .clues-header {
@@ -423,6 +426,8 @@ main {
 
   .clues-panel {
     max-height: none;
+    flex-direction: column;
+    gap: 16px;
   }
 
   .clues-section.collapsed .clues-list {
